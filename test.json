@@ -1,0 +1,1163 @@
+[
+  {
+    "name": "Nhà Hàng Hải Sản Ngon",
+    "created_at": "2025-12-18 10:39:05",
+    "updated_at": "2025-12-18 10:39:05",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOpmZ1iQTpElFTJKJPgHSAN_ZsPUOS_f2E_GKDI=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipOpmZ1iQTpElFTJKJPgHSAN_ZsPUOS_f2E_GKDI=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 946 356 688 để biết thêm chi tiết về chính sách của Nhà Hàng Hải Sản Ngon.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "Khu đô thị Sông Hồng Thủ Đô",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 946 356 688",
+    "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+H%E1%BA%A3i+S%E1%BA%A3n+Ngon/data=!4m7!3m6!1s0x3134fbba341e7941:0xaafd028c33bb4713!8m2!3d21.2882796!4d105.6197496!16s%2Fg%2F11m7btxcv7!19sChIJQXkeNLr7NDERE0e7M4wC_ao?authuser=0&hl=en&rclk=1",
+    "rating": "4.1",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.2882796,
+      "Longitude": 105.6197496
+    },
+    "website": "https://support.google.com/local-listingsphow_google_sourcesauthuser0hlen",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "08:00",
+          "end_time": "22:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 1
+  },
+  {
+    "name": "Thế Giới Hải Sản - 36 Điện Biên Phủ",
+    "created_at": "2025-12-18 10:39:09",
+    "updated_at": "2025-12-18 10:39:09",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipN6HFxZUzi9PmvG9L9WfDDTWm6cdeq1mgb4D4w=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipN6HFxZUzi9PmvG9L9WfDDTWm6cdeq1mgb4D4w=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 1900 636061 để biết thêm chi tiết về chính sách của Thế Giới Hải Sản - 36 Điện Biên Phủ.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "36 Điện Biên Phủ",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 1900 636061",
+    "google_map_link": "https://www.google.com/maps/place/Th%E1%BA%BF+Gi%E1%BB%9Bi+H%E1%BA%A3i+S%E1%BA%A3n+-+36+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7/data=!4m7!3m6!1s0x3135ab3183771055:0xf60873f2da441214!8m2!3d21.0342204!4d105.8380208!16s%2Fg%2F11s21jbhrl!19sChIJVRB3gzGrNTERFBJE2vJzCPY?authuser=0&hl=en&rclk=1",
+    "rating": "4.7",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0342204,
+      "Longitude": 105.8380208
+    },
+    "website": "",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "08:00",
+          "end_time": "22:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 2
+  },
+  {
+    "name": "Nhà hàng 1946 Cửa Bắc",
+    "created_at": "2025-12-18 10:39:02",
+    "updated_at": "2025-12-18 10:39:02",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOQWPcE2xwpD_PgG_lJ3_MAuqLHGzfscYhHMljD=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipOQWPcE2xwpD_PgG_lJ3_MAuqLHGzfscYhHMljD=w32-h32-p-k-no",
+    "intro": "Serves dine-in, Has drive-through, Has no-contact delivery",
+    "policy": "Khách hàng vui lòng liên hệ 84 909 661 946 để biết thêm chi tiết về chính sách của Nhà hàng 1946 Cửa Bắc.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "Ngõ 3",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 909 661 946",
+    "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+1946+C%E1%BB%ADa+B%E1%BA%AFc/data=!4m7!3m6!1s0x3135abb076294b95:0x90688acb5ee387b0!8m2!3d21.042942!4d105.8428883!16s%2Fg%2F11bc7r9t9_!19sChIJlUspdrCrNTERsIfjXsuKaJA?authuser=0&hl=en&rclk=1",
+    "rating": "4.0",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "200300K",
+    "amenities": [
+      "Serves dine-in",
+      "Has drive-through",
+      "Has no-contact delivery"
+    ],
+    "location": {
+      "Latitude": 21.042942,
+      "Longitude": 105.8428883
+    },
+    "website": "http://1946.vn/menu",
+    "images": [
+      {
+        "name": "Photo 1 of 12",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMZTtpBt_kBDPIcE_iQE-YQGxkynzKy5QRXSuZx",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Photo 2 of 12",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN3GhupxtoQRpNYfSp6J-awhPEIHR4xQYxt-w48",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Photo 3 of 12",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOLx1nsYMNvreiZ59yXh2Tf9imtgKYjFydU67ak",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Photo 4 of 12",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNFNRdsvd8PlJbspAYpgaU7sEYjU7Lk2h9lWeZl",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Deep Fried Crab with Betal Leave with Chilli and Lime Sauce",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwZL99xh1OPdw5P_MJ0L_Ry1prkz3clBXkHAtX77P1eHImoaIXRqRG-LdiJJyPK2Jbv5qEl3EZ8i6KU2WbYnzVYivqpgwj-CsBHBhPiMNdkm2TMyqJWzZmOZ2a0VzGsugAGBWsH",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Fish",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwZOdFCz0k_Qgd_fGmqlNYj-oNch62-v3jU3RGXGLOgqWymv_GoK5wSXXoeRPoWnQewUuy7noeWJN9uQT5yVtZjGFxwJ6Vd7zosSnaIK0iTH2qV7kwhR2dJTZZA6_niTn8mslWdYg",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Banaflower Salad with Beef",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy66oOJFfz1f62r2Ub5NzSiZSiKX_QeAFwUfObIvE9buUgTTido9X0Jbzjr9tH2-SBdcipDCiyow7S_12LRIomP7i1ic2Q3S3MxuGi5L05hFpo7DClxirK8h0cK_QN3EJTgYDNZ",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Pork",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw9cyy-IHqiSPW5ZVEARtxsy8hLWqlB4PWHcl85LE_24MhkkMVJQytmGRSICxa4vkaAwCBgPM1qqFuVoj8UY733B-ls5IZnhrJftZyvKGOUxSL7fGnExOXuZ9MMA5Wquzj0kLZK",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Chả Ốc",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwOZgfZQPG67GKW-zWmyBChQP7aafyhnf1Y1JmZaTJ4ATkJ_81-2fahdM_7PzRZdLL6D9GEWhJ8U9ApnhfYYQLO57iLS-X74hV_cFHsTVXR8EMqAPdHTAG1hoQuseb1w_lCz_ua4Q",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Phong Cách Cổ",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxpJzwcgJMN68Sgx3KnvMNs4zqci9wIWNR5EB7jjyndOpnFBK3ImCnfS4G2ePfleFgUER0Bc9RfIYS529TrCECzEEWar_BO6_SgHll_YW-W--10NlohNPl83qIwQlUzYGzTG3j4",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Soup",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx6oYKhh1nrzzLzBFOAYxpd0j5Eo2yV8zCncASPb66JyL7fMB1FQsAJPL5Lqsy2oOU60LLNF2klguvKP0Jj4T273oChWj6Jp-DqFDuoKYAK0sWSI7Wj1wgdfSrz269U0w_6XKLChA",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Tofu",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzidFDFLIjZ4T56TSe8VPScQT6ZL4_kBe_39Ab2UL5LfbfB4HXi26sz3ZP_vdZMJ6lphXH2Izq5YkJhWh9liVGry-8oVtT3dKgU4FJ6tNx1njdh9jBFSk2UYJORtpJ5OEhos5M",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Crab Congee",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyMzVi1q2-NOA8ScjmTCAr-vfwY5WaQ7ITMR4Q7Kan7fJ-EXOM6EnTFB9zwtxYdeBuww3nKW5ou1OXDmp4HK76Cmkz1EeFZf0hk4cllQLRF9syg0HYWRjCJn5XnBr6LyZuMGIE2NQ",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Steamed Young Chicken on Lotus Leaf",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSydlFOlQe92uGsrYuRC10Ut3k6-cEfi73IQWKhEPxx330dq0kFJTUA-a6jXyfsEOq3qD-VqcEiSBieYgL_aW2HinaH0-oBjyc0hJeycK9EaTuBnQ-VQXSW2jyZP4zVLt7B70ZC5",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Crab Rice Congee",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtC8JziW9ad0HsvWxXFfBCk5ggrXG0hiUV-Fkiyfxd4JuZfewMGS8vjdNPp143BsBXyH2NdtA91RrYWbjCRRTX25SbqlpGf9S_mmlxBFs5E8F3tJ8toLkxqo2nzP2UhcmcolHR",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Cá Trình Nướng",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwxrMucH6zUxFSTTaQrUTF0FoNaLH7k9laHN8xbhdxrK_g7QuD8bpPIdx8ENwU3b57_PKDHqVA42N2jWUkYkKs_-VcK_wUEgfMqlXvmDb_FGySfl_nIYwvrhMNc6X5UOxOXKjKAog",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Cá Chìa Vôi Nướng",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz39yVJxIz486TpSE3KHkn1Df1fBPwFgea0X7UiWwfYCo7dowivt9uRyO_GPigdZczAMqXKeQbMDlKGDc8yluIIA6CW5HIbpR0nj1ro-9M70mIk2SeiqDEsRQkTmCuSTh7S2c7_lA",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Hoa Thiên Lý Xào",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxVf8THjVMVxCvb-Z905Y7oAHZzrg_K41NnAKVwSy9uLx8n3-Al8Ux1LqnX0RW1gqKoN-32-4TCKjob6wD35i_Ba5azvap62ClvLfuDBPZemxUsu0xcaP_GJ-HdF7n_Ezv4apHD",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Thịt Rang Cháy Cạnh",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzEfBOWv7GBbqS70KyY4qfh7sxi0MUuFqXxnkqamhvKxjXfwUJ-Q_uLrTzI4LrgIDZFXV-Wlp26Ob4P8eW9N333Ia4I9hG96ew38YdjQvVZ5qpDJPDUv75MijNIthHISEPSEdb5",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Trà Dứa",
+        "price": null,
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwqLG_tifIdY1D6ibjUeoXkf3DprwcXq_aRXHciivHKs1t6IkpKZ-lwBvxNunXv2DmMYmIPYKMjkyGYKCJx9hgqFFwS07yMGzvDIpXGSoNsWa89qsccm-MqnYh2u3wVuLkHMA28",
+        "description": null,
+        "source_type": "photo_menu"
+      },
+      {
+        "name": "Deep Fried Crab with Betal Leave w...",
+        "price": "",
+        "image": null,
+        "description": null,
+        "source_type": "text_menu"
+      }
+    ],
+    "reviews": [
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRlVGODJXVzloWkdFNGVsRlNMV0ZRUmxaSFptYxAB",
+        "author_name": "Nadia Santoso",
+        "author_info": "Local Guide · 33 reviews · 32 photos",
+        "rating": "4",
+        "date": "2 weeks ago",
+        "content": "Food was delicious! But service was average, considering this is a Michelin listed restaurant? It was super quiet with only one waiter serving us, felt service could be improved. Food portion was quite big.",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38uWOd5rbvMgyJlDB7wSfJk8ZhTnDLtNpOM9aHmQDCOCOBcQbBnVyu6IVbJ3JYGj-hLnra1hPF7fZJMKFBBNauPBYXaQdAQhvBtIklnSZJHDvepRloo9hNxNZY6SSDaGjlUSj-uC7vjM6_L5",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38sP4HTMfCuB-4UcoLpDF-cKz0vjwHmXuaCOwFejZviosKv1pjz3RvQ2nj3qsJOSuEAhf1xCawnjUSJazGYn-byM5PUgzy80n9o7h7uJhiLUUEezzs3W75eK8-kFWo3F1V_8neH65dkBLgk",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tIKCXVcSgyfgOO01pFbVcqspahqJHKeuv-lHi6I7UrAzScwMmzPCt1-xWxm4zbIO9tdBgZrE_a_T8fDpao7i6ZPC_9x-8c3c-3QX_9kQVT5WQ2SIVIoJEwJ3Jt7SAZx-VgGUVNwYWzkqM"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUa-KNr0gE3-Iy4tA1YstX1Cp0o9o5Auqz5jNJ64gqFVlwi6kDmxQ",
+        "author_link": "https://www.google.com/maps/contrib/110993047721322481173/reviews?hl=en"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGQ2NVZGxkemRhWXpGdWNXZFVjVmRxY1dKc1pWRRAB",
+        "author_name": "Ly Hoàng Thị Cẩm",
+        "author_info": "Local Guide · 2 reviews · 18 photos",
+        "rating": "5",
+        "date": "2 months ago",
+        "content": "1. The food is so delicious and tasty, not too spicy or salty or sour. Everything is just enough and nice to me …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vmzg8PE6Gst-Svzwvt7Dyrr4JqcmXH0y4t6DSQRq8xGB9eTzgaSFhWsxbRygZ1ScOZbL-xvuGoh-LHolfr8a5oNRCOhz8XorVJIb0is5Wypkv44RQz7YI1vs-razH2WuTSDpIYqWdbqaxr",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38uQiAzdlJFNVKNlKH79o3a0N0rxOjICJugngafQ0XKr2VxEMYj1Za-iSUm2dPf0C_WcXoYrAoP1XEIkIfyE39bX3S7P7WNWs7lGaHfjSEfV2qw647jC6MBOHSuPjZfaDdzZQqBTwLt9pNcK",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38seoCn4VukWZPYE_JapyJ0Ox-0iddjfGAjdElGrt4DbeLnHE_yA-4dqdzPrtdSyUHZ56RVKJeInJxXJEEoOoL_yvVAKeE14DNk259C4Ly-eJo78pzw4to4xO4p6w-WpGSh_LZzGMpc-V-XF"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVJb5KWfZUVpPI4E62SjPgjKDLO_mBZeGMa3-nIqtKc6W190hZd",
+        "author_link": "https://www.google.com/maps/contrib/115018296169009627618/reviews?hl=en"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeFNFRmpkMFo0VjFSbVVYZ3dUR3d3Tkdka1VsRRAB",
+        "author_name": "Murray Travel Company",
+        "author_info": "1 review · 11 photos",
+        "rating": "1",
+        "date": "a month ago",
+        "content": "Absolute disgusting. Don’t know who they paid to get Michelin Recomended. Not going to eat raw pork fat in a spring roll that you have to roll yourself. The only appealing thing on the menu was pork ribs which they didn’t have. The …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tpEf4t0Eqo29pnJF3klq4zFxIXyJH9lveGnY9arQjzGQDkCiKXJamkn-OtjlPIIbsNXkUjmDznhFZSnoj8UlmbSH-3qVN-sMKnrgIaFRM6YZA6qaZYsGEoL29S8LUy3GD764hHL9YudDtF",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vJkBn_pmSut0G9IFfaUB3YkOJPnYBkH3m8gzvrIoRcZ7cud4QtjrzLRGWQWTdqBgj2i_IEhRIA2mTUx-Uy8yE7CMPs1urWW7XKUB0DGkBVGgDkidm9StHFW6CHai1ZIYo0ATCJvVPUFjP2",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38ul41qd4V7oPIgHD5fBC5cMDD4Leep95TwvKVN3z0HS8ugXmlEUyuDZAu4Omf7aqMijdx3riwYw488Gz2yb-2IIHSQtGk6Up1jUIEgeDj_qkj2xQAV3Tzki46OkDt-GPZolBHra8xbeD7s",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vYEmTWifxXJXUi07Y0UGsphVpbcWTlJlJ4cqIoA9GQfsowfnZhd8Sw9St-hYtitmjvqjtTow7DZeCwWDdsZGTGISeH_ChKKC6GOxMcMV_3V2kjeC8FBRQbF5K9yvoju6uAFo7CGq8Ln622"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXYhU14FWNgShO2d7m66m2qekgB1qMibYnDYiK8lZP10Sv98gw",
+        "author_link": "https://www.google.com/maps/contrib/102498374371252998233/reviews?hl=en"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5YWFXY3pSVVprYUZwTldGVjBRazFVU1V0T2FtYxAB",
+        "author_name": "Kirk Sargent",
+        "author_info": "Local Guide · 13 reviews · 13 photos",
+        "rating": "5",
+        "date": "5 months ago",
+        "content": "We were staying just around the corner and jumped at the chance to drop in. Despite not having a booking, the team kindly found us a spot – no small feat given it was a bustling Tuesday lunch with both upstairs and downstairs packed. …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38sdfPRMC181pAMtd2BDxGbxf71gVDbsXVRahJAE7B8eD_CWuefDFMYgmocxbzGP2TprkZ74mR8pSOYe1zyQW95aoaxzAfVscCKtYVphQbgairmQLnHmudnqnrHsCrUgargIOYMx29BXI3Xy",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vU0t4c88TUtJchaWAmLvRmnj5a4Jee416RK3qj78DQ2LqASToVst_TOA7_n0bSatpriKNjMIgVV5z5A_6aHaZqCzMpktdA34eHOUNGFaas0_1U1EBT83-PUJixgQ5HEFxgGKxfh8MQorlK",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38t_sDhsCEf0rzPepajPcewnSEStML_2y6E4MCy6PFohgtxm8YzNMiU8fCbpcu0gkw60XpTNMWDk0NAxVcPKnGI1YxeezTbcauCGwKI2mLNY-Z4JBsZ6wb8RXd021kADi9pXyxuaEFDbWW4h"
+        ],
+        "likes": "1",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVgSvP_vj0aiOMSo27yc_HLawMKJ5TZDETvEDZacHnjQ70kIS7PXg",
+        "author_link": "https://www.google.com/maps/contrib/117129971435078814903/reviews?hl=en"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbE1uQkROMGx2VUZrM05VcEROM0pqTFVSQlJrRRAB",
+        "author_name": "Sugandha Srivastav",
+        "author_info": "Local Guide · 161 reviews · 831 photos",
+        "rating": "5",
+        "date": "5 months ago",
+        "content": "We discovered this place by chance as it was adjacent to our BnB, and it turned out to be a really good find. The portions are quite big so we could only order 2 dishes, and they were both quite amazing. The Fried Pork Ribs with Salt & …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vC1ZgF2-i3bkOHRXWTwkqTrEA9exGt6T4qqBUkKdfnMnPdPn-ZbA48-U7W8wX4-2j7RnRv1Crm4AtZruSIwu2WJzXOLHqzeTR1aADjxLq210bu6pBZvPBaenQTzcdYE9nyR0RmREzt2Upw",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tSh7Vxi--mf0WWNS5naQ9UwAkKW7EtKuK8Reo3fjDwm0hkPAh1hI1SoausLmbz0e9zjY0M4Y5EgXfNl4TkmG6rpWIaUFhToNt9BG67K6io5RIDE4ED6qJwaLTne3S40IO9xmRmTwcwjcE",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38uH2cq3zaHcznODuhZix93gysuiCaOdGjbrz0AYuRi-gSD1rTiQ0fYB8y08Ud4NKMC870upH5EYh0BZuiEu5NE0Z7cinHME6wKPLHOHUU8gJdC_0Dt2vsuhZPTXimINbBjXSYsg8q5Pl5o1",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vw4S_6KbUltXcWncTW2Ladb638s0mkOXa6bGf6VYH7zwo78qfhMOdW_MR2d8SXFp04UTdXTgIIqOxxQqXhSWEQN6tLXWFH36bMup4dzTkDvMINsee_Qb4xxokUA9wA-UIW5Q0CwjHX-NY"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUFsRxPC_q6LRz0YFrglJa9Imw4j-X8NvQTmDd0ZUXXxzhpS2wSyA",
+        "author_link": "https://www.google.com/maps/contrib/102885737950333012447/reviews?hl=en"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CV2IzUlhSMGhRVlRCUk1YUkJNRTlzUm5VNVFtYxAB",
+        "author_name": "Sarah H",
+        "author_info": "Local Guide · 451 reviews · 1,867 photos",
+        "rating": "4",
+        "date": "5 months ago",
+        "content": "I really enjoyed my meal here of which I was actually looking for a cafe but this alleyway caught my eye and the design and beautiful yellow of the building plus colorful pinwheels were spellbinding. The Michelin star sign was a plus so I …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tDWj9-xnAVGPJPD7YHcXWYcdaKi84t27x7ya6gf_jJ4LewOd-omjDxtOA5hDIq9EwULTKOjP7tBeg0vcu3AB7p-4nSPub9qru-qxotwETLt4_LgBH39mOeRKvCt3RFOEEi8tED1dfFYuqc",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38spq-z4yPj9YN56g44bs1uW3pInZFML2g8NU1u0j64ONV3IZSnFLehKa7rhvYYzJg3AOBG0Zh8hurxJ2ZWXNVl3rAaM9hANtiMPleX7K7E4bV7Eh0BzJvVwJi5OVBkCidy6xu870iD_ujQ_",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38urBs1j6d6TF4XIBxcSqpNCZYKgoJ91GOK99Pnwuk4CHaJ3PH3oq_GkHpigeIkB-_-DpajTpS8enpyaNBekn5t-re1CXyaL5XtX0nrM4qMSWFS7M3wMED0ZlQ1GXIqLlKphguMbHX-gMsg",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38uMksEyTC91WQa_9HEz3xEJIY_SnBZto1SRkjkMXG1t2hKs0eRtmq3QIHxbDL5p_WfiycL4l2v9lx6gdUX8-_4Dz-asjq_6WGDzqCbzeLJ9CMVlKebGuKMOULq1PotFUzonWu0fckhbbdNP"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVsWh0yp-KIO34HcNYkob-1_OfKtK3Q-a159zNXnHsOIHKzfs6ndw",
+        "author_link": "https://www.google.com/maps/contrib/104597526588927561809/reviews?hl=en"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SlVHdGtOekkzVHpOemNHRmxhVm8zVXpWMGFXYxAB",
+        "author_name": "Ivy Eyu",
+        "author_info": "Local Guide · 112 reviews · 789 photos",
+        "rating": "5",
+        "date": "5 months ago",
+        "content": "Dined at Nhà hàng 1946 Cửa Bắc, and it truly lives up to its Michelin recognition (2023–2024). The prawn hot pot was rich, flavourful, and perfect for sharing, while the fried tofu with green onions was simple yet incredibly tasty. …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38uQve6UOsWhoGBsx80bm0EnG1BA6IX1sZnlpkNZxmmyV663xXAvFmC49_T8VpH-H--MPP3mLRC2M2eiDeVUt01gwog5qoYB7sMUvmV4jepK_7zNuCDpeley_OeCkcoqocFJa0dXmM_k2ZY",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vfGHVOfiHDVU73G_L-dty4bjR5ANqTVSMFUNykN-Ig2VTPLZIr5uXsWhKjEU6uqxoq56T3xGhMdYMywnzQonULj9ZAKIdMXXfX0LT-355eN4LXUvNApJ99Th81kHE-lQ0RGZYhzSx2hXnQ",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38s2Tc_528D0pFAJk8LAmD3d-WLKX3TRng-EOw4wU2ZPw0lETmhSoxEJGcFZxdBBygDv-Q8giWKgo-DfctqOluafp2tgsEfwOhQw_k63f7Blphx240dpnu0x6ynvcIdxe0zbjB4G6StS3uYn",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38t_TfyrAYlwpUkam0MG2m4aK7crHhnTfLyf71b3LkmJyMfY1eO_yxWeTxIT6rKZGrK-XUQ_gda1s9Q2KkjDvG48yUicfOpamjwgNypvgxLcoeyN7qWpzCZwkn65rVMsqdlKL8J53JdeBXI"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXv0g8k_rTVof0-GhqCEf2fXAL5Fyaffl_wnKRo-JqwzyScyDYP",
+        "author_link": "https://www.google.com/maps/contrib/113945057347369388154/reviews?hl=en"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNmN5WW1nRRAB",
+        "author_name": "Parichat Jaimunkong",
+        "author_info": "Local Guide · 14 reviews · 43 photos",
+        "rating": "5",
+        "date": "8 months ago",
+        "content": "Good local restaurant, my Vietnamese friend helped to order and all dishes are delicious, vegetables here is very fresh and i like this vegetables salad the most. I tried this soup the first time but it's nice, a little bit sour but make you feel refreshing.",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tG89kEJ05Hf8k2pdIfanf4UzV5_WmpmN4CJMs9QGT9eXAm8Gc9YjMi-mb1rySKnxKhHSjKNipZiskQ_XM-qnT6-AdMCda7nNFa4HhGo7e6_aytCpSICLJQB8h_jMGaU_8gR6LW",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38uvasGKeKs_mE5ktaxwuWpiVD0kJXECJfr9jP11jh9Rf84sSKaPS802CTxas3UJ7FL0xjTwX2iKmR0cER_EIdt76dSRPhTBuzPtEvCDjaMH0EKL9cZ6QtCqDbw9HJtC5KKFcft_IA",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38trAxcA1FZopLovHnSvNuFuvqI0pIpRC2ByH1jafhRxomvYObjuOx_nstUr2UA-8l_5Bd3DAmEMv5CghDt6IBDVrVr3jzcsKRfwvIEKv_-0sH_MHcPZvCsFlsaekXsqr1Q2GZSj",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tSOWqCvcwCwjDoFYj_yL1dQXw4r4O8vuCo5P3x9aHgczStYmD4bg93UqRkmonLObjiXp72IR504DEVIK6vC0mLnur8hkFQr95RU8yYEMcpXpZ-zS5-RTrjgAUTQs4gTxPH9KGsbQ"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocL1MptztrbsPFMq1Ykk2GnMniJ8xMwSgn52imGFdFm9g-Gx3A",
+        "author_link": "https://www.google.com/maps/contrib/103762284291467380729/reviews?hl=en"
+      },
+      {
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OcU5GUjFSbkZSY1hoMU5VcFFkVUp3TTA1TWFrRRAB",
+        "author_name": "JR FF",
+        "author_info": "Local Guide · 247 reviews · 2,432 photos",
+        "rating": "5",
+        "date": "2 months ago",
+        "content": "Which we had the time to check this joint out.  It seemed to be undergoing refurbishing on the night we were free. …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tqXd313oIN9Z7rR7Dw75P02zpTgOLRWU5p2S6z7_1xq2xD4OiUOSOMILNgTA9a2PlaRwBgE-6LmrWTIbHO8mmjnjrXS6CmXjddHf-A5slm3Zd7wKsu8D99MC2kBb4gi4XBX1jwnjendNYh",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38tMG1JZIa-VYFVzyb9dvaUQYvN8hsjqmD9PyQNib2UvFlL-Ty7fT1zIEBFWJ2tm0lgKMUfc7AwEzaANrxW5xGFNPFhXlBAf0Wpa0b9kCjrMTA0Ra62nDaMfrOO_kgkVsOQ6CzBjxL-xf9g"
+        ],
+        "likes": "0",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVcxSZ2PMf6pXkf8I1bHcNWPnMVoycB2RDSYLYPYFpxv3pm45U",
+        "author_link": "https://www.google.com/maps/contrib/114552155027437009446/reviews?hl=en"
+      },
+      {
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQN3Nlb3BBRRAB",
+        "author_name": "Joshua N",
+        "author_info": "Local Guide · 73 reviews · 814 photos",
+        "rating": "5",
+        "date": "a year ago",
+        "content": "This gorgeous intimate dining spot well deserved a Michelin Bib Gourmand honor for delivering absurd levels of flavor in in incredibly unique dishes. …",
+        "images": [
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38uT_k17yDb_iT97ufQzwAYt2ncS7nbM0yJufAmjAinfVBSqAirN4bcfOkuuQOn6HBZJCivwnU-XjEEdV5bZltHcU941SBYXx80lh-yGpLtBlR4Gg_P4MPs8ELsbQLiBVbJMUiTk",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vR4ysV9JbxPu-f5iD8Lh0Vynb8UragWIw_YkF_oHU-JHN21wiJuqWDPebtVV0FoPYC_HFRsdPhH_5k1Yz-53TJ1YRRtsCXkPcX8u1wrwsEmh3Ww9xmA4oirCEA5KMeibdJzW-9",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38sYfdGQ7A2KEM9VLOzneWYFxprBapszx6O7OkjvT5HoevCCGfIQz03Wu46zyDy53vNV-t54f_0YoWkAGBNW_a_oSHoU4rYQNdjmo-VcpMPphyfXDbaKHA7lTpPkiRLG9XBbd8U",
+          "https://lh3.googleusercontent.com/geougc-cs/AMBA38vHRBHCti8ce_HjNfU3AsrUHEUGXZoQ30LtWOEGyMVdvMbS32d8leT7vxP_A2QJ7F93CXFMC4lO33YA_6t8zpWCuLxKxj1hfKLVMub_b12Cw7LEhFMBiPY5MfBJBrV5SWc-UKPVmw"
+        ],
+        "likes": "1",
+        "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW_Gq65I90COZprubSvmHabe5jifE_Syq8rCuPHDWShxVPnLYBdLw",
+        "author_link": "https://www.google.com/maps/contrib/103122847450410885945/reviews?hl=en"
+      }
+    ],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [
+        {
+          "day_of_week": "monday",
+          "slot": 1,
+          "start_time": "10:30",
+          "end_time": "22:30",
+          "is_closed": false
+        }
+      ],
+      "tuesday": [
+        {
+          "day_of_week": "tuesday",
+          "slot": 1,
+          "start_time": "10:30",
+          "end_time": "22:30",
+          "is_closed": false
+        }
+      ],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "10:00",
+          "end_time": "22:30",
+          "is_closed": false
+        }
+      ],
+      "thursday": [
+        {
+          "day_of_week": "thursday",
+          "slot": 1,
+          "start_time": "10:30",
+          "end_time": "22:30",
+          "is_closed": false
+        }
+      ],
+      "friday": [
+        {
+          "day_of_week": "friday",
+          "slot": 1,
+          "start_time": "10:30",
+          "end_time": "22:30",
+          "is_closed": false
+        }
+      ],
+      "saturday": [
+        {
+          "day_of_week": "saturday",
+          "slot": 1,
+          "start_time": "10:30",
+          "end_time": "22:30",
+          "is_closed": false
+        }
+      ],
+      "sunday": [
+        {
+          "day_of_week": "sunday",
+          "slot": 1,
+          "start_time": "10:30",
+          "end_time": "22:30",
+          "is_closed": false
+        }
+      ]
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 3
+  },
+  {
+    "name": "Botanica Restaurant",
+    "created_at": "2025-12-18 10:39:09",
+    "updated_at": "2025-12-18 10:39:09",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOEqLkdeB0tPlfth-bhPX0j-QC9Q9Gz2SyM4DSk=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipOEqLkdeB0tPlfth-bhPX0j-QC9Q9Gz2SyM4DSk=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 963 615 086 để biết thêm chi tiết về chính sách của Botanica Restaurant.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "116/D4",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 963 615 086",
+    "google_map_link": "https://www.google.com/maps/place/Botanica+Restaurant/data=!4m7!3m6!1s0x3135ab716a6cfbe5:0xd88aca276fc04465!8m2!3d21.0263462!4d105.8216083!16s%2Fg%2F11bbrkgm3p!19sChIJ5ftsanGrNTERZUTAbyfKitg?authuser=0&hl=en&rclk=1",
+    "rating": "4.6",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0263462,
+      "Longitude": 105.8216083
+    },
+    "website": "",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "08:30",
+          "end_time": "22:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 4
+  },
+  {
+    "name": "Nhà Hàng Hương Quê",
+    "created_at": "2025-12-18 10:39:05",
+    "updated_at": "2025-12-18 10:39:05",
+    "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx0idv3a4qxQPHprO20M9ARQTm1WgjJ1InNqi4ArxoMZJeHO3gMIyp6SjmZNrNpg2jGbVJ7E3ZWE7OCnnzPllqIrFSy07ZL0ErGTNrv0JL0UGxgGxUQqhfnUdY9v-rrIEhjXrM=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx0idv3a4qxQPHprO20M9ARQTm1WgjJ1InNqi4ArxoMZJeHO3gMIyp6SjmZNrNpg2jGbVJ7E3ZWE7OCnnzPllqIrFSy07ZL0ErGTNrv0JL0UGxgGxUQqhfnUdY9v-rrIEhjXrM=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 982 886 883 để biết thêm chi tiết về chính sách của Nhà Hàng Hương Quê.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "Đ. Nguyễn Tất Thành",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 982 886 883",
+    "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+H%C6%B0%C6%A1ng+Qu%C3%AA/data=!4m7!3m6!1s0x3134e5bf83d7dbbd:0xead548f85ea3d06d!8m2!3d21.3242818!4d105.6121795!16s%2Fg%2F11c6v8p4pv!19sChIJvdvXg7_lNDERbdCjXvhI1eo?authuser=0&hl=en&rclk=1",
+    "rating": "4.0",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.3242818,
+      "Longitude": 105.6121795
+    },
+    "website": "http://huongquetamdao.vn/",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "08:00",
+          "end_time": "23:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 5
+  },
+  {
+    "name": "Nhà hàng Nhật bản Hana",
+    "created_at": "2025-12-18 10:40:01",
+    "updated_at": "2025-12-18 10:40:01",
+    "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwqNCqEOLx9OtqqaeMMEHlM-jLfo9yy-UbE95v4zP473tsEmB-gwiocStNB87SYqK5d5d8POBBhY7dOQpMvQBfQsjCxMgfThrxU_0Gq7EqSHlRlDwRb-QMoFVmrkU-sPLu4x6vl4ummEPv4=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwqNCqEOLx9OtqqaeMMEHlM-jLfo9yy-UbE95v4zP473tsEmB-gwiocStNB87SYqK5d5d8POBBhY7dOQpMvQBfQsjCxMgfThrxU_0Gq7EqSHlRlDwRb-QMoFVmrkU-sPLu4x6vl4ummEPv4=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 24 3232 1787 để biết thêm chi tiết về chính sách của Nhà hàng Nhật bản Hana.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "111A5 P. Vạn Phúc",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 24 3232 1787",
+    "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+Nh%E1%BA%ADt+b%E1%BA%A3n+Hana/data=!4m7!3m6!1s0x3135ab6d5221bc13:0x349ce260b55f08a0!8m2!3d21.0337127!4d105.8153898!16s%2Fg%2F1pzxq348r!19sChIJE7whUm2rNTERoAhftWDinDQ?authuser=0&hl=en&rclk=1",
+    "rating": "4.4",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0337127,
+      "Longitude": 105.8153898
+    },
+    "website": "https://business.google.com/createfp3791153891326757024hlenauthuser0gmbsrc-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaign-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 6
+  },
+  {
+    "name": "Nhà Hàng Hải Sản Phố",
+    "created_at": "2025-12-18 10:40:01",
+    "updated_at": "2025-12-18 10:40:01",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipPk-skYk84ocpxDwE5BYxtON0r9KNJouAOErbhN=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipPk-skYk84ocpxDwE5BYxtON0r9KNJouAOErbhN=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 919 163 232 để biết thêm chi tiết về chính sách của Nhà Hàng Hải Sản Phố.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "48 P. Liễu Giai",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 919 163 232",
+    "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+H%E1%BA%A3i+S%E1%BA%A3n+Ph%E1%BB%91/data=!4m7!3m6!1s0x3135ab6cd176260b:0xc15cea196865cb53!8m2!3d21.0339105!4d105.813423!16s%2Fg%2F11b_00ww1v!19sChIJCyZ20WyrNTERU8tlaBnqXME?authuser=0&hl=en&rclk=1",
+    "rating": "4.1",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0339105,
+      "Longitude": 105.813423
+    },
+    "website": "https://support.google.com/local-listingsphow_google_sourcesauthuser0hlen",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "10:00",
+          "end_time": "22:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 7
+  },
+  {
+    "name": "Long Wang - Lẩu Hấp Thủy Nhiệt Hồng Kông - 84 Ngọc Khánh",
+    "created_at": "2025-12-18 10:40:06",
+    "updated_at": "2025-12-18 10:40:06",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOXhg1mgkqalgO8RKMX_o6C64yieL0vIPoPUkX3=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipOXhg1mgkqalgO8RKMX_o6C64yieL0vIPoPUkX3=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 854 843 388 để biết thêm chi tiết về chính sách của Long Wang - Lẩu Hấp Thủy Nhiệt Hồng Kông - 84 Ngọc Khánh.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "84 P. Ngọc Khánh",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 854 843 388",
+    "google_map_link": "https://www.google.com/maps/place/Long+Wang+-+L%E1%BA%A9u+H%E1%BA%A5p+Th%E1%BB%A7y+Nhi%E1%BB%87t+H%E1%BB%93ng+K%C3%B4ng+-+84+Ng%E1%BB%8Dc+Kh%C3%A1nh/data=!4m7!3m6!1s0x3135ab56543a5f8d:0xee4472b139554d65!8m2!3d21.0267502!4d105.817635!16s%2Fg%2F11k3ln559q!19sChIJjV86VFarNTERZU1VObFyRO4?authuser=0&hl=en&rclk=1",
+    "rating": "4.8",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0267502,
+      "Longitude": 105.817635
+    },
+    "website": "https://support.google.com/local-listingsphow_google_sourcesauthuser0hlen",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "10:00",
+          "end_time": "22:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 8
+  },
+  {
+    "name": "Dookki",
+    "created_at": "2025-12-18 10:40:10",
+    "updated_at": "2025-12-18 10:40:10",
+    "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyzR_9Wmn4XTwyCAxE7vE9bT-GUlZfpqZeGfeAkv4zy-PFT24xIlLbJeQKftR7VNOuSK-2Vo11Of_Elb0AA8z8E2NvTgiSo76r7tWCBKqbdToRDEORL_KcTfu_LT3IrKTBGbvU9v9wnvdWk=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyzR_9Wmn4XTwyCAxE7vE9bT-GUlZfpqZeGfeAkv4zy-PFT24xIlLbJeQKftR7VNOuSK-2Vo11Of_Elb0AA8z8E2NvTgiSo76r7tWCBKqbdToRDEORL_KcTfu_LT3IrKTBGbvU9v9wnvdWk=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 236 3553 100 để biết thêm chi tiết về chính sách của Dookki.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "Indochina Riverside Towers",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 236 3553 100",
+    "google_map_link": "https://www.google.com/maps/place/Dookki/data=!4m7!3m6!1s0x314219c435d0ca77:0x19f52c1da9d88e18!8m2!3d16.0700712!4d108.224247!16s%2Fg%2F11h5ml35d4!19sChIJd8rQNcQZQjERGI7YqR0s9Rk?authuser=0&hl=en&rclk=1",
+    "rating": "4.7",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 16.0700712,
+      "Longitude": 108.224247
+    },
+    "website": "",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "10:30",
+          "end_time": "22:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 9
+  },
+  {
+    "name": "Bản Quán",
+    "created_at": "2025-12-18 10:40:22",
+    "updated_at": "2025-12-18 10:40:22",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOVMk3Q0f1DQOrF7vygenl_UqDqVSPZ2xmCH21H=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipOVMk3Q0f1DQOrF7vygenl_UqDqVSPZ2xmCH21H=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 339 154 812 để biết thêm chi tiết về chính sách của Bản Quán.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "81 P. Phan Kế Bính",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 339 154 812",
+    "google_map_link": "https://www.google.com/maps/place/B%E1%BA%A3n+Qu%C3%A1n/data=!4m7!3m6!1s0x3135ab105e69c86f:0xa20f5aca1f6d3920!8m2!3d21.0360851!4d105.8077156!16s%2Fg%2F11v3hxgq87!19sChIJb8hpXhCrNTERIDltH8paD6I?authuser=0&hl=en&rclk=1",
+    "rating": "4.6",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0360851,
+      "Longitude": 105.8077156
+    },
+    "website": "",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "10:00",
+          "end_time": "13:30",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 10
+  },
+  {
+    "name": "Miến Lươn Sành",
+    "created_at": "2025-12-18 10:41:02",
+    "updated_at": "2025-12-18 10:41:02",
+    "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwBQi6PswgIjZysn-7PVf1n7VMOUI5Z42snO1QkEd_W24L33-pVu8HoExYjLZUuXc1-aPEvI-4useJI6kSUr7SyQIu1uRLM1kQO4mnxrrIsIGxItIRNWHOgiVVcvtevtxPKOoR7IEdhTJLL=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwBQi6PswgIjZysn-7PVf1n7VMOUI5Z42snO1QkEd_W24L33-pVu8HoExYjLZUuXc1-aPEvI-4useJI6kSUr7SyQIu1uRLM1kQO4mnxrrIsIGxItIRNWHOgiVVcvtevtxPKOoR7IEdhTJLL=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ  để biết thêm chi tiết về chính sách của Miến Lươn Sành.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "109 P. Vạn Phúc",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "",
+    "google_map_link": "https://www.google.com/maps/place/Mi%E1%BA%BFn+L%C6%B0%C6%A1n+S%C3%A0nh/data=!4m7!3m6!1s0x3135ab0041843c45:0x62ae7b4ce98d6a30!8m2!3d21.0336353!4d105.815275!16s%2Fg%2F11w4y8jt7h!19sChIJRTyEQQCrNTERMGqN6Ux7rmI?authuser=0&hl=en&rclk=1",
+    "rating": "4.6",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0336353,
+      "Longitude": 105.815275
+    },
+    "website": "https://business.google.com/createfp7110756431930681904hlenauthuser0gmbsrc-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaign-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "06:30",
+          "end_time": "13:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 11
+  },
+  {
+    "name": "Bếp Quán Núi Trúc",
+    "created_at": "2025-12-18 10:40:59",
+    "updated_at": "2025-12-18 10:40:59",
+    "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz6SWl4xS_J2onC4JZvhIsbph4SfLHTai0h_rfr62ATtULj2vGDtkr5vuEA1Xaeu1VXwKN-Aih5eAwddVkOPoPtXWCa6VT0UnViyu8O5itV59icICvHnIlAVX9c-eWWZYRHYmnARMzfOD86=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz6SWl4xS_J2onC4JZvhIsbph4SfLHTai0h_rfr62ATtULj2vGDtkr5vuEA1Xaeu1VXwKN-Aih5eAwddVkOPoPtXWCa6VT0UnViyu8O5itV59icICvHnIlAVX9c-eWWZYRHYmnARMzfOD86=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 1900 636932 để biết thêm chi tiết về chính sách của Bếp Quán Núi Trúc.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "30 P. Núi Trúc",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 1900 636932",
+    "google_map_link": "https://www.google.com/maps/place/B%E1%BA%BFp+Qu%C3%A1n+N%C3%BAi+Tr%C3%BAc/data=!4m7!3m6!1s0x3135ab4a52c71c2d:0x185ede42f3441e62!8m2!3d21.02789!4d105.8245243!16s%2Fg%2F11nnw3f8m3!19sChIJLRzHUkqrNTERYh5E80LeXhg?authuser=0&hl=en&rclk=1",
+    "rating": "4.6",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.02789,
+      "Longitude": 105.8245243
+    },
+    "website": "https://support.google.com/local-listingsphow_google_sourcesauthuser0hlen",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "10:00",
+          "end_time": "14:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 12
+  },
+  {
+    "name": "Sành",
+    "created_at": "2025-12-18 10:41:06",
+    "updated_at": "2025-12-18 10:41:06",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipNJ4pmM3wedBkjAANROAwn-PTE-SwZsCUc0vZXD=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipNJ4pmM3wedBkjAANROAwn-PTE-SwZsCUc0vZXD=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 588 259 259 để biết thêm chi tiết về chính sách của Sành.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "259 P. Kim Mã",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 588 259 259",
+    "google_map_link": "https://www.google.com/maps/place/S%C3%A0nh+%2B%2B%2B/data=!4m7!3m6!1s0x3135ab1e5cfeeb6f:0x521709488afe96a!8m2!3d21.0311587!4d105.8222301!16s%2Fg%2F11lv4s5jcf!19sChIJb-v-XB6rNTERaumviJRwIQU?authuser=0&hl=en&rclk=1",
+    "rating": "4.8",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0311587,
+      "Longitude": 105.8222301
+    },
+    "website": "https://support.google.com/local-listingsphow_google_sourcesauthuser0hlen",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "10:00",
+          "end_time": "14:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 13
+  },
+  {
+    "name": "Cà phê Nhà hàng The Tree",
+    "created_at": "2025-12-18 10:41:18",
+    "updated_at": "2025-12-18 10:41:18",
+    "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzypnGqvuSiAJ9ydWyHHRtrbOj7ZmfMwgKzaDRyzFzio9ny5igJulp5ixw7PKEoTj8C0RMrFW-7C4HE9TZmbqocw_xLGIIZX67BeY4zmvmaQH8AtAep_-f3AXNABkDbwm8gMB3h=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzypnGqvuSiAJ9ydWyHHRtrbOj7ZmfMwgKzaDRyzFzio9ny5igJulp5ixw7PKEoTj8C0RMrFW-7C4HE9TZmbqocw_xLGIIZX67BeY4zmvmaQH8AtAep_-f3AXNABkDbwm8gMB3h=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 913 317 911 để biết thêm chi tiết về chính sách của Cà phê Nhà hàng The Tree.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "103A5",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 913 317 911",
+    "google_map_link": "https://www.google.com/maps/place/C%C3%A0+ph%C3%AA+Nh%C3%A0+h%C3%A0ng+The+Tree/data=!4m7!3m6!1s0x3135abadfcf4ff59:0x893f5dba9f427410!8m2!3d21.0337164!4d105.8155518!16s%2Fg%2F1tdsg7f9!19sChIJWf_0_K2rNTEREHRCn7pdP4k?authuser=0&hl=en&rclk=1",
+    "rating": "4.4",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.0337164,
+      "Longitude": 105.8155518
+    },
+    "website": "https://business.google.com/createfp9889726362846131216hlenauthuser0gmbsrc-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaign-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "08:00",
+          "end_time": "22:00",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 15
+  },
+  {
+    "name": "Nhà hàng Phú Quý",
+    "created_at": "2025-12-18 10:41:55",
+    "updated_at": "2025-12-18 10:41:55",
+    "logo_url": "https://lh3.googleusercontent.com/p/AF1QipNwPDG-x2jXKNZwQsEN6OcDT71Py_oqxcTxd2az=w32-h32-p-k-no",
+    "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipNwPDG-x2jXKNZwQsEN6OcDT71Py_oqxcTxd2az=w32-h32-p-k-no",
+    "intro": "",
+    "policy": "Khách hàng vui lòng liên hệ 84 973 705 868 để biết thêm chi tiết về chính sách của Nhà hàng Phú Quý.",
+    "note": "Đang cập nhật...",
+    "email": "booking@tripc.ai",
+    "address": "Cổng chính Flamingo Đại Lải",
+    "city": "Hà Nội",
+    "province": "Ha Noi",
+    "county": "Ba Đình",
+    "ward": "Vĩnh Phúc",
+    "phone": "84 973 705 868",
+    "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+Ph%C3%BA+Qu%C3%BD/data=!4m7!3m6!1s0x3134e3a2c987e84f:0x6f69cb389f94f8c3!8m2!3d21.3466098!4d105.719254!16s%2Fg%2F11sqf9n8wm!19sChIJT-iHyaLjNDERw_iUnzjLaW8?authuser=0&hl=en&rclk=1",
+    "rating": "4.7",
+    "reviews_count": "",
+    "type": "Nhà hàng",
+    "price_range": "",
+    "amenities": [],
+    "location": {
+      "Latitude": 21.3466098,
+      "Longitude": 105.719254
+    },
+    "website": "",
+    "images": [],
+    "reviews": [],
+    "otas": null,
+    "licenses": null,
+    "deleted_at": null,
+    "working_hours": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "day_of_week": "wednesday",
+          "slot": 1,
+          "start_time": "00:00",
+          "end_time": "23:59",
+          "is_closed": false
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    },
+    "disadvantages": "Đang cập nhật ....",
+    "advantages": "Đang cập nhật ....",
+    "id": 16
+  }
+]

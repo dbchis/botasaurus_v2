@@ -12,6 +12,7 @@ from src.places.working_hours.get_working_hours import get_working_hours
 from src.places.clean_address import clean_address
 from src.places.remove_vietnamese_accents import remove_vietnamese_accents
 import threading
+from src.places.clean_image_url import clean_image_url
 
 
 def scrape_link(link, inputs: dict):
@@ -196,8 +197,8 @@ def scrape_link(link, inputs: dict):
             "name": name,
             "created_at": now,
             "updated_at": now,
-            "logo_url": image,
-            "cover_image_url": image,
+            "logo_url": clean_image_url(image),
+            "cover_image_url": clean_image_url(image),
             "intro": intro,
             "policy": policy,
             "note": note,
