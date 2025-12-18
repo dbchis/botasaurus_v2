@@ -1,0 +1,2001 @@
+[
+    {
+        "name": "Cơm nhà Kiều Thị - 68 Đường 2/9 Đà Nẵng",
+        "created_at": "2025-12-18 12:52:04",
+        "updated_at": "2025-12-18 12:52:04",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipMbzcEeYw6rrJqbXaBckLeRWE3T26jEP4S7q114",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipMbzcEeYw6rrJqbXaBckLeRWE3T26jEP4S7q114",
+        "intro": "Serves dine-in, Has drive-through, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 982 282 843 để biết thêm chi tiết về chính sách của Cơm nhà Kiều Thị - 68 Đường 2/9 Đà Nẵng.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "70 Đ. 2 Tháng 9",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 982 282 843",
+        "google_map_link": "https://www.google.com/maps/place/C%C6%A1m+nh%C3%A0+Ki%E1%BB%81u+Th%E1%BB%8B+-+68+%C4%90%C6%B0%E1%BB%9Dng+2%2F9+%C4%90%C3%A0+N%E1%BA%B5ng/data=!4m7!3m6!1s0x314219ef344c9d25:0x8260b37ae82fab40!8m2!3d16.0572122!4d108.2221526!16s%2Fg%2F11tdprfrcj!19sChIJJZ1MNO8ZQjERQKsv6HqzYII?authuser=0&hl=en&rclk=1",
+        "rating": "4.5",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "1100,000",
+        "amenities": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0572122,
+            "Longitude": 108.2221526
+        },
+        "website": "https://www.facebook.com/kieuthi.con",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzX9jT-uOdrZeWs0tLXmI0y92cp71i5y58WWurgEYqyofqQ8zFUeqP5i4e2n8b5fY_WBz7-5HQxmZhV8smw3lByzhiVl4owaQhm3z7V6dGC2mRi_CbuAGCOc3ndguosO2AnUK1m",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxi5lQ6n9SJXZeBb9BfgP3ptlJUaQEPst_Lki7R9WnHsczYgQzqANT4HftnXIvbLVlvAs5oyox9Df_YyeqbSUN15q2doSp4tn9N7c5n8yd9bQIVUuVpISiQKg1VxJ9NmlYV16pX4g",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyIYkANEQ-9pI9fEG4BTWyPiU21sxphzaWiPkcs9Axq47MWqlI_9l9e0rA5V6N8cHZnHcVPMyGZvLLd1fsNE9JCnsmNP4JD198ayLFb1ip5h90ZxlwGbL47WzBzKF30FmItoV5kig",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyXhtERaEsSK31uUfxYquypxRD_K2HSXnBebr1cYcDrhmIXgj3790aepL9O9D4b5brmAYGiitPkEOKmwSwCDBMpW6nUcXfKkIo0wilQAgKjphOiPz6HRunPKhB5BV2sMcZ8--hU",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Đọt Bí Xào",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxQpyTllcj3pc76EIJTbqiqiX27u1hRmRq-_RHJ5JwWvN_vkbs7Jx3GdbLFlylmSDGBWhtaaFdqLc1rX5rg-CGXvVqFPMqO0daxpVO750FNfHG-mW5d0eCVW7DQgprn8qdkDXIK",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Thạch Rau Câu",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxQEZq_sw_eS6duoV19DH0lcGfJ9TsFc5TewwcAkPmwSSoC14B7roKUGl-YEMDL2R0p6WstAM0abQDTxn5aZ2wdbZjJFonaLesnxmTrPscj6jG8shsx1htD7kURwN1KlTZ2KYNoaA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Canh Chua Cá Bớp",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw02flSp3ZTyjifJWH6YeJ-_nzGdFISR7EUoq-JcVTpJfsWhAiWGO7vzzZFjUT6bF0Dd5Fa9y9rEcC0J6Z3iP4evfAIGh488aQQNaMo08byo2EG57QZ-4Q8T6DeZE67UASj_IjW",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Canh Riêu Cua",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwJGgbs-h6AQmNmrJqYByWzwolRqnhyIGHpSKrz3V9EJ01JGxoVgaw1ZpQ6fw5JL3rgNkAqR2PjuGmlEZetaWwl5MEqmD0BkxXcK_UzWBG3nkpgnUWJvihfpBPGuvqH0oN31Ztjlw",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "20:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "20:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "20:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "20:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "20:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "20:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "20:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 1
+    },
+    {
+        "name": "Nam Chau Seafood",
+        "created_at": "2025-12-18 12:52:03",
+        "updated_at": "2025-12-18 12:52:03",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxBoNaxxFz3taSK1UrJQP7BZj1UjcAtBfLy1HdpoHr37Q2RyEhUX6Eab1bEc-6YL4GMvoH3gisZ91Sb3pX9nc0lxLRkwSFrMjTDjOvygFzofWxG8_g3wlJIJfz5vDPo9Iwy5cXedabD05BT",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxBoNaxxFz3taSK1UrJQP7BZj1UjcAtBfLy1HdpoHr37Q2RyEhUX6Eab1bEc-6YL4GMvoH3gisZ91Sb3pX9nc0lxLRkwSFrMjTDjOvygFzofWxG8_g3wlJIJfz5vDPo9Iwy5cXedabD05BT",
+        "intro": "Serves dine-in, Has drive-through, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 796 686 856 để biết thêm chi tiết về chính sách của Nam Chau Seafood.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "14A Võ Văn Kiệt",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 796 686 856",
+        "google_map_link": "https://www.google.com/maps/place/Nam+Chau+Seafood/data=!4m7!3m6!1s0x3142170fa394c761:0x8341e9088b749c0f!8m2!3d16.0633286!4d108.2421286!16s%2Fg%2F11y5y_4hbb!19sChIJYceUow8XQjERD5x0iwjpQYM?authuser=0&hl=en&rclk=1",
+        "rating": "4.6",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0633286,
+            "Longitude": 108.2421286
+        },
+        "website": "https://beacons.ai/namchauseafood",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxIjMsmmi5rS7VCCknLUGYlwYH2eG0CT3BuC8OSPrp6BAKC61zW8OdNicv-Fp82nW9bQkKiZy5md9qL5h7hRjmhzUuBg8Y6TCCgDpNedLvS5McauyDZc5pI44D_GV01IQ2Ix8Kv8VDcY6Ae",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxgcsveyznIXKPZVLV_Ja1ZxxSD00w9SpBOx0F4Js0HWz3RQtZTHm4ZmnTIp2ufT5-wiqDHAEbWU9_q6S0qU-thFUiBUSjzt1br9zrnhTuHttnO8a6ulDNqNBSyQTJOelBp6QpN",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzmb7cb6__AKaa_5f0vIZxpSoWpTV31HgtYtDVeMVv6bdF_hH1d6c5UJE2hy_WoCtPhXq3MhG1k4uyuL--6zXDcz4RChQmMDdLkfrpHJcPpTSFShuG4dk9v9vbP8LaXCYw07bZWKg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSe5w1XlVw5I7T_m55WE59LjS6Xl3-qLL7gF2wxHUFfxZB742qQPeQCknqSNEtUEeQe176XYjyNs_ioE78wssCVV5HCUngxbmRj0ct-KrFnpHaSypTr1HePh_uMKCsN6IE4PNf8wGy4MM",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "龍蝦",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwU7SKRzChCK4Uz4FgyHqRTg31V27aLkDL4vyh7eMkVwR1WOuu39ibSf921WpHJlIRyAeB2rxj6nY0NXGsnHKjBcYpD2tJagdRdpgZDpo2ZtzMU5Qn7Xf_DHU3duCHohLTTtp-S",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "三點蟹",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxY0vbo3gNUz6ew6BfEKtgRkB0KfsJsZDlORM0EPIg8DbUo7YDqwRqFf_KkIVBcX0Zl2ntFSNkPyM5v3qQR7ewKVxSk71cId1LyDgJmWDtk5lQxta3xvur1itdlNgx6GJbwvWUdyw",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "09:30",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "09:30",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "09:30",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "09:30",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "09:30",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "09:30",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "09:30",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 2
+    },
+    {
+        "name": "Nhà Hàng 3 Big - Nướng Lẩu Hàn Quốc",
+        "created_at": "2025-12-18 12:52:03",
+        "updated_at": "2025-12-18 12:52:03",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipMcu2Vd7KyeCSISSQSmFSexiU3AxcaETgzJT3Hs",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipMcu2Vd7KyeCSISSQSmFSexiU3AxcaETgzJT3Hs",
+        "intro": "Serves dine-in, Offers takeout, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 236 3569 000 để biết thêm chi tiết về chính sách của Nhà Hàng 3 Big - Nướng Lẩu Hàn Quốc.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "134 Phan Châu Trinh",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 236 3569 000",
+        "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+3+Big+-+N%C6%B0%E1%BB%9Bng+%26+L%E1%BA%A9u+H%C3%A0n+Qu%E1%BB%91c/data=!4m7!3m6!1s0x31421917b3f6f603:0xb2e30c5e8fc363f5!8m2!3d16.0639098!4d108.219817!16s%2Fg%2F11rgrrjxrv!19sChIJA_b2sxcZQjER9WPDj14M47I?authuser=0&hl=en&rclk=1",
+        "rating": "4.9",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0639098,
+            "Longitude": 108.219817
+        },
+        "website": "https://3big.vn/",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMVbWD5nE79WkijFNvwbTXTmSACzNJ0ljWwvEm-",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwYNHRScuswycmRDa4eGQitDyWawGUPeJv1Phcu5H1nUWyRz6WqwJJwFsQRSXMYaxJTJEsObdCMUmsW_a8FQT6HTspOwhIKGUcCqN-tnODE0Ley712yFlKW1s-2daauAdqvRpYdCfqOhZjN",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxxLT9QgsO7vK7sNW9YRCiqQh6Yzr8BXmwIuziWq7jhz3Ljc0L9u-ABW6jfjYmA8utuDMiDZIdtWZME0wDkCZ6XO6HcNp6DYHOhMznpEpBmFbB5gGXsa94EewnhETWt8-r_qYex",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzisOaLS6sIlqdXSK49mlg50wMzA0myY2QUmIAR0silK170bsndRDzOIyGVz3Llx90mRw2wBMAMNhe-yOfo0JVeVXI9TLQXCrTYbwQNAUP9bEirycNrC2VULqqi8dOd40Q-ev3ks2__GNqr",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Meat",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy9JaPEzmURdjCpmbcqFnsIPguMt7NNeeaXcNIXTk7ly56MUk09XZBOvwAUMbJwndB8mO1SR8POBwwoi8ihPxwB0W-Bf6AkF9RqtD0fiZcJNzyfwyR18jinM7ko77enzvVztaVx",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Buffet",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwi1PtUrqjfi0H_XXvMJcOsAMZN4uwIAFCT41tgtaeWna-hPvEAOLkm2tJgIa0dhjProH9ICG4Y5B4LOxOKEE4jfKQXYkWtmvdpy552UIIsdyo9vWcZRN0j-iPR4KDvNkrYsPbUWA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bò",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwrcOavO6tvXv1Q9slN3ec0UfvrNrvzOpK9b8mp_4AV6tCcGPYFELpnywnww-KUgDDxL8lvg2fsY69vTLwPhhJW6jKdLp_nv--KP3pw20fQbg27O51rTqw00UNWTaM39Ub-Ifpp",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Big Lẩu",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyZqNMVvQ2_uM9xbZmPZR7ubQBcxOiAIU4B1l5bWVJi6JQABGnLoGA8wjMIezVLSgcTZJ1Qhy2CHMJIoh7e1qoTiZOLngqTPHK3wfUFhT0SnyEsYumFhvL8n_6FEVdxEh4mvCHC",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Kimchi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz6alN6LV-XqQNec9_d_Pu9tpk1rKEAr9a6nNcxnTBiPtpkTXcLL7n8xcNmsjtAI1psLK5ZxC2wK0NDYSOQtbazA1pL3tqB81qXt2xoOh6BWn7xha3WIvdRi5-lUOfzT7Xgg1fe9Q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Fried Chicken",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwS_FbSDRzC0QXPc73PIjr-XmzpVJ9n41IkIFMAxd8nY1qDut3NinBqPqD2TjmU_FJSIbBKz-WHo_jKop-arz6yVPQPB9r-mbYmlbQ0_2J56-n-PL4ITj1_n3-ns3noSlR9vmT77Q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Pizza",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipPaIYQ38jzVRQ97ytJNnV5jP5uDsiyoQLl5-zmm",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Gà Chiên",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzKB-gbeGmF9VrchmkeIYqZ-Se98l4RwbbQWS_6nyo1CXyduvzeH5e9p5aIRxCNvHSqzz0THX_IKpMIWcrgIyGSePntI1mleA8pCz40DV4D3d-vTSo-C5Z4nPBtXsCmZyQHtde5mg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cơm Nắm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzvEnVefKpg2y-dtkE8Xq4WJ_QUNojtk7LiE0gHnPeqtIxjRcymabFgnmnOqPEATsv2VtfCPykMe85Zoz3xms6Ak7ip6I0m7wxyL4Y7YaSGGaaDPowmWOjmHPTSzBF8ZCu0m5Q0",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bulgogi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSydYGeFvHdfZoVbIVTPOop12f7mgYAh2a1vT0esv6G00Mhbiq-2-CKTt3d2iyT-1dJ9H_YapVvT9dzku-VdIyP7iWJmA5gKAKgy-J7GayNegMtvcsryr4sGIdIBM_sWS9AJN-JMJA",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "11:00",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "11:00",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "11:00",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "11:00",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "11:00",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "11:00",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "11:00",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 3
+    },
+    {
+        "name": "Cơm nhà vui",
+        "created_at": "2025-12-18 12:52:07",
+        "updated_at": "2025-12-18 12:52:07",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipNPlCGlflRgtRtwNZ-4tVtDgHvEflk21-jHdI4L",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipNPlCGlflRgtRtwNZ-4tVtDgHvEflk21-jHdI4L",
+        "intro": "Serves dine-in, Offers takeout, Offers delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 933 865 786 để biết thêm chi tiết về chính sách của Cơm nhà vui.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "86 Đ. 2 Tháng 9",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 933 865 786",
+        "google_map_link": "https://www.google.com/maps/place/C%C6%A1m+nh%C3%A0+vui/data=!4m7!3m6!1s0x314219ab4ef3958b:0x960f6fc7c1db919f!8m2!3d16.0566182!4d108.2220671!16s%2Fg%2F11k02pk2dj!19sChIJi5XzTqsZQjERn5HbwcdvD5Y?authuser=0&hl=en&rclk=1",
+        "rating": "4.9",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Offers delivery"
+        ],
+        "location": {
+            "Latitude": 16.0566182,
+            "Longitude": 108.2220671
+        },
+        "website": "https://support.google.com/contributionpolicy/answer/7400114ref_topic7422769",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNBelygdEECwZmIbShgBkZUkvF93mSPx9bB0OWm",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipPXPT4hdJ8J-_PyvK7qOCVz2VHcIkvKIoLD0kyd",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipPrBazhXd5EAs43f8qrDXl-YxAzOpYRmX1pC9Mv",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNcxmJuTb7n4_qMh_TKsV_MtDcK9ddjydEQr_Ss",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Lẩu Riêu Cua Bắp Bò Sườn Sụn",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwrpjdyIzqztczVFS27MfBJCueimr6EOvD5rIqM5dc-PDfYaUPdmeycvUaO9dphizqvRhPRRQsSQL8jGM2kAI_MZ_QrMJzMkSeG_XVLALPFbNarVix-EoE1vE_pfbm6ycW6IjMJ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Phở Chiên Phồng",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwr3hCJ9Uiyl5EIH32Zq5dLSDcs9TAJWFTW6_J40zavjWp-pYVRWQzThKaQC1ba5SqTLUJWMOdpV_h60aCvjWeeRibBjH9pkcfG4qF56YxIkItVh3Z3iM3yDLTyvJS1x5IIkp4",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Phở Cuốn",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz9tDAMydfLmVXZabXBBI62iKC2IccGDGmo2AU3UvBilGJgpgDJk1LaK7OfnJf0k7C6hAlafcf6vYsSIhVGrEI3ZkFo4t29ifZ8xWbhENG5jeP_cDUiehaMQW3WLjRol2xd7bdQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Nem",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwExQOHCsT6klgl3w9P8sZHOBkmtUHcfW_gTSgQ0zH_eYlX5lTjPNPUnz4Xe5zac9IaeWFQ0hrE4UiwNs6CrvUHJX9W_iySOUeSM0rjerlShFiZJiMOj0voojqVMurSJ-vvc1Wqkw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Ếch Đồng Chiên Muối Sả",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw7PybcRR23OQaDngyKfSEgrzVqqyZwkDqrqOsOPOVpWjovXs5JsdkOCXSl-EvN7S5BwCyIEAF8e6UvyfTeKqhRm33lzd0Ak8SJP6yhzfYSGB2Tm7C8DvZJbQBOJhBmEn9bnzI",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sườn Xào Chua Ngọt",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxmXw-bNQ_YpkzyYkEGhuh_NzODU3HhQktpeVsTfCSWwT-EiCssS_SW6OEBF3yT6X0ZUPQlNhQIOH7jhU1BemX6iCVDtZZby7jO8zgQ5ImWbAuR5L11DQKVB__DHQJjPV5aFlY",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 4
+    },
+    {
+        "name": "Lang Chai SeaFood",
+        "created_at": "2025-12-18 12:52:02",
+        "updated_at": "2025-12-18 12:52:02",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipNaZb4nR3Qm2rM-Et_jrvvV2U5b8OFYGd1IwxGp",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipNaZb4nR3Qm2rM-Et_jrvvV2U5b8OFYGd1IwxGp",
+        "intro": "Serves dine-in, Offers curbside pickup, Offers delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 905 785 672 để biết thêm chi tiết về chính sách của Lang Chai SeaFood.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "10 Võ Văn Kiệt",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 905 785 672",
+        "google_map_link": "https://www.google.com/maps/place/Lang+Chai+SeaFood/data=!4m7!3m6!1s0x314217ab95c0275b:0xe053c50274e683b5!8m2!3d16.0634539!4d108.2426502!16s%2Fg%2F11vsj19vz7!19sChIJWyfAlasXQjERtYPmdALFU-A?authuser=0&hl=en&rclk=1",
+        "rating": "4.6",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "1,000,000",
+        "amenities": [
+            "Serves dine-in",
+            "Offers curbside pickup",
+            "Offers delivery"
+        ],
+        "location": {
+            "Latitude": 16.0634539,
+            "Longitude": 108.2426502
+        },
+        "website": "https://langchaivn.com/ko",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOoIUP6QRiRcesLxXpFtRglQPg7wc6SZUaVu7w7",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipPPMZObacXokL4xSzz8m3qP-rHPUugC4eHuLGih",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipPcrXZvRjvhaaQLB5MSgGDctusPOeYrfy07LFWq",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNCTaac4b8l9jc1Ss0fx-scSJ9Anwl3u-T0PuTV",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "랑짜이크랩세트",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzvI2EPGl_1oDSlFOczsjgM75rPTmd9J7yEg4eb73ue6MPoRjiy8UAbc-aw8G_N4g4tpWZuQ2qGY36nzf4PYDROfBiVDgMgHXS2hef1IMrTtdIUOE-wGZl3eI33R0ae3JSHPtCJ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "크레이피쉬황금볶음밥",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzis83zX7mMN2iFzUSSu82fnxlw2TpTvZ0-3Re9FUFgsmyQhQDuTgGue6TVbyeIct69XRNGkqEpnbu7oqH3VeNx2xxMJLGcMZNoNoq1zxHoXdc70391I_W49TojbMDPbcU1vkY",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "총알오징어 볶음 300g",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwTHuFBWR2QFF3YSAJcqTy7ZNj6eAMoqC8dKb9K-V1wYKULRK_ezTyZXDydjhl4S3M-XanEF_U-aiRbMlxEYs3lpx4cnfWwLfCtOzpnTuAgp24EZ6hN_mMcEvtv80lkJ8qjft0B",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "가리비 치즈구이",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz2tI4aix4OvO-w1YS2Sn0gFMVlkJ_MvrqNQHdRabuUWo-5HUaYMdf9AIDt0qXnC2T6bSqmzDyEbtGHlpV-7-a7bQOwUb8112J9fYlklAB8V9VMLtWqyfwTNrQvDzR75CZelf7Biw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "칠리크랩",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSww5gTMXfN8Pukt3AzW-mqVi1_gkrBzbxZXSebqvxc5oT-tMOzZTySh1PdvzsTBroICU5XTIAY93kANbdWVu78zh-t8Ls-xo9n5u5mFXJUwWkjr5rYtaqQ6VVKmw3y88bHiY6zV",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "맥주",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxnijrYcqPbAmCTXJ8WF6K4Z0xzQxeX6S1hSGbX4oYVSwebsXxLn3ZpLx-oqihHYdfu22j1RmSAz29iPiPjxMF9js3_787s5JXJRLFzNC7VRMQ0g_NGtrB3kASON74ZdgG0uOd3",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Horned Scallop",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSysUJ8p_AYtNxcnjrXt4kJfoCsYuzrNEk3RvomGtwn_VyVXYzGKCAb2DjEX4_-uuOm6Yyueg-Ar9laMsBNIKTfIfPLHl12v9FDiK62uF1nchOM9wupxXNZ8tLLpVp8lAmtHLVQtog",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "랑짜이생선세트",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx6UDWexBKh9XpdH7ZsaRs8Ad8Cr9i7VJWH67o0L6ICrJ_r-RY96nUTvRWZsjin61kTyZY1etaXjuZyOECT2jp9fHl3vxGZ_Et64jvaG_XBzUrn4fYljtscF80DlSGGkDtyifbwFA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "전복 코끼리조개",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx89KKpLpjLqP0uR5xBecWaH1lkTmgOiWn7gpxAbY6QjBhFnBD1HLOhGimbvsR_xe-FTcdj1PEVHFnPaC44n7Rdii7u-uBv_t_Gjrd3TOvPyZ-VcjYm_zkhMZS0ZzhZ6aLuo-fAaQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "샐러드류",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwRQ2DJUaDdAg-a9D2VXL3Cu1Re3icd66GBN0wQbHDKKvIZ2B2Vb_uxkg4gkkc3MeL58hVwzhykatzJjw2gHfOr0q1PFc-U-LT4aQKe0Vx1FYRt0uZLBJZJeSqx_QFcuNH_DB025Q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "총알오징어 큰오징어",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzI_GX9G8FfxPGC0I9JyAgpyPRL1ucW-DbrJSWosMHBxbb3i6AO5TJxepo3Scr7AplvuhHUTlBLzfmovx80PEVBZ66CG4r4oXW8dFbWT7A7FyNRHuFSi2E-5LQCzsG5QRvvCB1t3w",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "모닝글로리 볶음",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyXD10-udn9TvKQ5EZornssv49AGe1kMqEHSAbbVzdiETlN41fjbYupoLKBye4sUPeoPKUyvlKSE2ChSf4jjruViMvTaJVZqnUwNJicigh_tZiAL7gbp7hmsk17g7aordoBoj43",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "01:00",
+                    "is_closed": false
+                },
+                {
+                    "day_of_week": "monday",
+                    "slot": 2,
+                    "start_time": "11:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "01:00",
+                    "is_closed": false
+                },
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 2,
+                    "start_time": "11:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "01:00",
+                    "is_closed": false
+                },
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 2,
+                    "start_time": "11:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "01:00",
+                    "is_closed": false
+                },
+                {
+                    "day_of_week": "thursday",
+                    "slot": 2,
+                    "start_time": "11:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "01:00",
+                    "is_closed": false
+                },
+                {
+                    "day_of_week": "friday",
+                    "slot": 2,
+                    "start_time": "11:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "01:00",
+                    "is_closed": false
+                },
+                {
+                    "day_of_week": "saturday",
+                    "slot": 2,
+                    "start_time": "11:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "01:00",
+                    "is_closed": false
+                },
+                {
+                    "day_of_week": "sunday",
+                    "slot": 2,
+                    "start_time": "11:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 5
+    },
+    {
+        "name": "Nhà hàng NHÀ BẾP CHỢ HÀN",
+        "created_at": "2025-12-18 12:53:13",
+        "updated_at": "2025-12-18 12:53:13",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxLSq-tlOkIyFZhQUlIYF2TMLMaRYAkCJNRGMJHse5J4PbPgUnQpMtl5eIBF4eHHeekTcMX-t9VrJRR3Ew-HEHeYguP5enH-7oScHWWGWdfYxNzxXnkm4PTUv3nMCX9Xa_MmJ5h53lsS5k",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxLSq-tlOkIyFZhQUlIYF2TMLMaRYAkCJNRGMJHse5J4PbPgUnQpMtl5eIBF4eHHeekTcMX-t9VrJRR3Ew-HEHeYguP5enH-7oScHWWGWdfYxNzxXnkm4PTUv3nMCX9Xa_MmJ5h53lsS5k",
+        "intro": "Serves dine-in, Offers takeout",
+        "policy": "Khách hàng vui lòng liên hệ 84 236 3966 268 để biết thêm chi tiết về chính sách của Nhà hàng NHÀ BẾP CHỢ HÀN.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "22 Hùng Vương",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 236 3966 268",
+        "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+NH%C3%80+B%E1%BA%BEP+CH%E1%BB%A2+H%C3%80N/data=!4m7!3m6!1s0x3142192dea33553f:0x67195ccda4ab2f7f!8m2!3d16.0687376!4d108.2243375!16s%2Fg%2F11t9c4w9cn!19sChIJP1Uz6i0ZQjERfy-rpM1cGWc?authuser=0&hl=en&rclk=1",
+        "rating": "4.8",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout"
+        ],
+        "location": {
+            "Latitude": 16.0687376,
+            "Longitude": 108.2243375
+        },
+        "website": "https://cafe.naver.com/flymap",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwOwoWBXum8Sc8kogI53pHucy53clQGjEW_c7zAlMSWlQJmVnk_Yo-zUybKwNe3wxLS7gKmBQFeGyymV9CSlGmNiHnHxK58GiP385w_hYp2KGQY6HNJ_0TgSNFck9ZsKRuGHBEMfLjMDv0",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwU4fbC3DYmgfU7a19hAPXz1odfd_npUlhzaPmSV2-svIIZkd9y7l8Q69FC80ZXXHb7BmUlxmtK1OzlJ0SPIIiwGk0-iZ7VROsBoQIEYt-ARIk0Gn5vC5oY9kE8evq5NMnNg5cFbDCIWOwe",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzydtC5v3-x1vDCra_myG5b6cPfB63zGA45Mr7nhLYqcugrAiPGEXlC9fkCOoWfyHto0RUav0kgcmeac_Yk2LshfjPnztl-7RBGveVSaVa3Tzlh7BqXMtmwSI940uR5Acr76NJewpwC7ItJ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzUZP8J5S3X4aSL-oHWN9pMkhg_R1Ai0JQYEQKvOW7JJWt3-6Sqbfk6EsWqJ6q7eem8UhdzAqZV9O5bQAtbkrEFebaiwqqMlCBbD4tNi5DKI46Z2VAGrAFGgovHlPIh0Ijvfcs21nz4urE",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Fried Rice with Pineapple",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzB8F6jFd40ZCLSzVj16svuqmYUFiFKktT6DsV34bw3scA0W5IS8pKk0k58r0dbbPsAhEmGR9erJJ4sHh4S0_cxRhSL7ngtEwLUFCZwxpcbWlbvUyjXWHlpPKGJZjjuQHR6p299",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Deep Fried Squid with Tamarind Sauce",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1k7E_aO1NAtrLcjCYuN-fDG6IstsZX51pI3fioDMTti0EZxRXRHXAbH3ohTpa7UevS9oUFVmJj2_SOW82MzvmaENp3pCq2dd3v2HotIoUhJP0pohbAAPbDKqKxB4hW7gJlNKs3D4XzGzU",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Giant Fried Wantan",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwpAO8pMtOA81iRJSLfsNU17IzS9I4zUuY6VIWcH12UWAz0KeG_KNqOMTmksBMI8nz7fMtj1sMRe4QXVb5_E1ub8QK_Lm9NsGYJmojV-xSpTLnGZUgzMfHG5prvOL8XDikVlaBU",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "반쎄오",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwmF8x3ZVahQ90ysSXS0Ia95XVX2eYABLysiv8Op9nZHnRS0mgWivYS0cdJ4WWLiUat_yfuh7QEyCAy8lpho3JMPKxOpbLxTvJImvUAsl25ZqOq4uVcBpgi75Q7V94nXIYWsIXkEA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "김치",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwdafBHBiD_eXwKr3EnUsL4FZRYLd7YcVYFBrPV8L53YW7sl9cIRch5Jvs8KfPAxlRzmFJAtpqk02Uwuko5w54AvPuTLzy3Epa3n1vPUSz-1W6QsDEAcJARUKZ58OKKVGapBfJQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "미꽝",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxpZAveMbm0u7dgyeerYunNwcIZ1cl2S1ahsy6mBlHof8MDv8Xn7tMEf4912iPaFGq2l9Y2eNd-FB6AhbUDNriltFvgc1W8RGsJ0ugYhKYAkkNU8EfVm3xz50M7pFRahinUlhEQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bánh Xèo",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-eYK-uZVxyNNXUTB-e3zBZCjrH6rpoMnqtdBNRVwAlFnxjppdJe_Wg8QmTwzRcu8vpu9AbTBOCls4QO7Rz-FFUHIv4aXCWlebRG2cqR8PDlH1VuO1dlUGDT1_m47sVwgGFh50q51_QRaw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Seafood Mango",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyfffT0igdhhvbWwTWLdUY0bKGE4PGhAloB8g-9uiZGHDsp4GKjVxX_ACs8pHlP0XkQoX5w6XKUg12wgLVj5EEuwcFKt_dRSEsLFBdhIxQ85RwmORSpKSvhkwXgNdlOpZjQimvouQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Seafood Platter",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzdjLyVMBQz7zJgAEDXt-m6lZWLvOjWylLK7zc91a1AfzaqBmh0WjECkRjOZEHAp1gRgRSdWe7HDvnxMTDRfAydSR0eC8bpoE4qe2zRP4fBy45K4asZdfLbkFXP3LrOUykx7ddbAg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Fried Rice Seafood",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSywKb9dPobvx4ZD0wTEJqHLpv9ohBbiwUAC-rKeUvc4ouXjR1IVyZBPvsto0fEdSpT-G4tmu4-GqCXCY5y9tIMuzJJRHR-f6t8MHYgSRlO0rB1lnC2P2msrTZVZJAxITFTPjXcN",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Fried Shrimp with Greenrice",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyA68LNGRpPwkpio3clhzYlLfpMY6T3CZEsfaEqKWT3BAVsEJTThqq7LyiUabc4aAoRs-STjVmpKoLC-pY1FXvkr_kO3_Gg6wJHc8jmhO0yHCGXZtlRciP2HO9GPdjKEBQReWn8",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cabbage with Oyster Sauce Stir-Fried Shrimp with Mung Bean Sprouts",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzmGvj2OIOtmi3RbkQ_Z_jV7vn03G3G3NTDTLCN5qp0o1uWeA0t6bdlb9P32aWF5cczUJwAgts8Tihf21aJOlZrxk-_K7nWYje8nfawocle54CIz0O1q3j3GbtcZyd8jhIX21_fYg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "1 500 000 Crab Combo",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzgjYhNnT609rgV1iDdkab3PAzQCYBm25c4Wr5B7rcv8hNyPLTRNxLeOkOmYXLosgQeREBY781qpxqyHfxtC31vfvTGkuPIKKHbkcGtHSEZbQdLZ3dj5jYKQzXzbq_xpe2n8861rg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "망고스무디",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzLSZGmlT6h8SuQU07BR0OSRVsKcGz2oGtgbJOJiWp3TiqFlwsjmGKJ2n6nh_oCeoGTt89ofPUCRUQSjFR187jVlmde3qlqDXzOcbWdl7i9RSy-77Cjc7hjYyUhusLO3d1L7CKQpw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "갈릭새우",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy_gDY2EPzW0aKHYYbJC7z02p63SfraPh_9KJReEPwV8O1ES9nxVPrQXXFpagDc8rQ4xjw-CwVxafZdPwGKZWiQGpFA0fgUEuqZsYDN-mzvdNzMiRoZ-2nN6QogwVNW3VorHzCA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "스테이크덮밥",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx_GR0upiqiGm4w-ts_TWtcVIj-F4UkiOUuOjvidTAZlCYZQBE1l9MT34yNNp0sGIa8FnAzixRQJFd9yXfQylDcZTNtyew9pZdKKLSk9oIFSsMpVA9wsV1N5ZBTY06_hiWbYDqU-A",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "타이거생맥주",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxELu1MDkO2v1EQKONoNEB8AJ1OQBMmz-GDUqSIvvfdqkX_q0YjXkCNTEteqTDvjoQ79km2qznkEI3qtd-Pxt2N30PyYUOZz8h1NHL60PIkqC2ucXoEB1ZWQG9CX1cPfkGqn0oe",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "망고샐러드",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwZieIIBxEzR1xqvZ4jdr9x454OPRQwo30C2hqOcmtjsKZORzt3Gm9hwbyP9wg6I5F4UJtiGvjuEA-3_iSXTxCjYMWVlaUE7q0OoMjpnulUXZx2ey767ZY8LsIER_Q9NyFS1ePt2Q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "완탄",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyp4RlLVDAwv7b-SlD6_HzTfvzh42cio2rNGRB53wu4cXVdZsJsJvy6EC3uVJzdPIB6dJEHD6YyxWGRVwsKbck8G3CCQYkvlBojIKkW9yYGsY3y0LEzn3HD2iBzP11VKSEbu00",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "메뉴판",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxpvCfdnqo7skArorbIwnEJ2Lof9t5j2lcsxDGB_52CB3mJ_c6XjsBOI1MCBaBYkmTGSjhMgbuVQR8ZRAA2wggRm7emkQEjbAnnt1ZKpPBRUOKg9PHqJwWVW2fe1OAJSdjKKXm2xQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Deep Fried Squid with Tamarind Sau...",
+                "price": "",
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Cabbage with Oyster Sauce Stir-Fri...",
+                "price": "",
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 6
+    },
+    {
+        "name": "Hải sản Mộc quán Đà Nẵng",
+        "created_at": "2025-12-18 12:53:25",
+        "updated_at": "2025-12-18 12:53:25",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipMpHjngg2k0alGM_GzwPVtv6zZI3TBnCDQ-dkTO",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipMpHjngg2k0alGM_GzwPVtv6zZI3TBnCDQ-dkTO",
+        "intro": "",
+        "policy": "Khách hàng vui lòng liên hệ 84 905 665 058 để biết thêm chi tiết về chính sách của Hải sản Mộc quán Đà Nẵng.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "26 Tô Hiến Thành",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 905 665 058",
+        "google_map_link": "https://www.google.com/maps/place/H%E1%BA%A3i+s%E1%BA%A3n+M%E1%BB%99c+qu%C3%A1n+%C4%90%C3%A0+N%E1%BA%B5ng/data=!4m7!3m6!1s0x314217721a8aafc7:0x1c948e37d3931fef!8m2!3d16.0639962!4d108.2415744!16s%2Fg%2F11h64qj0wn!19sChIJx6-KGnIXQjER7x-T0zeOlBw?authuser=0&hl=en&rclk=1",
+        "rating": "4.7",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 16.0639962,
+            "Longitude": 108.2415744
+        },
+        "website": "",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [],
+            "tuesday": [],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:30",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [],
+            "friday": [],
+            "saturday": [],
+            "sunday": []
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 7
+    },
+    {
+        "name": "Ơ Kìa - Seafood Restaurant",
+        "created_at": "2025-12-18 12:53:55",
+        "updated_at": "2025-12-18 12:53:55",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtXPUJxN8LdyvvIXCj0LUolQNRwWoF52nWxKd3noIMlN-hvuEhuU2-cgNmuZnjTgE-PvSIhQEyGVV51yrDehLBuDQKUJvj68kqIDT6m_ICMvLbtfMlyRet6fuZsq3rcjjY9ZjE5BdUoN7u",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtXPUJxN8LdyvvIXCj0LUolQNRwWoF52nWxKd3noIMlN-hvuEhuU2-cgNmuZnjTgE-PvSIhQEyGVV51yrDehLBuDQKUJvj68kqIDT6m_ICMvLbtfMlyRet6fuZsq3rcjjY9ZjE5BdUoN7u",
+        "intro": "",
+        "policy": "Khách hàng vui lòng liên hệ 84 906 430 707 để biết thêm chi tiết về chính sách của Ơ Kìa - Seafood Restaurant.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "7 Trần Phú",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 906 430 707",
+        "google_map_link": "https://www.google.com/maps/place/%C6%A0+K%C3%ACa+-+Seafood+Restaurant/data=!4m7!3m6!1s0x3142199eef80bd7d:0x74fe36a686707bc2!8m2!3d16.0801078!4d108.2230986!16s%2Fg%2F11tfmznbvm!19sChIJfb2A754ZQjERwntwhqY2_nQ?authuser=0&hl=en&rclk=1",
+        "rating": "4.9",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 16.0801078,
+            "Longitude": 108.2230986
+        },
+        "website": "",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [],
+            "tuesday": [],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "06:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [],
+            "friday": [],
+            "saturday": [],
+            "sunday": []
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 8
+    },
+    {
+        "name": "Truc Lam Vien Cafe Restaurant",
+        "created_at": "2025-12-18 12:54:13",
+        "updated_at": "2025-12-18 12:54:13",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOpWTs9t3aa8YMOdlKmg9B8_NNZRfeX78N6BVQB",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipOpWTs9t3aa8YMOdlKmg9B8_NNZRfeX78N6BVQB",
+        "intro": "Serves dine-in, Offers curbside pickup, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 236 3849 969 để biết thêm chi tiết về chính sách của Truc Lam Vien Cafe Restaurant.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "08 Trần Quý Cáp",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 236 3849 969",
+        "google_map_link": "https://www.google.com/maps/place/Truc+Lam+Vien+Cafe+%26+Restaurant/data=!4m7!3m6!1s0x314218317e4d90bd:0x2f943617fd057a6b!8m2!3d16.0817179!4d108.2217503!16s%2Fg%2F1tgby78f!19sChIJvZBNfjEYQjERa3oF_Rc2lC8?authuser=0&hl=en&rclk=1",
+        "rating": "4.4",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Offers curbside pickup",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0817179,
+            "Longitude": 108.2217503
+        },
+        "website": "https://truclamvien.vn/thuc-don/",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNSZ7x0ShISC-WUjdSY6SLdjL99-zKbN3cUgAT9",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipN9FkrAplNp-KcKg6hFposMj-6b4fN_dYtqDVL2",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNd3mElgCKrvbWCeXh45t-ULRKDwSEKXcNNZ7Ty",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNnnP-PYKldDYZYiwIsGQUxC1xLoLyIqq8sBjYK",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Grilled Beef Wrapped in Piper Lolot Leaves",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzqcNETKKVx1qX5iaivMcXco2g1eq6YJVBkszz0n9RQ5LmQvCMNyZUwBIfMyR-WGmUktiW3TkceP0keR0RoGo78LG3o2ak2cm8J4EAwviAi6VDQWZG3cHLIaci6w7hCGS9qk3bp",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bún Bò Huế",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyZi7gT_hN2FQZAV48hXn8MJVnUgz9E87AuHP-Y8n458QSaxPlfiq-CGcuzLikm67fc4pse90drow6DvC3DmJkPEtoK8g2AqRmWMc7KIiy993eziZwBK_lmB4yv4anhONArJ88Trg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "揚げ春巻き",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzi65nxmij6L0bk0ByZFCzP3JPWdY461UOrGgZOSpVsL9T7e0h6KnrXFpdJGknW_KAHw5xRTnOnG457KvyUwQGdBhviMJ1SyM9qDFevZPyFmQiPeGiyAndxr6MmQq1uNkeW0RMZrQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Salad Tôm Mực",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzLPMHjmaey6KjHE_Ac-zIQ0Kr2q-69iLKDoyypfjRFUqxKyovK2mZg-P7R6V8-R46Fi6y8oLLUiNJie9IJrFgqn4HtLCQVDPivOID2FWK4Yumh3Nabp9omCJnKZ-7YYpd7IgqS",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cá Bống Kho Tiêu",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy9rNcPJJS9NSbEYXfqX0M2jO54Olw5YJQzOT3r7fgg8gyNtrGjGFevueEgNImOohJmuPnO62PtNq7ZQ10lpoSGnjPrmoOZrgUcJNYzGuPWVOms6uHEJb-frzAwDu7CRqsSAew2",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Grilled Beef Wrapped in Piper Lolo...",
+                "price": "",
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 9
+    },
+    {
+        "name": "Hải Sản Xóm Chài",
+        "created_at": "2025-12-18 12:54:14",
+        "updated_at": "2025-12-18 12:54:14",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx67SV8qlSKfqorHTiy65L9YpRRp1OQDygCC9Av5UmXKBmpIm5qVpX3ImF1eQqvTzBxbvnXG7C2JCZGb30r-CsRrx0EQ8Sxo2kcfgjv37H7rvQAhHZzwbTTpklUz9-ZupUOaW4T",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx67SV8qlSKfqorHTiy65L9YpRRp1OQDygCC9Av5UmXKBmpIm5qVpX3ImF1eQqvTzBxbvnXG7C2JCZGb30r-CsRrx0EQ8Sxo2kcfgjv37H7rvQAhHZzwbTTpklUz9-ZupUOaW4T",
+        "intro": "Serves dine-in, Offers takeout, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 905 199 199 để biết thêm chi tiết về chính sách của Hải Sản Xóm Chài.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "2 Đ. Doãn Khuê",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 905 199 199",
+        "google_map_link": "https://www.google.com/maps/place/H%E1%BA%A3i+S%E1%BA%A3n+X%C3%B3m+Ch%C3%A0i/data=!4m7!3m6!1s0x3142198fa01b2377:0xf8357d2de3aa9663!8m2!3d16.0362952!4d108.2328249!16s%2Fg%2F11k11mt49w!19sChIJdyMboI8ZQjERY5aq4y19Nfg?authuser=0&hl=en&rclk=1",
+        "rating": "4.1",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0362952,
+            "Longitude": 108.2328249
+        },
+        "website": "https://support.google.com/contributionpolicy/answer/7400114ref_topic7422769",
+        "images": [
+            {
+                "name": "Photo 1 of 6",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw1jUpqA71G70vbddBKunyZMlOrBPAOaRljlNKgVVLwEtuAjL_Kjhq0FJCys4lIBdKys11Z1HcA9KiDC9FS3dGUkGnYTh6LNYbZqwbKOH4Q6pwnDVns8lnhpglIbdd3aNMyT5lm",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 6",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzal0tFIHdp6GPC-ciSze69gk5OhRAYzJ4awkvsJg2Z5g39yUVEiM_uVTmo3ftjhC-K3Q53n1MGcoDPD-7eSxORKsQxYnDwCdR0Y4GlE-zmx6S7ogjj6SMTrxHGahlVo5OAuORTaOwTDzQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 6",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwzQK-EAcGDEtZECepN9bm01zetm_wWn0Cq6bvyMmiJypEk3_h3iakPOcbFX1qcq50YMKx2MDjIgdiCZaiXrdjbMLNt4wZtMCE8HNbrnNR9EYOgBe4W0irA8r8lPvnsANadDcWjeg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 6",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz33N1LMwrnlZLTvl6G9vGKMRO4N1oWzKQoi-8xg9sICnvDBgoOeuifGQUyN7wiLAsBEmKwBO1Q50cunuqCs7IPwjlZry7ZGQxjlXW7_9TpNVjnyfQ9Nqw8kEvK8jsdKFlDqmk",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "모닝글로리",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwvUq5np25BRC0cXZxxr5YprTg4xtpY4eTmqBASnhi2BLr_-P3LBhjXjUz8UNQQVtx8CJR-FumTRyFxHIRrPkbMchs2nkJWO_QLCLpC0X88M3HBMzBVjhU0KT406edwa4LgZWo",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Salas Cá Ngừ Dầm Chua",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxadIPD15AI1Kv-s6gBWgwxgk3KLy7CyKYuhQiwh9AJ-EO4KCqoOr0bgULN3piKz0E0Jj-F1WJoorD4dGcfYy1WO_zjIFaBL-qJHhqF-xvN4i4QO1RJFtZo8v_chM1-Grd2zkG8oQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bí Non Xào Tỏi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyPLiRoZaPNYEmBfpQKjagQ4Iki0jn_qIFHHSv2DSs0IUxtzDuiYDPxXgMLEAMRpe5SAMxoBJY6qhW82ukZZcui4x11PuLOVjBu50HRAzfVHsZ_7hCGTdaZPhZqPNQWjbENcGoJ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "감자튀김",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw3N6JeNOU92L94cxvo9eo3y0OETPiMQZdOjnkK0kv7B2TmQ6l3CAnun1W0IYDkn2LFqBdTgHT7HCc7DiOf-BZTQLlTFvfUWguq4tRPSvPnJEaxAmp2h5irRGytzYlWhiz4k-Ua7Q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "C C O",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyXNuNxKUu-SdDudB9C52UBYOum73zF-V8HpaKrkldIJV3utfyaNi6pYVkJgfKWlmb-1fcNmVJQKrDyQFvZpY1KqivbgErfL1CCtj_kCRTEGhbIgdsEEiY8MU21JizpDMQLAsjseA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "해산물 볶음 라면",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxZpzFpjsqzI_FWfrPhyPZxGNyptZCgJDlILwcwWpsvvQ1UJ3aUaijTDankN5tlmKJkhi28ZZoa9naNIC1cX-0DarOtm_xkwVNOJBc17QhDkUo4K36ppJw1PXWVkLmrGNwo4A-u",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Ốc Xào Dừa",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwRK7trdsfq78DXbvMa3-Yjv4fCDUuAdTrBRhpqna-v4IMRt0X7rdknxL_9oyGRXrf2Mu784sbBbFbPifqscBK8C9opzkq4xwp7Gpl_6tK-XQyuCi75Hh6RD7UwxU2ferRN6Io",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "마늘버터소스 새우",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwfEmhpcAzLsCpWm-7og88AErlFGidRXhq0YULcZgwb8PyWABLvd-uYrxHABLnLNqxmqOHBnHiuBCXjYz8iSunfyWABEIb7wuA2PBrWSpTx2iOX21a8gUckWCvEk-BXEQz8E_4B",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Tôm Sú Bơ Tỏi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzTs1nnzZjCOSsPWHsMUd7AsZ-O8iB48Ko5nLRJSUZygYxNpZvtmhIOoQjvAhaSMhvoQYd-5XPO67wEU1qvmZ8M2wDUJ2iP4azB4y_e9FTILkNDb1nJI9xNS-2Z22TE9kQVEmBusA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cá Mú Sashimi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwl1BwWfwpsTTu5iziVz_B3i5NQmT-HgW90Vo5IX3IgYfAjXP7EyTzVWUF4O3pk2PAjiTh2ZrMMqw5J3nUfUvy6Khrm5GugseyYFx0itvrj6GZoW9caq0Hz71B08tknBDhbYLaO",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 10
+    },
+    {
+        "name": "XÓM MỚI GARDEN 씀모이가든 다낭 맛집",
+        "created_at": "2025-12-18 12:54:43",
+        "updated_at": "2025-12-18 12:54:43",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwmxWfKbYKRIl75SNblg2L9n_gZ2mseyPXac3BBWwJzjv5Qrk92LlYZcAGfinMKJcjvb2hkbAN5s0dOIpRyL-XM9cpHDMfWJCsnIVj7DyGM7HyqMy4_xelL3vKMViL-6DafyHi_",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwmxWfKbYKRIl75SNblg2L9n_gZ2mseyPXac3BBWwJzjv5Qrk92LlYZcAGfinMKJcjvb2hkbAN5s0dOIpRyL-XM9cpHDMfWJCsnIVj7DyGM7HyqMy4_xelL3vKMViL-6DafyHi_",
+        "intro": "Serves dine-in, Has drive-through, Offers delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 931 951 004 để biết thêm chi tiết về chính sách của XÓM MỚI GARDEN 씀모이가든 다낭 맛집.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "222 Trần Phú",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 931 951 004",
+        "google_map_link": "https://www.google.com/maps/place/X%C3%93M+M%E1%BB%9AI+GARDEN+%EC%94%80%EB%AA%A8%EC%9D%B4%EA%B0%80%EB%93%A0+%EB%8B%A4%EB%82%AD+%EB%A7%9B%EC%A7%91/data=!4m7!3m6!1s0x314219b8ec8aa88d:0x549d60ff0ccf0b49!8m2!3d16.0635047!4d108.2232139!16s%2Fg%2F11vryhb3c0!19sChIJjaiK7LgZQjERSQvPDP9gnVQ?authuser=0&hl=en&rclk=1",
+        "rating": "4.9",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100300K",
+        "amenities": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Offers delivery"
+        ],
+        "location": {
+            "Latitude": 16.0635047,
+            "Longitude": 108.2232139
+        },
+        "website": "https://autoreserve.com/restaurants/XE4YWFLQT5Zfkk52c3Sdrwg_tokenACgRB3erNe7_fjIllNNv-maiAgZZGAbLqv2oiL1RRFaIQMWVBOHrw5pK_sBlpykDnqYkqeEKGzbb-5TlmrzaGIBZOJPmL7kxUsO4wa-SgOUJok24tEpJC3Q3D",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipPoCmQQFPPMLsKZ9L3pSvrnP1QL2Tt-Bn_zDImC",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMp5nyDFiKAm6HcpdfLQDP3vkjv6HmKkPce71CR",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMeUCnfDyLexGPrjgyzJigDVgrAPTfjeAShtwh1",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNq3G3jsorkVmgi4bCA23ymJ1__HqcJ2fT-4ws1",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Pineapple Fried Rice",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyheLNGCQdyE7Nyd9d2m0AsJQA4iwiZF6CE_Cb0bNG-uFRuBdeqfJx2gx_Fckv0vaS3P6bnUz3xXpZ9vW6abWGezbwhZLxCUH46MX9GUFemhMiH9zX6zUrMJ4zS153g2kBuEhWc",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Shrimp",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwZbJMJkw2qIaqfRdQP13kyc2cm3zdVRCe_PkZhudkSTKg6yTKJozQBPQrwQ9i1MhZl357yPCbXjJyC6yTmEJmDRsK5sGO3sshKEuuoIbjahs9seVuW2HY1WlHXW3TGnE8vx9LM",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "쌀국수",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwV1szj0Ln3vXxrPv1s5tmiAOeMTwP24uZPrbnl9bMHz37LQOf78LitW0sP5MFur-8ubfYawizkk5_kXWP6H6G1L47LooqquBrAdSI46AQeDlXQYlRSpTt8F_654V5SdD3qV-In",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "반쎄오",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyfNrz5knj_H3U3U4dnWeqxUmVNyVvtbCGlh0wt8vdS-fAZZetSwbdIWVwJj2RMIF9hTkskBSGtQrq6Qm-7lh5_z_jcKrCyc5-9hcljoq8ZJDAGOMq8yaUUFE0RsulX9_HGErN6cQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "チャーハン",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-4aA_UWlBh2exEoad_hQU69rnqBblDsznGv48Tg2-evjIgFyT_rByl36OttNKEJtiM2QD2MAOZ5fKt5spYo98ABi7gyB5IQJGHP2MnkuYYIzIx96skY4g100vE45EqPwWU_MS",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "두부튀김",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxHtbu5c5es8-I4Wx9KQaYB_IweWSprm9swVFHMqRx26FaSdrnphXLr3mppbb3H9Ph1pgq642rRHXhq2qtKIzCLwDvHN3kkm3jeoZxzy3MOfez-XTYu9MQwV--tBHOrfbapNpu8",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "미꽝",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwo2F7Vs1j7EQxwZyiY8xDMJxeojBPdBuE0pTtkiWjKYmBG0_IjVHXh94TkEfeBEWHXDYu79P9_HdIcOcFZfJN9eKh5o_aEw3BNhjYBAPORNaRD4IRCSyfbqB3J__1gWXO1jyE7qw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Pancake",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyv-QyKcWGHAefc4jXixhai0z0ILzVltZMMakWiWr_glOH9XHtYIuqRJr3Rf54HVJOahVONP3bISPbFgRH4rLWEkpiuxdXyPfmCIr62jyVHQBUqbWJYcBH4KkHoLyJTdIrGgWHLig",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Chicken",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyCkxhaW2bpKPtQs4mYhYuH6e7q-oO15lbTdrn_04oP7qtJ6V29XuBiLXKmRgrJl5vX_iQJd_vryk5MPiABjkw3KER5J0EofbRca5TgJdsf1jSKUC-uA5P4no8XggLXm4zWiY5lAA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Passion Fruit Juice",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx49JrctDHB9sf3JTQGjRo3I9yOYLwohEdhzaFhlvDQ1QOSyxUJ6J8NHJYWpmTGRhihBLN5tCF-jPN9H2GCFWoYoZoHmcylVnPCbou9h8Kn0zLaZ3mkKhEg-Nh8P_9NTN6IIaBM",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "春巻き",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyPhWbpA_WIVQVjzDWwJUvuc7P83hlhyDf--H1639Y12Xy5Fuk2Fs3RsEVivtrV2s1PqevCRyiA_ZL2gM43_BQBWwXUSEYk9AERli4Txgf6x6OppFUZKS1wdemCLusGRMbpeAqj8g",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Combo Bbq Sườn Nướng - Tôm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyiOB__b6MQ-2I3_MdsftNNuEkN2Cd1Dcsq57sn_Us00KWySxAtyy4Uu6MdvahKpzBfUKZbR5ZTc7kZjplaPIfuXiUZdTp91QiH3nfe_nRdknpnIowAIIsnldorU9IMQ2A38RZUMQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bánh Xèo",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzm4KkO8SVaenL17DIcbuI5hL48R0BQax3ncDloJFsxpnm39J_8E1yLyMy0tc3dJIOLOaRYyvDXAHnETefwByCXyrvLIV7n4fl2Dun8CJrbLbw_HcRIMFewKAAoaaw0t7QfQbV6bQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "코코넛 쉬림프",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxGtM9n_yJAcg0bO-MZAmCeuXqnNBR5rcnI8x8ZIfU4jamKUHC_g-q6tZkZk2Zs0gGAXcqgymo99eIBQDoRX0-1LZmsIXAKCZEs241cLvC6TWygpMDNVelKhyooyzmpXUQrS9pd",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 11
+    },
+    {
+        "name": "Đặc sản Ông Phước",
+        "created_at": "2025-12-18 12:54:49",
+        "updated_at": "2025-12-18 12:54:49",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipM8wavzXx39hgMah-eiYPdFGuWzjQAvowmzLGKr",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipM8wavzXx39hgMah-eiYPdFGuWzjQAvowmzLGKr",
+        "intro": "",
+        "policy": "Khách hàng vui lòng liên hệ 84 917 257 389 để biết thêm chi tiết về chính sách của Đặc sản Ông Phước.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "02 Hải Phòng",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Hải Châu",
+        "ward": "Phước Ninh",
+        "phone": "84 917 257 389",
+        "google_map_link": "https://www.google.com/maps/place/%C4%90%E1%BA%B7c+s%E1%BA%A3n+%C3%94ng+Ph%C6%B0%E1%BB%9Bc/data=!4m7!3m6!1s0x314219b9b51e313d:0xd3b2deb28bd2ae8a!8m2!3d16.0720186!4d108.2139701!16s%2Fg%2F11ht_8553b!19sChIJPTEetbkZQjERiq7Si7LestM?authuser=0&hl=en&rclk=1",
+        "rating": "4.3",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 16.0720186,
+            "Longitude": 108.2139701
+        },
+        "website": "",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": null,
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 12
+    }
+]

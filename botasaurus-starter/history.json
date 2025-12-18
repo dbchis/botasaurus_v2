@@ -1,5 +1,27 @@
 [
     {
+        "time": "2025-12-18 14:17:08",
+        "type": "Nhà hàng",
+        "location": "Hải Châu, Đà Nẵng",
+        "wards_count": 3,
+        "files": [
+            "output\\data\\2025-12-18_13-47-47_nhà_hàng_thanh_bình_hải_châu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-18_13-58-58_nhà_hàng_hòa_cường_bắc_hải_châu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-18_14-17-08_nhà_hàng_hòa_cường_nam_hải_châu_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-18 13:08:17",
+        "type": "Nhà hàng",
+        "location": "Hải Châu, Đà Nẵng",
+        "wards_count": 3,
+        "files": [
+            "output\\data\\2025-12-18_12-49-50_nhà_hàng_hải_châu_hải_châu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-18_12-55-43_nhà_hàng_phước_ninh_hải_châu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-18_13-08-17_nhà_hàng_bình_thuận_hải_châu_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
         "time": "2025-12-18 09:29:36",
         "type": "Nhà hàng",
         "location": "Ba Đình, Hà Nội",
