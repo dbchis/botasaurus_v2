@@ -122,6 +122,65 @@
             "Linh Trung","Linh Xuân","Linh Đông","Linh Tây","Hiệp Bình Chánh","Hiệp Bình Phước",
             "Tam Bình","Tam Phú","Trường Thọ","Bình Chiểu","Bình Thọ"
             ]
+        },
+        "Đà Nẵng": {
+            "Hải Châu": [
+            "Hải Châu",
+            "Phước Ninh",
+            "Bình Thuận",
+            "Thanh Bình",
+            "Hòa Cường Bắc",
+            "Hòa Cường Nam"
+            ],
+            "Thanh Khê": [
+            "An Khê",
+            "Chính Gián",
+            "Thạc Gián",
+            "Thanh Khê Đông",
+            "Thanh Khê Tây",
+            "Xuân Hà"
+            ],
+            "Liên Chiểu": [
+            "Hòa Hiệp Bắc",
+            "Hòa Hiệp Nam",
+            "Hòa Khánh Bắc",
+            "Hòa Khánh Nam",
+            "Hòa Minh"
+            ],
+            "Cẩm Lệ": [
+            "Hòa An",
+            "Hòa Phát",
+            "Hòa Thọ Đông",
+            "Hòa Thọ Tây",
+            "Hòa Xuân",
+            "Khuê Trung"
+            ],
+            "Sơn Trà": [
+            "An Hải Bắc",
+            "An Hải Đông",
+            "An Hải Tây",
+            "Mân Thái",
+            "Nại Hiên Đông",
+            "Phước Mỹ"
+            ],
+            "Ngũ Hành Sơn": [
+            "Ngũ Hành Sơn",
+            "Hòa Hải",
+            "Mỹ An"
+            ],
+            "Hòa Vang": [
+            "Hòa Bắc",
+            "Hòa Châu",
+            "Hòa Khương",
+            "Hòa Liên",
+            "Hòa Nhơn",
+            "Hòa Ninh",
+            "Hòa Phong",
+            "Hòa Phú",
+            "Hòa Phước",
+            "Hòa Sơn",
+            "Hòa Tiến"
+            ]
         }
     }
 }
