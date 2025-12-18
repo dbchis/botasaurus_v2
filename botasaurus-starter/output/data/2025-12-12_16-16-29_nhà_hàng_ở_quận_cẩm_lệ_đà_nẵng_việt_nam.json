@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Truc Lam Vien Cafe Restaurant",
+        "created_at": "2025-12-12 16:16:28",
+        "updated_at": "2025-12-12 16:16:28",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOpWTs9t3aa8YMOdlKmg9B8_NNZRfeX78N6BVQB",
+        "intro": "Restaurant",
+        "policy": null,
+        "note": null,
+        "email": null,
+        "address": "08 Trần Quý Cáp, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "city": null,
+        "county": null,
+        "ward": null,
+        "phone": "84 236 3849 969",
+        "google_map_link": "https://www.google.com/maps/place/Truc+Lam+Vien+Cafe+%26+Restaurant/data=!4m7!3m6!1s0x314218317e4d90bd:0x2f943617fd057a6b!8m2!3d16.0817179!4d108.2217503!16s%2Fg%2F1tgby78f!19sChIJvZBNfjEYQjERa3oF_Rc2lC8?authuser=0&hl=en&rclk=1",
+        "rating": "4.4",
+        "reviews_count": "",
+        "type": "Restaurant",
+        "hours": [
+            "Friday: 6:30 AM9:30 PM",
+            "Saturday: 6:30 AM9:30 PM",
+            "Sunday: 6:30 AM9 PM",
+            "Monday: 6:30 AM9:30 PM",
+            "Tuesday: 6:30 AM9:30 PM",
+            "Wednesday: 6:30 AM9:30 PM",
+            "Thursday: 6:30 AM9:30 PM"
+        ],
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Offers curbside pickup",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0817179,
+            "Longitude": 108.2217503
+        },
+        "website": "https://truclamvien.vn/thuc-don/",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "06:30",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ]
+        }
+    }
+]

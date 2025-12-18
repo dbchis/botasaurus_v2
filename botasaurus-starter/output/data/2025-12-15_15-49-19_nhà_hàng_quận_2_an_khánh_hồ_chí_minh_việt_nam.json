@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Nhà Hàng Chay Bồ Đề Tịnh Tâm Quận 2",
+        "created_at": "2025-12-15 15:48:10",
+        "updated_at": "2025-12-15 15:48:10",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipOq0PWX9V7CIfYoc8NA6EXRNyrA9nunG0weAF-Q",
+        "intro": "Serves dine-in, Has drive-through, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 935 343 808 để biết thêm chi tiết về chính sách của Nhà Hàng Chay Bồ Đề Tịnh Tâm Quận 2.",
+        "note": "Thông tin thêm về Nhà Hàng Chay Bồ Đề Tịnh Tâm Quận 2 có thể được tìm thấy trên trang web chính thức https://m.me/nhahangchayngonquan2",
+        "email": "default@gmail.com",
+        "address": "160 Trần Não, Phường An Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "city": "Hồ Chí Minh",
+        "county": "An Khánh",
+        "ward": "Quận 2",
+        "phone": "84 935 343 808",
+        "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+Chay+B%E1%BB%93+%C4%90%E1%BB%81+T%E1%BB%8Bnh+T%C3%A2m+Qu%E1%BA%ADn+2/data=!4m7!3m6!1s0x317525fdfb805777:0xe52be0166135deaa!8m2!3d10.7919215!4d106.730317!16s%2Fg%2F1yj4k3l0g!19sChIJd1eA-_0ldTERqt41YRbgK-U?authuser=0&hl=en&rclk=1",
+        "rating": "4.1",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 10.7919215,
+            "Longitude": 106.730317
+        },
+        "website": "https://m.me/nhahangchayngonquan2",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipODZmBdNk9zWSUNQ1vpCP1V2YTysVfWYBxi1Tj2",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOFpv_wBCsWhYANLn7nFwzLOhAjAYK7jLCfbiRJ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOuPCLdXoRwoBW_kWceTPBAEFo6iv5uFuCegO6N",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNftCNOaKQ16xTwgrYgZ9Cuq_7XW9wQzMUWp8e4",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Egg Roll",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyTwmU4crTo3KmqqB2qfEORreyPD3xkDy0r7stJ1FGAi4-BFcKC4XAfXw_cuhZyptFyWN0FlwCznDj0Tll15cEe3AxNwh2ZrMHDc8_DcgwjYR0fpoefGqSBlsn1fJ2dA6mVvak46g",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Không Gian",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz-8l_eSLOWzJSfp3TAJ9knGAaNMkMcokQnF_zzD-uJ2ZYQz9m_RFWmrvX9FR2QxHMV7Ibrv_e0JH57SXWD0rZHLsvBJnUkBc3VSqs3bQAjCrARNS2kYmE3CZV6UANVQLFG4G5P",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Nước Sâm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxLimbqaEXSmofE9BjIBlz_yeSxlhliYq9DCAqBnfsddbHbIeAWmvoALYI7bJLl0arbN9bR9fUc7j4dexq-lBGvpq808IZIFSLMMrF9jezOM4Azndujwh072EUyoViXmsTxjkpYnQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Đồ Chay",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy90fRfKtONSp7j79i6lbUuAZtNZQ7sPfHksJ-juzVR2ys8ROOgEao6YRLS9cNvQBoAS-2Juef1PR__GfRj0OnVXDpEQJ5O9YBG44BYA55IHwgMZ75md08tbWjzya1id7BoL-Q4hQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cơm Thập Cẩm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwvZSCxOHEDnWmTvFlPYIpwSifdnVprxPPXHPcB2wdbXy2AMXuSjBZcRPqhSvxBGU35ncZimeRhixb1JijGQa0ONDkyIc9409LenS8T9gpHq9asiWyrqsY17gXNB1kt0dm9Q9q5BQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cheap Prices",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw3U1jLUhOkXXyT7yMrdIO3tGbEESs3HzS35bLJN7b9kdXVzr6Scbf393xihhfP2MU8diYpw5N18BBJ3aUF2kS-3Td5vWa1ndE3UGI1hWO4aHSoF7r6GmX8qe6qatkyQx23fYeo",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Fried Rice",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxP7NHev07VdLWeZcpgXQD3DN3rs_jZ6LrbRUOWK7zghwSiCenMM6LVfQB3hRUKdoH3pe9OFHod5XaArWL7rJuAoyBXbHzgmylVk1Oe8JhGMatYOR49IBMIskgq5pBb8O2VyIA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bánh Xèo Củ Hủ Dừa",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSylUF3qfWLTH8pCUA9kzD9ZPY9dcBz13czfU3fIu3r-aRNmJvIDeW7ugbh4q32cGCgb7j3ZlyK3OjrAFgVT55tpOu2TkcQbaf1WKqPygXJW_zRi4YkfUnZ9_G75J1ybZEljs57Tvw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bún Huế Chay",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx1bFQWSteapv6eVeiV2Q50g2W5wRaWmiXla8lRBvrRZIS46eYr7MVSWc_rJZ9xMaUWkisUy64D1wVtlNyhSpNcF5m4vQXqiCTq5RbDWaKEQxq3xEhEGSE1U4PYZAP8LYG9SO-Pig",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sashimi Tổng Hợp",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyF9_pUQawe7dtowVV5HPj8rwMqxAjaj69b_rGfDo737_SjUSaRzvbXMloCZjOe3MEIyCb6PsYvFea4H8-4G-mNWeVdJDYM-TwD2y6iBBmE4focV5zaveLyrgWmM_XnHImaJT2kjw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Gỏi Cổ Hủ Dừa",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzv1j4x8gr9ZprTLeoRP6AXvbE0hslF5Q1MmKqcEPETuOIjtrQbCx_krBFh9xDpY1plVoqxisI_uphQY92Mjm3hEFihOBTe_h9fdbMZ6pfN0Y5Jp5P_Hntq-du-k_oETg05RLMc6Q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Mushroom Soup",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSworOTIq8L--QuWknayoj0OvQFohFdmb0Ez-hQIhlpK7hRZpokWE4ZW4U5yxDZhPHc_KChcf-j75Tm99frNnAvMgDLWEQsUt6D8lnio5v4tk-pkIfpb8npRvc4Hhvq8m3vdjNmo",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bánh Tráng Trộn",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSuK25IlyWsN0MmdxjM0BDnoQvrkeulIpJYBy8ixoAX6OX30oFLugWwSG7qDQX_C5QiNQgtSI5nxpXkPwOOGvkqfD3LsU1-ejHoxvUWmQoPXBPLKX9CxL7O6UYpmEDAeSrYfoASQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Lẩu Nấm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwkjQSMhizmg0LkrcFTlkLXfeR6nFFMRHkuJ45JSkKX9C-tyQu19KkYbo05iyjsXDXhENMqab4gEC_-d68X3sLiQFygTz2g-IlqglYFfvnsgL9mtN-oPos75Fld4HVtSMtS2jPz",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Banh Xao",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxcE5E021npih0cvkvXErJ3rum0gUMcQgOF3FCtEWbkmaBHuwbNWSvNBB-nJbcltgksQakc_yDiIxZsRWxG107yuSJ0JJgN_pmi6R9D0kjMOIG8dSreLHr7E65LkGftjVaWbIUELA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sushi Bơ",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwPYBOF2b9ormDPY7qnAIY_8YrlaYSnoIIFQEOI0AxZ-ag_opfPID6DjStnRKDAghqxPVBsa07b-AGVCEzC95tM1xP8Onn-S5Sj3rVZp_CTKG0QGQjFzGUugqUP-pIaayUQh3Q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Thai Hot Pot",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMuz-ButuvJabsn4xQOfRm80PN_LGl9Ah0NPcDH",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "07:00",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "07:00",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "07:00",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "07:00",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "07:00",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "07:00",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "07:00",
+                    "end_time": "21:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "total": 2,
+        "query": "Nhà hàng  Quận 2 An Khánh Hồ Chí Minh  Việt Nam"
+    },
+    {
+        "name": "Dookki",
+        "created_at": "2025-12-15 15:48:04",
+        "updated_at": "2025-12-15 15:48:04",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwI2Fphp9wIIVsSd1i1O6xyJEZq8y-WQ6XWgr37w3fqW-NYDhbDTDB0fYa0T-bECrHOgrHT3d898jDm0ViPzlA8_iGUmhMzxGpZxUpToqWA_Eb4KBMhYU7vsDsq8JFnE_kvqxbx58nuIWvl",
+        "intro": "Serves dine-in, Offers takeout, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 236 3553 100 để biết thêm chi tiết về chính sách của Dookki.",
+        "note": "Thông tin thêm về Dookki có thể được tìm thấy trên trang web chính thức http://dookkivietnam.vn/",
+        "email": "default@gmail.com",
+        "address": "Indochina Riverside Towers, Tòa nhà, Trần Phú, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "city": "Hồ Chí Minh",
+        "county": "An Khánh",
+        "ward": "Quận 2",
+        "phone": "84 236 3553 100",
+        "google_map_link": "https://www.google.com/maps/place/Dookki/data=!4m7!3m6!1s0x314219c435d0ca77:0x19f52c1da9d88e18!8m2!3d16.0700712!4d108.224247!16s%2Fg%2F11h5ml35d4!19sChIJd8rQNcQZQjERGI7YqR0s9Rk?authuser=0&hl=en&rclk=1",
+        "rating": "4.7",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0700712,
+            "Longitude": 108.224247
+        },
+        "website": "http://dookkivietnam.vn/",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwHQG0P6NN4fdC4ScUqz1K9KsYjK9qtbZNFm1L8oe3AiqJaruAQm0D4so6IBqTS1KAMEEFwrUe-1E64sYbbcdToo7x75NTX7GDGrE6pXJYuiuDXMqXHepOKJmsS0ZwKIWgiTlu9Tw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyjRkg8zWd0XXl92yvXutZ0tMgjkapPQL1x1DARkcPhkVpeo553i4nj138FcbdL-3mIPR-YmpLTjL0XBQXYt6qcCHedeJfUPW_p7dFxzMWnZHJPtY0hy65SFtmp0mYinEktkKKl",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSznqtKG9foycyx4nWy4N7Z_Mn9b2WZzEHbrsLbLfsads9VXTD5R8WQN5AJjzxbX5oWL3sAxEkqCPaQdKn4pGt6UohiZA4IcPgSC-GMZSq-dcgSo9DAvzEOEimkM8Xnw0iel2z2vDA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz9iqKihtvfl_Ga-r_57Ps3WWT2fEnPKVVNS7Td5ezffblCjefo2xlnFDiuY3d1kkvljkyk0s2jM1E3BZ3YncE8FU7vZF7yQM6He1kNX-KNLkU5K_bsIlxavF3TscZ3uSK1fYUeEQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Lẩu Tok",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwnc_ruSKPTWvS1x6iM6a9OUlgNqYOn15JbZFPXOmp8UFz9k3Drbbx55OUq4r1d2SFbp8el0zfAWsxutffl1rgEZmskTigGIfV89xjleRLELclPe02jBZ_mOQOP7W1CI32xqlc",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sushi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxTW63vUHiq8Q4jRahf70eB3rpryuBfATY6IpM9GL7GDxMkHrBhWCYNN2WQDCB8fugYmXOU_lHNlFPeqKWC0jjLJW1mB7R4QbCry94PcRLoj29l-P6R3SBX2cVONH0wGdJhpTFMGw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Gà Rán",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyCqbaF9y7vW15Gc56lJ7fa0KpvTlVyCf9w74yWQouq3wMaC8j2cEn3GGQhisIvxVtnxqCJpBljI9qXjR-iCifktocPYzi6vMUNP8GLleK_s_QR1GTYfKpPArmxx_veiJC3mfgl",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "베트남에서 떡볶이",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxnCDhoys7RLyH31D-L3cBsepODkD8kz4YYPiTlNutXMdqw4-lly6APSMcJAv7OFPI2pS2hbzmTUMZ7EWZY6FhZAUzsZNMtjlBpx7fuDv1tG7oFUHX3wtSxBP5PSuK0FvdzPco",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "국물 떡볶이",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxoSS13pUPS-sVp7id_-yaZmjhRbPMnwQBiFVMyfUS47fMzmE5vADsygb5iZeRsbH1trCBRTCtpRgYvVyeBEjlLuVwzGdYlHa00biJ_tIhJah5zwV_lmCVWghPi5Jn5yWe6edaY",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "국떡",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxgOOOBSVJDwzE5C80k4Pm4AqmYIvHXzUGUl3yG_5GGvPEvhiep_z8BsxdoZWIl4UewyQtMealk0_yPmZRnh486YYxsn4BRivl7fbk5F87ghxB1mVQ9Jh_e7z791jdKbdrUdist",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "볶음밥",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx6MoSkO54Db8IwFFksbZbbubgevZGpfOQdowg2LDFF3gugK5qPSo-OFd3QmpUshtQz0fgtph05jnsrDD1kO_Mfg3e3tYEnVHHu6vz6H5TBgd-GlGmT0531kUq_ONyYsFm82KKeKg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Rong Biển",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyloEzFedTRqI_k6GIkCSX4WQCfDwkd2oeNIMZJcphrXPkU6YwuiMpaPUs8xyZbdoO5EMxGb51qDNW97_PukaJLXF66qeYVVYpWbbJ62D2f3_vZ982pr5iDJNa-w_k02cmxZEsv",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "셀러드바",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzxYjYZqi4Pv3INXDF6KeL7Uwz8HkU52R6LtNwZGlWSNaqpQzN1KMP6n0G10k-Ik_Nv8_ilT9x5gr1QouawfH6AtB76c8lUwiSp8odON7lIdqN-WDOXeP-UprTtZcY2hjsaDKY0iQ",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:30",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "total": 2,
+        "query": "Nhà hàng  Quận 2 An Khánh Hồ Chí Minh  Việt Nam"
+    }
+]

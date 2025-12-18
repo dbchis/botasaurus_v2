@@ -1,0 +1,934 @@
+[
+    {
+        "name": "Quán Dân Dã , Nhậu khuya Đà Nẵng",
+        "map": "https://www.google.com/maps/place/Qu%C3%A1n+D%C3%A2n+D%C3%A3+,+Nh%E1%BA%ADu+khuya+%C4%90%C3%A0+N%E1%BA%B5ng/data=!4m7!3m6!1s0x3142191045dfba57:0x535a61b8cb39c563!8m2!3d16.0599239!4d108.2122375!16s%2Fg%2F11fk2gfbmv!19sChIJV7rfRRAZQjERY8U5y7hhWlM?authuser=0&hl=en&rclk=1",
+        "rating": "4.0",
+        "reviews": "336",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyac7V8QHvQeYqTD-B9FkD2w97aNVS13IXjSM70M9rtJ5E6WrXJ8EfFMa9yRpabD8f9oQ7V_J9sI0W6QEU8SYDDsO1cUlQrDvp1o0aqU2NVKeFzHBcIy6BPrPKCUtmGCgj7auKRuQ=w32-h32-p-k-no",
+        "type": "Restaurant",
+        "address": "265 Nguyễn Văn Linh, Thạc Gián, Thanh Khê, Đà Nẵng 50313",
+        "hours": "Closed Opens 5 PM",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Has no-contact delivery"
+        ],
+        "phone": "0934 577 642",
+        "website": "https://www.facebook.com/dandaquan.danang/",
+        "menu": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMgDUFHUHE6zaeKLfsv8gzJcBiYfYny_5Rxe-cm=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMwMW13q-ThnD-lfjbhBhp2tpkcf5L1JffpsP9h=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyPh5S05iMKBuhto7gcZNQe0ZjCiQfnb9CHSlPIN6-TPs0zR-U7GRnsLFRFljPEYkbqAhyVHFJMES6rXqDvSnWHhaWjx46eTxNSqEONxyZSBCiRF9SccXjy_988z-45YBeVAU3C=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "All",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyac7V8QHvQeYqTD-B9FkD2w97aNVS13IXjSM70M9rtJ5E6WrXJ8EfFMa9yRpabD8f9oQ7V_J9sI0W6QEU8SYDDsO1cUlQrDvp1o0aqU2NVKeFzHBcIy6BPrPKCUtmGCgj7auKRuQ=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Menu",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMgDUFHUHE6zaeKLfsv8gzJcBiYfYny_5Rxe-cm=w224-h314-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Videos",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw7YY_Isf86MXfReBshb79xFHTEsCdrIT4-PGTPkRTonj5QyxrhReYDom5PpbDbS30ufhazjJK8ikIoJwAZc35FIdK0Bp8fhNsTKhd6sw0yDw1rD99RYuwolmnT5X4gOP34NH8=w224-h398-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Food drink",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNkwIGVvZ3GPvRfSbou8ssO2LW3mFWij69-IjRe=w298-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Vibe",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw2meryv90M-JaHOXH4Tp0kj0wS4Eg4CAs7ujm0U4LRiCAr24N1UuvLrz1wLCNgkfHRYCDIkpqhOo8ws9zviIhPmS_JCwBqBv7-6tfCbPal5uKlVfYwdA1ZMJ7vM4kLgwvWIbs=w397-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Oyster",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipNdWIR3zcenoNBFOujZmjrxy07oeE9O-ZsMm0ES=w298-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Hot pot",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzXAOQ2f6BnhDcUb4m6BapGzVtWkcp4rjA5zwxgB5zG36Vwrw-N9pfmv7TcHw7yN05lreT-RJ30I5dPrwxRd-Ej18SK9WaP4xWy-f64q2Kq-hYcDzq-JLcfF0wsMBLByqbToaExng=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "By owner",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOAYwLxZcsStpm2zg3wWNJRv-20CBZ6sjkHT1Pm=w298-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Street View 360",
+                "price": null,
+                "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IGtBlENDFsErYaWVe7wZ9g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=139.44681&pitch=0&thumbfov=100",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bake Oyster with Cheese",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Đuông Dừa",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            }
+        ],
+        "reviews_list": [
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNUpyclpnEAE",
+                "author_name": "Superunknown Ahn",
+                "author_info": "Local Guide 522 reviews 1,324 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX64E3EKKfQ9kL4KldTiiePpznWiVPIvsDd5-4KlslHNQNoqNDb2w=w36-h36-p-rp-mo-ba6-br100",
+                "author_link": "https://www.google.com/maps/contrib/116275455468744009734/reviews?hl=en-GB",
+                "rating": "4 stars",
+                "date": "9 months ago",
+                "content": "The atmosphere, packed entirely with locals, is absolutely insane. Đuông Dừa, which lives in coconut trees, has a soft, fatty texture thats surprisingly enjoyable, and the fried frog with butter was an experience unlike any other. Of",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vuzzwP6-U74qMpRLAHikJ65LqsbMqNz0PfBWDFOhHcBrYan-cHIsTwmjYU0A8uvpq9Brkl1XK9wdp6poQPlbXpR-SWcqH7VsNf_1ZqF8lXYog3DRlrtK4pABNern5zNrqE_xI=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tT3TL90g689UVG802yIRuzDJvhONg0-a2UvMH6OUX6SNi57U-rN9Ct3l2qFk8gFlUv0tJZkg_MyMs64gaVqgGniUFHXMdH1VAZ1hsC6FlrxFgRMRb3r29LmRjcFIkZOmYM8l5kSA=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vCIMkJKisoev9Y_4PzUyPx1CO46GcHiy-JF-WpIYL62S0ZZAQmOtpKz1iMWALqErJW0XS2Y5vs9OVkctkirvUuO_Ak1TP6C_Wy5YmBIgYY5WCk1gpbhdvkKyZs3wyzUSVM_ivI=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vUm-BcdgTAqEbAPbRipDss_utmPUzb4yOLWs23D9CMqFPAVqB2RR66e9CYvMB7oZ4iSR-DW33gzuJapV4l44p70rF45Wt_lb6GBTAI0JT3tX7npZGiOwusAFydfReyH_XxExPw=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6NGF6UUFREAE",
+                "author_name": "KIM FILM KimFilm",
+                "author_info": "4 reviews 17 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUwUiDp7h2HDGCrwnTrm82FdxvDq34pUai5PZDQyesSu7EnFEM=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/101997382436635831123/reviews?hl=en-GB",
+                "rating": "4 stars",
+                "date": "a year ago",
+                "content": "Its a place thats open until late at night. Its the first place Ive eaten Vietnamese food in my life. It was delicious.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uWk7esD1TZ-Uavrb4zPO7lYZIN_tnDDXOCQjjwp5wvz2hwMRwZucsrxKK194etwyEacev_oARorvHhgdT9_LKWEPz9HJvFGqOzGagy34G54UA1mMN7cLv1jQx7UoGQ9Eyc9zxLgQ=w300-h450-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uAbL-9tdtvh6Y96h1GLGP5rSEaxwzgWguj3xevQ_l34SERzmLdO8U83jGgbuCib0vdkgDkYbcgzoxBcVl8SmecGSm8qbOXE51bETcZ_G3feEoLVUBAKYjN2RKwHAHClTxqbyes=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uzankZoEKD-CquIwudqLBx-dfSehPGyjnGeORnDdptFRFgQSzmcDKV8LGKIaB0A9a_Iay4BZOtYOJu-TbrAXlJhw8sv3dcZM8AVl4tn28qcIb5aJebEWU6b2uZTrLnF7hh4dw25g=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5OXFuWWJBEAE",
+                "author_name": "Vu Le",
+                "author_info": "5 reviews 5 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU7UG17oyz6SJ7qv5fFn-R7MDMabqbHHc3I7Ep-TakULX6ANjzq=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/112021575238709682922/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "a year ago",
+                "content": "This place is so good, if you are outgoing the owner will join, best place if you want late night beers. Btw the food is very good. Love it",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38u3po_BoZ3G25qBu4Ym3xHwvEsOk97t8mTMfcW70_PXPCSOOBOL90Ctw5YFxuY88fUSEkSqaqZfDMIxOFBdNNCHhTXW3diQJ8p-alPl-2Io7OZHDwBgmTO5rDFNK-sSzwXM73j_=w300-h450-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uSvGmszUXnQcImbzQJdfqZC9QDR4CvthnF-hvbhlWbw3FOth88WBTAe9CUwCOkg8Xo6I_p_YQWFLplDqVwkePKwU6znL9qRAU0G0_DtRXGYRsYSjkOYt-o6VjzyldZ3YF6z6Vd=w300-h450-p"
+                ],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "supplier_id": null,
+        "created_at": "2025-11-10 15:00:39",
+        "updated_at": "2025-11-10 15:00:39",
+        "deleted_at": null
+    },
+    {
+        "name": "GoGi House Nguyễn Văn Linh",
+        "map": "https://www.google.com/maps/place/GoGi+House+Nguy%E1%BB%85n+V%C4%83n+Linh/data=!4m7!3m6!1s0x314219f28b8e26a9:0xbc64f9dd6a37e9bd!8m2!3d16.0607417!4d108.2220548!16s%2Fg%2F11fz_8ywjv!19sChIJqSaOi_IZQjERvek3at35ZLw?authuser=0&hl=en&rclk=1",
+        "rating": "4.5",
+        "reviews": "742",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy3_dS7ARDxbJRV2LDPBl0y5DjglbnjteFQ87aL_fDgzIARzP1eKSt_wJpChMHfdnZ4RxYEuDBSkCf8VhATD0DLq1KKOndDWH0MwUEqXZHwLGkKkwFxAj_UWXZFNHbazttloGmb=w32-h32-p-k-no",
+        "type": "Korean barbecue restaurant",
+        "address": "09, 9 Nguyễn Văn Linh, Phường, Hải Châu, Đà Nẵng 50000",
+        "hours": "Open Closes 9 PM",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in"
+        ],
+        "phone": "0236 7300 515",
+        "website": "https://gogi.com.vn/",
+        "menu": [
+            {
+                "name": "Ba Chỉ Bò",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Cơm",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Thịt Nướng",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Bibimbap",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Salad Rau Củ",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Nước Chấm",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Súp Rong Biển",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Bò Vai",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Mực",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwKFCsNm-7laLEGctJiWjpXv_IIkUa6bbnw9tEft0tOxhVOZB0w71vgHZ_nUbsP0ZoFKb7v2dHcUfTjxQ2-kHWcJ-hrDEmXwaeFWfdg18kYnxvLxEmHesS30O594i6I8WjRlGcs=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxu0XqBNfGf8WqolblQ_XS20rWBvUYKwnCce-lyMP30cyui4gw0A236yTfYnBVn4iKzAc4gT9rcQP48NeZSmtdQGDdYQLuepwUTwNiVXDF_SsE5mNarAJsPHIEwo5g8hABrU9k5EQ=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxKpE5_QVey4-AyNZ0PWpSn1Tg3tO909aEVn_o_h2bQB3UpNO5YnEtasfoGliSN3M4S541nYZ_rjrYwG3CHQGBXcoU852wWJkC-yHHuBzkOQVT3AqCxLvyW_MRWgCfYZ1c1PeXc=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-tbdeOw-jYEGuxw2Nu-crJpy7PZbJC4xif_qVnw3RoB_xdME3Z3SWOmiVPNDKTplDftQxBN_27Z9e-aohDl8vhLSTl6eGgDEQz5y-GumtBxSz8FmPfCQ_GE4UQXMZQWwzigywdg=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews_list": [
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkNXE2ODRRRRAB",
+                "author_name": "Mei Lee",
+                "author_info": "Local Guide 215 reviews 1,739 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXk07dSz-Q1CHbzFlSD9jlihCx54J6xuGffhCoTB6XO0aaTemA=w36-h36-p-rp-mo-ba6-br100",
+                "author_link": "https://www.google.com/maps/contrib/111785690689275492708/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "a year ago",
+                "content": "We visited on a super busy day and time. It was right at lunch, and their phones were down. We couldnt make a reservation for 8 people. We got there early, and we were able to snag two tables side by side. We did the buffet without seafood. All the ordering is done on an iPad super easy. There is a list for approved buffet items. Then, anything on the other lists would be an additional fee. The meat quality was very good. They provided free refills of kimchi and sides. Its definitely worth the buffet price. Bathrooms are terrible. Dirty and no toilet paper. Floors are slippery walk carefully. Other than that, the food was excellent. Staff was great and attentive. They changed out the grills frequently.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uSxzb7mqZbV3O0B5DwVITf_NevF9jbdLwQI0u_sQsR6i4YctFRD2emiOEkWLZnw-IGkiFC3dIg4uvltlfB5jiDgWAozzDGtCIPJAwJTFcDxmwu7QPNtW-fi0QzSoPC9hUogCg=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uPnUPiFfMcK0DpstkZyFgpUgurCXIwVqG3tzwq_sQfN4CmZk5-yJy3UFr2bglcoT3gemCIuH3j10qT8AE-f3Y-LsYRxxuvXLVLbX1jlE3e1v7aJLdFCbnam55ec2dnWUE5IglSSw=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uLnoOcVFt1Edn6rbuAxPpc5D_ESenSp3KdOA4UIVJw76Ioffizz12Fv8piBH4ZUpSTG7SZqa3GL6_6sgDmsu-pkkUZRo4Jelms_TiiMW8FAkDXQ6V--T5MIFSaAF9iO7H_o3uD=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uYT2-RoRiksmCjsJHyKCTsvpei7TsO6xnfeBfESnrt2nUP7EMAqJJtj6hjDYI6LC4hPAAZ96tM3J6nc0oMQ1vOnKgL5pGBnIQPBQvvSdjbN2DQxHwXOJJygFSDTHLXLBRw2vKghg=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdmNISnZRbE5XVkdOMVJtUm1jWGRvTFhCa2NsRRAB",
+                "author_name": "Liz Oo",
+                "author_info": "Local Guide 40 reviews 81 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUiOS-w1Q4N_cCUHTbZcE17nbMMmg6TdytIpud2t8hUHg077ajt=w36-h36-p-rp-mo-ba4-br100",
+                "author_link": "https://www.google.com/maps/contrib/107590676194158482334/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "4 months ago",
+                "content": "I love the Gogi house for 18 barbecue and it has a nice selection of meat, side dishes noodles and hotpot. You can choose to order separately. Or you can choose the buffet which they have a digital menu on the. Tablet that you can order",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3X3JMbGZ3EAE",
+                "author_name": "J O",
+                "author_info": "Local Guide 64 reviews 55 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJQemZmQ_-q7TSW9tGNio0g3MUBDHe2RyDM6qJtClJY150AGQ=w36-h36-p-rp-mo-ba4-br100",
+                "author_link": "https://www.google.com/maps/contrib/104000792923493257688/reviews?hl=en",
+                "rating": "1 star",
+                "date": "7 months ago",
+                "content": "Bad overall experience, everytime you begin to cook the meat on the hotplate the staff will come and replace the hot plate with a cold one and ruin the cooking temp of the meat, they do not show the price on the menu with the vat added.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38thn8ylOFgZkfkHLbh6-X8s9DeKZcAJpb47KjwzgQI1-Osx3xb2F4EujxBF-smdWWspHXqBnnWCzVM6xmKzvC9J587zFTf2iMIlAdQgh_VvlsTB7qN5aBx69tHzGp0CKBXfUfJ6=w600-h450-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVWFITlNZbUpMYkV0NFlYQlhXRVJ6UzIxWVNIYxAB",
+                "author_name": "Carlitos",
+                "author_info": "Local Guide 38 reviews 21 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocL73hUVT_3iKeyc-Gix5ZDUrKaNQVRidbzCIpNRoIhx1PgX5g=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/111492978057427065042/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "2 months ago",
+                "content": "This was definitely the best Korean BBQ restaurant weve dined at here in Vietnam and we cant wait to come back here Thanh Nguyen was the BEST waiter weve ever had the pleasure of meeting and she was absolutely attentive and kind",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNTb01hdmZ3EAE",
+                "author_name": "Bảo Thái Lương",
+                "author_info": "Local Guide 332 reviews 2,885 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVRDN27Kz3yn5dy8Zw3S2wAbdDLkfupvzW4cBOlHWoTCiS-NYBF=w36-h36-p-rp-mo-ba6-br100",
+                "author_link": "https://www.google.com/maps/contrib/105832784075377876417/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "4 years ago",
+                "content": "One of the best BBQ in town. Gogi serves a wide variety of meat . With a wide variety of prices. This place usually full of people at rush hours.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sGbqm62fEIa24Wfxq3gIzP1SrBcriKcLkZMdztNcesevjvhkWDlc7dpdWrDMFCVY0xxG_C0i0aJcprrVurNY9J5v46NKYLa93VL3KQy-FKKcU5XYW8yOhO4Odo6caATPa3ZlUw=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38v7vXqBnsdyBWXvD_Xa6RUPXbptDVKnP__J-Z2lZvu99-mCozW9Mve6fc43EpDrzT6EHoCglfO5Mdhn3AQbRABLIg5wXNxaBI4VL2ZCLSZ63vMdXcTbIOe0DEixuTpG37r_q_rCvw=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38unt3ZvtLsXp2OeZof16di7t-rNrublDQlRnICo7_lreOEwPIvS2_2PkZ3gCk9UP0Kjl97zJLjnYZFDGpkcMOAA_WvkjW2hbAl2eV8c6VLuYzaTgYaryS_WF98MT7gRdBesKyQT=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38u3syOZam8suGx2ZXLbMMavJvHdrf_LTo7esNEwkLECuQEYeBTBYJygcK7u2rcOY2H44PAUJaAMWTBMI1cXHHAfHyZfTAPion5QshUEpiTlY-1fck2g-mYAna_XMTSX1ENoza3v=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RM05UQnJkR3h3YldacFFYWnFlbmRhU1c1eE4yYxAB",
+                "author_name": "Garry tama",
+                "author_info": "Local Guide 27 reviews 3 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVHZKly8YX407CqQSLyYxnlG-ks5KbOUImsGR_lbQoR5-XSOTZr=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/111176116154529495281/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "2 months ago",
+                "content": "Nice and pleasant place, everything is done to have a good time... special mention to the waitress THANH NGUYEN for her service and her good humor, continue to make the customers laugh, you are great",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzeXM3YnBBRRAB",
+                "author_name": "Tiến Hồ",
+                "author_info": "Local Guide 58 reviews 901 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVuHiOduAfGuQnfic-IjkIqOUwNknIOT28X4fCU6TvADiuOJmMh=w36-h36-p-rp-mo-ba6-br100",
+                "author_link": "https://www.google.com/maps/contrib/106013325675256163264/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "5 years ago",
+                "content": "Buffet ở Gogi House is da best A lot of Juicy Beef and Pork Belly for Lunch. Highly recommended for lunch cuz its not good if Big amount of Protein for night time We love Gogi House",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tEHa3DUJFZFWW5I9rX0LT1ZrLwqpG_n3MyabLXN7pn0P5PDmy11yvt2vbOnZg2-Dmb-qCXD0XdtGijaXiaedXSTAe8Z8_FcdFkhZx-hgZRkCxlNzj1F1YjTal4amnemn0ZyiRo=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tbHVxgCwHB9enE6HBGxwm0YAFyQT_dCKn199T5b5jEqDW3nwMoT5x1OI2Rl05CwVTBbAu59-kn9zgMlfu6JgMyp2VxkI7GC64oxFxLCt6PZK0Z1_sjCJko19TKSRj__FhLgg3Y=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sBlaWKkKbE7Zmsf43y6kTuBQv2JhnjMZCy8LQ3Gkl6ZUtabt1PEqsMHn0MOZwIrbhXQqYRfpcA0GcsBqIRxd-phLSydNOUdhcxhdBnNW39hHDGm6GPw3n7gBbYg97N1v2FsDSP5w=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38unYC6MS1IuI_vybQgL9_LzgItYDhJ2VEFnGgD2-3u3Wt8pDusNu6_QcezHbAnmlYc3DmmntXa3aKmRHURYE78eoxb8-EyYrHdCttLAXncUPXkAWNEKpj-WfNALFROWhv--pGTS1g=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndGVuT0t3EAE",
+                "author_name": "Ding Tao",
+                "author_info": "Local Guide 106 reviews 100 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUxaMhjonDic1AaN37oM4gEJLxaGpRlNJQa64MwWqswhYNBiNBv=w36-h36-p-rp-mo-ba4-br100",
+                "author_link": "https://www.google.com/maps/contrib/104542947469155078668/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "8 months ago",
+                "content": "One of the best BBQ in Da Nang. Will be there again next time",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vx-8uf4kx9saVBF4cvcflHxe2EzxZ_oU3HOlR2CmqVJNKUf8g7j-aVPm4MAYtFbw_lmXnKnOslM9a5fijAvg_zFNczKmJ97klNbJmlAPvfJkeKosUhIlubLwGgrnwi10nfuH0I=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38saLYC9eY6K9V7yi4n0p9n8N6y3f-JrhvxmYNINlhgAoI3iUXtHloQZ_z-tbFlPkcEH4oVCmYoKMEmH-vUkn0O0lQURTuhmhyPb2BA7JSmQDmi0qrCuaL4nYbDPT9svr-EkgQ=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38u5Y19StKA-rgc-20iFUc0qQwsA38qmso8ww1uaWZLCmOn4aPGm1bumWtguSNAacXhoCvb8u79cCMptFkn6U2SthiQQH1DDFdzVL-AMRi8x9OVP9EJU02R8Db5az6-njSSWsAvA=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38taxEcLFkIifatg2zDDRg31VF4WP2Nhvna3eHNhWHnb_G9LKcI8Yqeys05ot6nkk9KO3uRlfILLXG5a0ftZvBu0z34tKvCmbg8_hXD7FV2XRyBdQl0yv0pa4DRtSFzNhb8DNrE=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSlNGcGZjMFJXT0ZsaGVrMHpPRVpCVDJ0cmVFRRAB",
+                "author_name": "Mustafa Sekmen",
+                "author_info": "2 reviews",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUutSQ98tZtqcCViGfZ1KgjeDpsCdFp_cVqcUwQgvov7K3KV553=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/117661966326822108928/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "2 months ago",
+                "content": "Everything was delicious. We enjoyed it. You cook and eat it yourself. The staff is friendly and very helpful.",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Oc2NYY3hWa0ZHTVZvMGFFdE1kSHBVY2xCbVIzYxAB",
+                "author_name": "Roos van Reek",
+                "author_info": "4 reviews 1 photo",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJXbU7f7_wwcaMsR32OHaAab3AOSN-1fsDqBKrCt4P5bsrlHg=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/110922605561240540359/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "2 months ago",
+                "content": "Gogi House was a nice setting with good food. What made it really good was the service from Thanh Nguyên She was very helpful and nice.",
+                "images": [],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "supplier_id": null,
+        "created_at": "2025-11-10 15:01:34",
+        "updated_at": "2025-11-10 15:01:34",
+        "deleted_at": null
+    },
+    {
+        "name": "Kichi Kichi Nguyen Van Linh",
+        "map": "https://www.google.com/maps/place/Kichi+Kichi+Nguyen+Van+Linh/data=!4m7!3m6!1s0x314219cc597b7d3b:0xf71176158b82cb4!8m2!3d16.0606451!4d108.222016!16s%2Fg%2F11d_d5kl9h!19sChIJO317WcwZQjERtCy4WGEXcQ8?authuser=0&hl=en&rclk=1",
+        "rating": "4.3",
+        "reviews": "723",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy20nmUvgE4OcOlbOz5YsTAT-vBEft2PLUIoetPlpY48qkb4SyZ7LvtAK_cQnEEVDHP1FZs742Vf6z4RbcxNGiXhQNptZbkga7uwvsmndkSW4vrFEh4y5xRU4a1stfw-Os5AXGG=w32-h32-p-k-no",
+        "type": "Hot pot restaurant",
+        "address": "9 Nguyễn Văn Linh, Phước Ninh, Hải Châu, Đà Nẵng 550000",
+        "hours": "Open Closes 10 PM",
+        "price_range": "300400K",
+        "amenities": [
+            "Serves dine-in"
+        ],
+        "phone": "0236 7300 522",
+        "website": "https://www.google.com/maps/contrib/111412205528174917492",
+        "menu": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyKpqbWL3iT0rlY2-UXL4Xy9xQ0zo-65mDsmFMjOl_lTiEPYIxp7aa4V__uIA2mqpYEIMcTMoH7tLlCc6r4i2Ny6w8Z-jfxLy_x-lRud71nPZNulRpa1mdf9FVC1hTHsCqlTZU=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSQ58F0Pg6wfyhZIttqNTcVyvjU8C3Itx6SqtT7CfpVttqWKiFwYlc6gU2uSN7btZFcJAqYUJMOW2ccCYv3BzrMXMvgyNlu8TN3fkhxHRnbQXPZXyxZTntEdxBaLOaQhzvCPYt=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwhb-acWjZktMxvQg5lfGM5zMFUufLW0kWWqRKi676enJUBRX2-8GgXkXc5cKYr9yvV2J922sfGefwPcGJ9dIOUA-B6clQvyu0_w52EX3zWtue_DwdUAiQKpI0jLkc5QKzqAiR6=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "All",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy20nmUvgE4OcOlbOz5YsTAT-vBEft2PLUIoetPlpY48qkb4SyZ7LvtAK_cQnEEVDHP1FZs742Vf6z4RbcxNGiXhQNptZbkga7uwvsmndkSW4vrFEh4y5xRU4a1stfw-Os5AXGG=w446-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Latest Today",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy7UT-gfHUusHFtKIzBn_7ftQjYofncRKn3UHGNeBwmt1WTxzlROVDWLjhoj1mB_0V3YtpYJkhN_0inBlio-Bc2qvxki0_akHobKTV4OUNTxqjVYaoBVGF_oPQYJtH2LXmN99qci0qd15w=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Videos",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxw6rd5xGr7_4bGPDqJye4zCXskTbR0PE5roBKFQpc2F6pyhl4XU42Txs7r2NfX98Xam6b-ubziTSJvJJvRgrcQ-VUs333FFF2QlQMd9IMRt-Tdeh-RHt9s_QDEGYk8xAAbhKVQ=w529-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Menu",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyKpqbWL3iT0rlY2-UXL4Xy9xQ0zo-65mDsmFMjOl_lTiEPYIxp7aa4V__uIA2mqpYEIMcTMoH7tLlCc6r4i2Ny6w8Z-jfxLy_x-lRud71nPZNulRpa1mdf9FVC1hTHsCqlTZU=w224-h398-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Food drink",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxiM9GC5QsP_kIznYySBrV4lLu8DSPmqolGLPnMLcaLI_lhirC0QCJ1bPQ3PS6MKHGrdYydgkGxjwociBxFh10gGY5Hps3x5JfYApuFS9YGrO46l_SP2wTpXsHZPPvKpB9HAAhQQQ=w397-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Vibe",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz_qWDJSRf3cv8mEDd00iVkHBduAzssCFE2MmiBizCSQLSmmuufqoQZzw-0-xodUGqjHtPuk3aJgK9B3hRf1ZptLHS-vqS8EFMRpNVMrJMAEOMp6ZUohibQJEQrHDEnh_GKVQGLAEf6oF-e=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Hot pot",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy3IA1lAmSsRprOpJpUQrX8T46iV0jn2tGjHxRv6HE6ZeG-V3txnjc0mzXQdpTQgvH7U0zr-iuRBpyfJLK8hQgvndbmI95dHzuAbH_CDnFATAX5PFIcnvEPhjI1-2FtNlETyWmU9Q=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Soup",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSytr82hACFwjyytFNIIgn1AOG2hK_YBp4e-U1Ezb7a3n3OaiYg6uoJi5kD_iu8C12S6wkzDbRXkmrgDAy9qx4xxPbYa7PUf-tc8rwGKFRja6MMLQq7Rjph19xuDstf81wVZpJX0=w238-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Street View 360",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxe_vAtN5CzMjU_g2b_D5gx6AvqvD1JsiJlVcab_20ynSFKf0IVhKbjILT_HUQnGIP_LXuqDX5Y1Rcqm7S072GERTgdEcsE0Xj2wxZO7Fnn2ogqehNbw8tpPQZAqHYqolJp3NIfTw=w224-h298-k-no-pi-0-ya120.00001-ro-0-fo100",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Lẩu Băng Chuyền",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Buffet",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Latest",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            }
+        ],
+        "reviews_list": [
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScWVFaHRibUZLYmt0ak5ubHlja2t5T0hreExYYxAB",
+                "author_name": "zzoro lolo",
+                "author_info": "Local Guide 52 reviews 83 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWrdvHcfKP3NG4oCC7YLTjr2tt8oq1rBi-MZ3-XuLsQ6HK2fsIH=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/111849381864720017073/reviews?hl=en-GB",
+                "rating": "3 stars",
+                "date": "2 months ago",
+                "content": "Air conditioner so low , area so hot, food no fresh, not really cheaper price",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vgUp2807CKUgcgnxLuCke_A6IRoiZDVdNwdJo0jK3qIFx4Og941blQBcEzv61ZMlVczGpkPB_pTXiDxj6OMjpyMVWChuQ3vM2VxbuHttbJWVpIce0uCzzozY4nnL7QqKfoPEybZPwbt8-S=w300-h450-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vJ7opgY8u2dTkmj0gexSIbfPdSShwaB-yDiVQLTOiz81m2yS7--pXOAHOvvYiRd1sZ_xSpDSMy_HFlCcBiEjZ8nWxtFMBLHXmH-nCaRrD7YfYWLIaZvj5J0_u5rwZxn88x06x_sPMl2SN9=w300-h450-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnMzlyX1VBEAE",
+                "author_name": "Kit Yeung",
+                "author_info": "Local Guide 163 reviews 1,662 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU9U7BAdFBP-Z0C7lbutYYTBkijROu_ZD30JKspW1Jiu8ocAo03LQ=w36-h36-p-rp-mo-ba6-br100",
+                "author_link": "https://www.google.com/maps/contrib/104122201407493664803/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "7 years ago",
+                "content": "Even as a foreigner who cant speak Vietnamese, this restaurant offer a sushi conveyer belt style all you can eat mini hotpot, not much interaction is required with the staff, just fill your stomach and pay the bill, the place is very clean.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uMWKzDgEeoHLRsx5yvuaB4Dix7YR5m8T8bZKD813KJA5Q5k5s7Glf697g2bdxmL1lt78ccp3uZee24MEKHVuRIJTEMixb1rt8vXAhykYlgYJ_JEp5ZG0ELmR73foyWAyl2wqGS=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38ulBmYF0JCqSEGfuJ8bpNTNrQLeKXN6MG8N7mf-3EFyW5rP5NdUJ9r9mPBunIambFIoGpwXWjCzeL1npNpoKq__ncogzMdS4ayV1qqsr5JQiSiI9eooxYyI-f8vfdQ-c9nIbWg-FA=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tB1NuS3JhkbpftlAj46OeO8NxydH8NT5rRQHpKNZXcURiC2BbCELGly-G5xS8q95DA8y51HRgTWUykOrz0t_YJ9SKEjCBJoVPtSwzUyEK6zJV9yW5vtjvj0xmH_dj8eVCReLtB=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vi7yHpJ5n2I8Bg76jl04tltqWeAZytBuuiDOsTD8VS8RpKCGFzc3JW6YAYO8QHYoYmvqDMaqy-EihMXLnaAIEVUjA0PqSpJraa42hHOvqI9EOVdqOazF_CS3DXTpcEe6GfOHl4=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIbjZuUFhBEAE",
+                "author_name": "Nguyễn Thị Tiền",
+                "author_info": "3 reviews 1 photo",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX5fE0mIfim2URDtJGBQwjQrsRawmXywgHw0Luk-UUU2iXdnFq0=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/112869533204479708765/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "a year ago",
+                "content": "Highly recommend this restaurant The hotpots, particularly the Tomyum hotspot were superb and delicious and the seafood was super fresh. The staff was very cute and enthusiastic, service was speedy. Also, the price is very reasonable for everyone.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vWM9NOz-85oSXq2Qz5_fJGPWDQmOJZkcPd8Glv7fy7dnoBWcP6Ygmaug7zlfQcaQ2lkEF5hOr2mlY_hWDO9fRV1eanv-qAjRhazwyo5FXcmxwM9oGDF67qTipYxBz2fYbo8RaKwQ=w600-h450-p"
+                ],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "supplier_id": null,
+        "created_at": "2025-11-10 15:06:51",
+        "updated_at": "2025-11-10 15:06:51",
+        "deleted_at": null
+    },
+    {
+        "name": "Cậu Ấm - Beer Chill",
+        "map": "https://www.google.com/maps/place/C%E1%BA%ADu+%E1%BA%A4m+-+Beer+Chill/data=!4m7!3m6!1s0x3142190064621d67:0x6edcccf51edfda30!8m2!3d16.0607482!4d108.2217798!16s%2Fg%2F11xp8hvwmb!19sChIJZx1iZAAZQjERMNrfHvXM3G4?authuser=0&hl=en&rclk=1",
+        "rating": "4.4",
+        "reviews": "110",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzQupj7EmxsVlv8gVIdmEqTCb1qoIzVjAqkVfBY5MD0ZQzQpwlDYkQfX2bJSxACsdzOWcRN_NDDPinpREIYH8CmQruFeDhIYZLCgMWan1QihEdFr0q-CZJ684KS_t4BK86_3mPyzX-8mRs=w32-h32-p-k-no",
+        "type": "Brewpub",
+        "address": "11 Nguyễn Văn Linh, Phước Ninh, Hải Châu, Đà Nẵng 550000",
+        "hours": "Open Closes 2 AM",
+        "price_range": "200300K",
+        "amenities": [],
+        "phone": "",
+        "website": "https://business.google.com/createfp7988485192205457968hlenauthuser0gmbsrcvn-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaignvn-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+        "menu": [
+            {
+                "name": "All",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzQupj7EmxsVlv8gVIdmEqTCb1qoIzVjAqkVfBY5MD0ZQzQpwlDYkQfX2bJSxACsdzOWcRN_NDDPinpREIYH8CmQruFeDhIYZLCgMWan1QihEdFr0q-CZJ684KS_t4BK86_3mPyzX-8mRs=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Latest 4 days ago",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxAWNCmv1-Lul0-ESa2UiVMYiIQIG6Nv5StItgjH966Wt_Ijy_8NRveOPr65wFNIbrhj_lSmr-aI5OXHAU4yOtCuDNnYvNj0nuqHyyDugZdzOgdPKC3fMA3njV6hmjQgJNXi6iy4KYPXpjD=w397-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Videos",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz54LhEhDyrX30eNMJdf4wvKpQF98kDTeqiDBjY2zJblilcEmRF6jvRGzgCKfxhvGz6nfI1mS3BTUewAL5kJ7w2j4sTg9Jk3I7Tq5_4_Q_3JvddHRrVUsDlerUM3umrzmoc6C39oKQqXLeq=w224-h398-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Food drink",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxv3P6G1qxRnJnoJR_YMj9n53RWbSOHF2bBaHGr44SYDa7hO3N1GBwDKXmDsFV9um-dENcGpvYapE5VBMuCD-iIHn6z386YvbqieLchYC_hqiMeBlUMQZPab5B5pWEQ17yjDXqaP2DvUCvx=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Vibe",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyFRPWtjLyLHdwdOLRzYVmT2gBsre1c45mhWPDui6AfYbSTGbkXbzqxtZLePoxaa_k3lrsb9RnYG7eHyuzdcmU3wpI5hCVNb0fVd9I1WpMYmhIDaoKO1ZpPrpWbSl8Ml3tnlt05ByfikaHv=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Street View 360",
+                "price": null,
+                "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HBhpQ1B3wmvomcIoSnGbwQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.45436&pitch=0&thumbfov=100",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Latest",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            }
+        ],
+        "reviews_list": [
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OU1ozVkRkRXQzUms1V1ltTmFkeTFFYXpWTlFXYxAB",
+                "author_name": "Skyy Pham",
+                "author_info": "Local Guide 51 reviews 25 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUhEuLApVkPTiJHonJCX2HL3x50sIUH6avyZF0HGel3r2wnI5cUkQ=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/104402553471195121178/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "a week ago",
+                "content": "Absolute Amazing We recently dined here with a group of eight and it was superb. Everything",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38t3eUjAAc2C6NjrjmUWGC_3UyBQ866lup66zaYArqy3hlqMaDJdTzg9N8MFOtX1zlB1__VR9YkErs3En5m3m0Fn7hOCS58c0_fB7BPurxRB1fXYgxaIH5GuxXhNn1ZLsYD-ofYtfQVM23vL=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38t76v0bsz9vcwK6IM1eXHJuCneIB1GkQ3caOylm7CX2sOyfOnBBKi8rOoyXncfKaz4B_hmAt35jh6xtkh8dDjjkkG_RDaApMM_knlMOGkBrCb93-nt-hqFCYJ_B_nkhvbSUZEqKr5i0ZIc=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38twfO_Bo4NbmYo4PPFxHmxUqzQNJyBORU0Tr5HVe0XfJ74HTEgoGdBXxxAzq-IpWwgZjF3kRU0710fGV9TLsj1OFmN2DoXIOLzMJOM8rm6VWkgnirzwzK4NUfPBY14ietqzagQP1eB7Y3Um=w300-h225-p",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sna9sj3biSNQ9dVCGV-J0NWLQ--HVBzniq9bga9DIBfTmAE6smI0ND6SMgYFwfps0gHIcMBhIrE4F15_-CKTmojORZ5MRXhKqNdKLrtJ-Dl4G5R546LNe-rEHxK13S1Rn6J_DkN5uZqlwn=w300-h225-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSGRsVnRTVlpSUlZkVlR5MW1hRzVHVEV0R05YYxAB",
+                "author_name": "matthew bradley",
+                "author_info": "Local Guide 40 reviews 18 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ_L967OqP-_wPOT0sGJ5Dwusp_gibmkfbJ95k6NDGGldnC=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/107649445155935582889/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "2 months ago",
+                "content": "I like the music, I like the vibe, I like the communist flags and most of almost I love the drink prices",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJd2N6UldZV3hqV2s5S1prMWZkMU4zZVV0MlVYYxAB",
+                "author_name": "Trần Biên Châu",
+                "author_info": "2 reviews",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLGUXWXktaIKbzk6Xf060sTnUMexE1CPb-L1BnGwKl7ptsr7ynV=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/113348617637134760289/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "a month ago",
+                "content": "Very good",
+                "images": [],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "supplier_id": null,
+        "created_at": "2025-11-10 15:08:03",
+        "updated_at": "2025-11-10 15:08:03",
+        "deleted_at": null
+    },
+    {
+        "name": "Don Chicken 돈 치킨",
+        "map": "https://www.google.com/maps/place/Don+Chicken+%28+%EB%8F%88+%EC%B9%98%ED%82%A8+%29/data=!4m7!3m6!1s0x3142195585a47a37:0x8c9178851c6ba255!8m2!3d16.0600819!4d108.2134518!16s%2Fg%2F11j3lzcpn7!19sChIJN3qkhVUZQjERVaJrHIV4kYw?authuser=0&hl=en&rclk=1",
+        "rating": "4.3",
+        "reviews": "478",
+        "image_link": "https://lh3.googleusercontent.com/p/AF1QipOg34QfbHsMMK_bCUMQCW4SHkLh6uEJladDpSyu=w32-h32-p-k-no",
+        "type": "Korean restaurant",
+        "address": "209 Nguyễn Văn Linh, Thạc Gián, Thanh Khê, Đà Nẵng 550000",
+        "hours": "Open Closes 9:40 PM",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeaway",
+            "Has no-contact delivery"
+        ],
+        "phone": "0236 3645 858",
+        "website": "http://donchicken.vn/",
+        "menu": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwWqu5H8EcPu0hcStyQY5pZ4rUeUmtUKHbs-AJvi17ZfknzR2-NpRHtkekkDGPqSmdZqRLatgwx1CertNz_2mCdv4dEdtLa05PPJtA3j8R1pIsGIBjCsMkx9zae6dYAVMCYfvbLMyr2fjfL=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwkZaYFcSiTUcCwvJWq7HMVxN58vdNDCoQhcz5US-C4qJ3aZlCJcaxQm9TxoA7qKqSkwaIQjNbhSZD45n30utXdCKD-EojJeUIoCmOw4-Fs2qbmp2dhTDWALDLwtv4Rg0OohnHV=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzCCWkeFjg1vCMUzH9T9UHrpZ1DJZW1dilSWDMTyKzEQlwH2CBEklstYEoyZhQLkpxI1p2n9PUt_v2FEmGOqFvDneudhjPPJ8Z5e0ySkXhWXGlIEU6r7ZJ0Ti46yCFBp7Nmuyo=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "All",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOg34QfbHsMMK_bCUMQCW4SHkLh6uEJladDpSyu=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Latest 20 days ago",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy_iNRq0KGsBZPTojrU1ncqKJm7dDyhbqaBN35sxO4KW-89dlePs-4zRB8Ggu9OqH_tOu7GDXOcpEeovXmx30IIuK3BEP1hPcUMIuM8ham1Vos15Vd6lep7gzJqFBfRLAA_zfEc-4BJIQMH=w224-h398-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Videos",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzkr8Xe30KQAUGIdvCaIeWJIMTBSvKZ-OkAXXXbseqxP8pw9usAWdkgd9Kmvm0uPipCRhki-2EogJCwEruTUX56UEXazBDd2d-A256FnnLz_TVwnx1XZwt9__nebP6psLj-gkU=w224-h398-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Menu",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwWqu5H8EcPu0hcStyQY5pZ4rUeUmtUKHbs-AJvi17ZfknzR2-NpRHtkekkDGPqSmdZqRLatgwx1CertNz_2mCdv4dEdtLa05PPJtA3j8R1pIsGIBjCsMkx9zae6dYAVMCYfvbLMyr2fjfL=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Food drink",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMin28GmLhGPjHuZ3SsY0iMPHqh5RP77337AgTt=w298-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Vibe",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyirf0IcJkMk4NDzs9zDqakOlMVBIGwmWoXiWHIM5I8EtqD5wBOe7v41jzMhSfdNGIKX3TIXaZC0oc61jE0I9ahIrBSkICMSl1qY3Uv5aoVSgtSM-c09UWuyZgXMGfwY_-rpYI=w397-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Baked ziti",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxEH5NhSJXWmwb65ytCuZPPcNrIwlwS40qJ4B7TZfKUZRmmr-W6StVxorpo8L6vKPegrdXDdwlAFRPwfNwNSSAUcFwJrqccGScqPZw0GCZ7HB-dnVvdweHWFGe1LW8uCiBx6Xkl=w298-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bibimbap",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOggsEaEfbjZ4MNNwD0mLzXXAW_8FSvazoQJlke=w231-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Hot pot",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzX8vLEDzADjwijqM-xN07JoHeYWvFdd1oCJeB1esslzLxsgjAFglWxZfRXPrtT2DW62gygEYPaOXa392VjYWpfpkKTeZoMZOQPjDu7KhGrEjfCt8ykqwiC4nIICNZLSYYDwQGbsYucOzRy=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Chicken Wings",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwEsOHFZlaAwlbZZBZRn2W7GZLbOfgJ8so9hEXsZ-FyAG6U7FPD7q7Nzjgb34yFNBPK6MH6qugmRVoY5h1i9Lc936iqWS4qaFvG01BlwmFwQJfcrJ-fexnMAumKEvg9osbMUME=w397-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Kimchi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyd6W57IgJnua5l6kxXPT7vt4zUHd1klLUyXjpxg-TDd32uSQIBnFRgowM-QHbUi5jaJPk5BYr-e_7irvEcnIaoH-pi0HoNgc42iXJtr2g7oEarFI-so8Y6NtwVDoDrJhNs0OBS=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Japchae",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxRrqCZYpFbw0CqxSMloqq_H-D6LyEFSVXcKwGNjbykRNFVsxM7KTkEQsm-UQiLiIgG_jpmxbBUfLR619LP3HEJTmRwYijduaSaF3gH4gP__ophfj3p3mqJO95IghZTWMs2c4s=w224-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "By owner",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMcva59vG5FpsVZOzHdBo1D490JzYzwFvNh1Fcn=w397-h298-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Street View 360",
+                "price": null,
+                "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MMJ-RMpJYPJZlwJ1WPqNwQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=159.28549&pitch=0&thumbfov=100",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Tteok-Bokki Phô Mai",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Gà Nướng Gia Vị Cay Và Gà Sốt Vị Ngọt",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            },
+            {
+                "name": "Latest",
+                "price": null,
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            }
+        ],
+        "reviews_list": [
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTFJVcEpNRVptWkVRd1VXdFNhblJzZG5GRWJrRRAB",
+                "author_name": "Vitalij Ivanov",
+                "author_info": "Local Guide 61 reviews 90 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUh1-dbZ_6zHDV8s3tmB_tRpUpWMZQjpLREc91FWh2SWxRKqFaj=w36-h36-p-rp-mo-ba4-br100",
+                "author_link": "https://www.google.com/maps/contrib/116035381605228535000/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "4 months ago",
+                "content": "Nice little place in the very center of Da Nang. Second floor wasnt accessible for some reason and some menu options were not available. But the staff is very enthusiastic and can find an English speaking personnel in case you dont want",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38t8zpkS_4JIajltoSaEIpBW9TyCpunENCAljsvVe2MzWEZ0vJSieBrNcPfyzlrJaDNs6O4AxKwZw71XJS1ze77-UfyrhJzIXV0reun3MVsmfSeffDy1qCp7FcdpP63JhnY1u14D2MVdpBWH=w600-h450-p"
+                ],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psb09XeHhPSGhxWmtSMU0zUkVSa1JEWmxGWk1WRRAB",
+                "author_name": "Thomas Daniels",
+                "author_info": "Local Guide 67 reviews 918 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXVtI7tKgej_-3Vl-pAjEuOAF7xeYK5tWhc5ooaeB175ndq7Y-ImQ=w36-h36-p-rp-mo-ba5-br100",
+                "author_link": "https://www.google.com/maps/contrib/115049743681376445519/reviews?hl=en-GB",
+                "rating": "2 stars",
+                "date": "2 weeks ago",
+                "content": "WARNING Peanut allergy ALERT My two children with peanut allergies had horrible reactions after eating the",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZN01iV1dnEAE",
+                "author_name": "Daniela",
+                "author_info": "Local Guide 35 reviews 33 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIk8Nwh-vmukFpDxQ2_NHZYkp5WNn1C9SJWGAATEeSalRsKJQ=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/110129647157878889995/reviews?hl=en-GB",
+                "rating": "5 stars",
+                "date": "6 months ago",
+                "content": "Empty plates because it was a great choice. We got one of the best sellers, it was chicken with Jalapeños. The side sauces are amazing too and the staff was very kind.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vCWvAaJLt0nz2bIxxjxlV62BywfLWVXmoSaHIZRkkN2ZxMjJHo8tKv4jZeX9JKEMYCzBC0vXufAu6qNQxl0h9eGEjejH-zjmrLIn6wFkiJDbrxGNE8RbZylLJhATVGcp4VsgW6=w600-h450-p"
+                ],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "supplier_id": null,
+        "created_at": "2025-11-10 15:09:04",
+        "updated_at": "2025-11-10 15:09:04",
+        "deleted_at": null
+    }
+]

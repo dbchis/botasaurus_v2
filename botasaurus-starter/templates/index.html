@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tra cứu địa điểm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+
+        h2, h3 {
+            color: #333;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        input[type="text"] {
+            width: 300px;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            padding: 8px 12px;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .results-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 16px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: scale(1.02);
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 6px;
+            margin-top: 10px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h2>🔍 Tìm địa điểm (Google Maps)</h2>
+    <form method="post">
+        <input type="text" name="query" placeholder="Nhập từ khóa, ví dụ: cafe đà nẵng" required>
+        <button type="submit">Tìm kiếm</button>
+    </form>
+
+    {% if results %}
+        <h3>Kết quả cho: "{{ query }}"</h3>
+        <div class="results-container">
+        {% for r in results %}
+            <div class="card">
+                <h4>{{ r['name'] }}</h4>
+                <p>📍 {{ r['address'] }}<br>
+                   📞 {{ r['phone'] or 'Không có số' }}<br>
+                   🌐 <a href="{{ r['website'] }}" target="_blank">{{ r['website'] }}</a><br>
+                   ⭐ {{ r['rating'] }} ({{ r['reviews'] }} đánh giá)
+                </p>
+                {% if r['image_link'] %}
+                    <img src="{{ r['image_link'] }}">
+                {% endif %}
+            </div>
+        {% endfor %}
+        </div>
+    {% endif %}
+</body>
+</html>

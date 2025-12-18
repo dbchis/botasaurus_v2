@@ -1,0 +1,50 @@
+[
+    {
+        "time": "2025-12-18 09:29:36",
+        "type": "Nhà hàng",
+        "location": "Ba Đình, Hà Nội",
+        "wards_count": 4,
+        "files": [
+            "output\\data\\2025-12-18_09-09-10_nhà_hàng_điện_biên_ba_đình_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-18_09-09-28_nhà_hàng_đội_cấn_ba_đình_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-18_09-29-10_nhà_hàng_giảng_võ_ba_đình_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-18_09-29-36_nhà_hàng_kim_mã_ba_đình_hà_nội_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-17 17:06:37",
+        "type": "Nhà hàng",
+        "location": "Ba Đình, Hà Nội",
+        "wards_count": 1,
+        "files": [
+            "output\\data\\2025-12-17_17-06-37_nhà_hàng_ba_đình_ba_đình_hà_nội_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-17 16:29:45",
+        "type": "Nhà hàng",
+        "location": "Hai Bà Trưng, Hà Nội",
+        "wards_count": 1,
+        "files": [
+            "output\\data\\2025-12-17_16-29-45_nhà_hàng_phố_huế_hai_bà_trưng_hà_nội_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-17 16:05:13",
+        "type": "Nhà hàng",
+        "location": "Quận 1, Hồ Chí Minh",
+        "wards_count": 1,
+        "files": [
+            "output\\data\\2025-12-17_16-05-13_nhà_hàng_bến_nghé_quận_1_hồ_chí_minh_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-17 15:27:02",
+        "type": "Nhà hàng",
+        "location": "Hai Bà Trưng, Hà Nội",
+        "wards_count": 1,
+        "files": [
+            "output\\data\\2025-12-17_15-27-02_nhà_hàng_bạch_mai_hai_bà_trưng_hà_nội_việt_nam.json"
+        ]
+    }
+]

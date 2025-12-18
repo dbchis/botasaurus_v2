@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Qu\u00e1n nh\u1eadu \u0110\u1ea5t Qu\u1ea3ng",
+        "address": "121 L\u00ea \u0110\u1ea1i H\u00e0nh, Khu\u00ea Trung, C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng 550000",
+        "phone": "",
+        "website": "https://business.google.com/createfp3522260059920729103hlenauthuser0gmbsrcvn-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaignvn-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+        "rating": "4.2",
+        "location": "26F337 C\u1ea9m L\u1ec7 District, Da Nang",
+        "reviews": "20",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwMkF7ELwDcrEU38dvAIhtWWfCvtdjZEwSE_eVfUWYndOHo6kwA9CyeqipuvgSHCZ-1hSw5c5mXgdpQsvPgpvz22X4PQAQ9BguGAvhnMtTL8t1xGsRC8CCN5_yOJkvmPM84Ww-z5w=w32-h32-p-k-no",
+        "hours": "Open Closes 11 PM",
+        "type": "Restaurant",
+        "suitableFor": [
+            "Serves dine-in",
+            "Offers takeaway",
+            "Offers delivery"
+        ],
+        "description": "",
+        "map": "https://www.google.com/maps/place/Qu%C3%A1n+nh%E1%BA%ADu+%C4%90%E1%BA%A5t+Qu%E1%BA%A3ng/data=!4m7!3m6!1s0x314219b7548d239f:0x30e194dcde1f040f!8m2!3d16.0227458!4d108.2031464!16s%2Fg%2F11h3bgrp7y!19sChIJnyONVLcZQjERDwQf3tyU4TA?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "id": 2,
+        "name": "N\u01a1 Tin qu\u00e1n",
+        "address": "225 L\u00ea \u0110\u1ea1i H\u00e0nh, H\u00f2a Th\u1ecd \u0110\u00f4ng, C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng 550000",
+        "phone": "0935 353 592",
+        "website": "https://business.google.com/createfp6755334937908984302hlenauthuser0gmbsrcvn-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaignvn-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+        "rating": "4.2",
+        "location": "26C2M2 C\u1ea9m L\u1ec7 District, Da Nang",
+        "reviews": "91",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzvNoNzVnrOn-YdDI7g6Yl3s01gvMZhtcUJpGnj4C7c0lFSyG12zadkJNynin02aDwRjOvYvfoosyisGHQL2SWT4TIdEWN7xnfY7W5NARrL5itQ0NnZzqkE8YJ-ZWbMx4CWxBnyMA=w32-h32-p-k-no",
+        "hours": "Open 24 hours",
+        "type": "Restaurant",
+        "suitableFor": [
+            "Serves dine-in",
+            "Offers takeaway"
+        ],
+        "description": "",
+        "map": "https://www.google.com/maps/place/N%C6%A1+Tin+qu%C3%A1n/data=!4m7!3m6!1s0x31421987967e290d:0x5dbfc555b0d9b9ee!8m2!3d16.0216944!4d108.2001094!16s%2Fg%2F11j630jb9j!19sChIJDSl-locZQjER7rnZsFXFv10?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "id": 3,
+        "name": "NH\u00c0 H\u00c0NG PH\u1ed0 C\u1ed4",
+        "address": "256 L\u00ea \u0110\u1ea1i H\u00e0nh, Ho\u00e0 Ph\u00e1t, C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng 55000",
+        "phone": "0916 087 278",
+        "website": "https://www.google.com/maps/contrib/102271481881591872062",
+        "rating": "3.8",
+        "location": "25CXG8 C\u1ea9m L\u1ec7 District, Da Nang",
+        "reviews": "252",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyWEOtj33K1AlirixdxcSePOWTVsNCATJIQzMV77N1m_U87bIhTGjMgwDJj2qB2my1q6pMzuQ3Rpufx6gY_XkY-NY6W5d8tYNl5tCyuoHPUpebb9sY7Gy_UI-lIT9ScjFi5b21j=w32-h32-p-k-no",
+        "hours": "Open Closes 10 PM",
+        "type": "Restaurant",
+        "suitableFor": [
+            "Serves dine-in",
+            "Offers takeaway"
+        ],
+        "description": "",
+        "map": "https://www.google.com/maps/place/NH%C3%80+H%C3%80NG+PH%E1%BB%90+C%E1%BB%94/data=!4m7!3m6!1s0x314219b9272e70b7:0x97b724d961f4bb93!8m2!3d16.0213385!4d108.1983081!16s%2Fg%2F11j1j9wxvb!19sChIJt3AuJ7kZQjERk7v0Ydkkt5c?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "id": 4,
+        "name": "Qu\u00e1n Nh\u1eadu \u0110\u1ed3ng Dao",
+        "address": "117 L\u00ea \u0110\u1ea1i H\u00e0nh, Khu\u00ea Trung, C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng 550000",
+        "phone": "0901 943 547",
+        "website": "https://support.google.com/contributionpolicy/answer/7400114ref_topic7422769",
+        "rating": "3.7",
+        "location": "26F36Q C\u1ea9m L\u1ec7 District, Da Nang",
+        "reviews": "257",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy5uyFE-7XEkXDG29U6hqmMXUd2MxRs8ygK_bsaJ-lr-eI56Gbcs2z2QFsxNq5ZvjIdEicuMo3NJE7TeN2gnmWVGbyOZSNhvj85gddcLwXLE5wVv6NOWfx3PG65Dox9MmM-dWwS=w32-h32-p-k-no",
+        "hours": "Open Closes 11 PM",
+        "type": "Restaurant",
+        "suitableFor": [
+            "Serves dine-in",
+            "Offers takeaway",
+            "Offers delivery"
+        ],
+        "description": "",
+        "map": "https://www.google.com/maps/place/Qu%C3%A1n+Nh%E1%BA%ADu+%C4%90%E1%BB%93ng+Dao/data=!4m7!3m6!1s0x31421988581ca303:0x5a56ccc08f003324!8m2!3d16.0230292!4d108.2044254!16s%2Fg%2F11c2l3h277!19sChIJA6McWIgZQjERJDMAj8DMVlo?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "id": 5,
+        "name": "H\u1ea3i S\u1ea3n T\u1ef1 Do",
+        "address": "149-151 L\u00ea \u0110\u1ea1i H\u00e0nh, Khu\u00ea Trung, C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng 50708",
+        "phone": "0905 173 173",
+        "website": "https://www.google.com/viewer/chooseprovidermid/g/11rdc3trp6g2lbsAO8LyOJkx-JvZhsZlRfEfaF6SEN9Ve4xWBzKo50L-Fq6Z2YiJ-mNldf-BWcY7nCkvIBDGFMdlUitSnC-IVBJhoXkiCqAwLtw7ZAditVtPTOBDWNix0qpYQU3Dhlen-VNglvnfo_mMfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-utm_sourcetactilegeiWK8Jab3cCt-P4-EPyY37mAYeiWK8Jab3cCt-P4-EPyY37mAYfo_sOA,SOEopi79508299ebb1cs0foubmcpp",
+        "rating": "4.1",
+        "location": "26F22X C\u1ea9m L\u1ec7 District, Da Nang",
+        "reviews": "283",
+        "image_link": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwDIS7eeUafaxVVi3Drl8krLltstimezQUIWFE4NmEXlvliU4aS2o1KbM78MlLJGPXh5JxdDoXsNV4QZ2gFPe64K06Rk2VTedwjhPuFaCNKduZZq_kPXl3XUq13ex-Fq7MGzwjK=w32-h32-p-k-no",
+        "hours": "Open Closes 11 PM",
+        "type": "Seafood restaurant",
+        "suitableFor": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Has no-contact delivery"
+        ],
+        "description": "",
+        "map": "https://www.google.com/maps/place/H%E1%BA%A3i+S%E1%BA%A3n+T%E1%BB%B1+Do/data=!4m7!3m6!1s0x314219c2485f8e11:0xeb47d44cdc4b3228!8m2!3d16.0226101!4d108.2023834!16s%2Fg%2F11rdc3trp6!19sChIJEY5fSMIZQjERKDJL3EzUR-s?authuser=0&hl=en&rclk=1"
+    }
+]

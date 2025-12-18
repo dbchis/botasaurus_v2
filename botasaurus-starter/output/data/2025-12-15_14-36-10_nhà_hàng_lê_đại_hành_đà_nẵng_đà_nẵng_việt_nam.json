@@ -1,0 +1,180 @@
+[
+    {
+        "name": "Phúc Đồng Quê Restaurant",
+        "created_at": "2025-12-15 14:34:02",
+        "updated_at": "2025-12-15 14:34:02",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy8WLkXxCzLd_d3_rsRZV92zwlG8Nww8bqlGTN7WKj3kfjjvKYAZyOJq9SSAPx-8iahiVn3NPD1AS0wrBJFPWym2FXX-u_WeXM1oFD9Q9oaVH1qf_Vx9BoWcrtRSs7SVkL7Vj-PDQ",
+        "intro": "Restaurant",
+        "policy": null,
+        "note": null,
+        "email": null,
+        "address": "Đà Nẵng",
+        "city": null,
+        "county": null,
+        "ward": null,
+        "phone": "84 935 780 308",
+        "google_map_link": "https://www.google.com/maps/place/Ph%C3%BAc+%C4%90%E1%BB%93ng+Qu%C3%AA+Restaurant/data=!4m7!3m6!1s0x314219b0c3465d1b:0x7163062baeb774f4!8m2!3d16.0213804!4d108.1981897!16s%2Fg%2F11nfv6k14w!19sChIJG11Gw7AZQjER9HS3risGY3E?authuser=0&hl=en&rclk=1",
+        "rating": "4.1",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Offers delivery"
+        ],
+        "location": {
+            "Latitude": 16.0213804,
+            "Longitude": 108.1981897
+        },
+        "website": "https://business.google.com/createfp8170380933664830708hlenauthuser0gmbsrc-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaign-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+        "images": [
+            {
+                "name": "Bia",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxB8XK2lhxTVtdyEs0TxSdPvqchhzQHxv5tYi3OKaLQL0_8LuoUOMtGoFjdHV_w_GgM7X8Wg33hBehpTg_-SVj9zCSiYbiiZkxWf8NJrApIT-Ra0n5ecqrIpgRdyIE8qAczxujf",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Mẹc Hải Sản Đồng Quê",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyrhejpEnBKnlsawFapsGkcUWoBchNnXmjYkWc56oGjVLz1XOQlrTci2dMp7vjVhC-D0C2MW_LlbzMcbZCKPwjCa9_PDkkeGnTwv1FDzY0iFcBJPWR2OcwVvGuID-M8LyDwsRxmgw",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScXYtb2FnEAE",
+                "author_name": "nhat Nguyen Tan",
+                "author_info": "Local Guide 78 reviews 21 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLg1oCXhNU_5ghEBfI4huupUh8fL86FRtp-I_ZUjjThhO4qyw=w36-h36-p-rp-mo-ba4-br100",
+                "author_link": "https://www.google.com/maps/contrib/117820978067730158437/reviews?hl=en",
+                "rating": "4 stars",
+                "date": "2 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMTc2YmZREAE",
+                "author_name": "Truong Cuong",
+                "author_info": "Local Guide 22 reviews 33 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUCEpST9JHOB_0NR8Q82ZFaDRsb8-2eBXac9t63JvobFeJfLQIp=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/108371887576180113099/reviews?hl=en",
+                "rating": "4 stars",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWVVtNHRSSFJ5TWpSVlgzSmpjSGd0ZWtnNE9XYxAB",
+                "author_name": "Đức Nguyễn",
+                "author_info": "9 reviews",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXxTLN1G6lXlkXEl5LcpnDOUKppkFxsEE5FQJdIEcSmiDCyfFdu=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/117360304528404062502/reviews?hl=en",
+                "rating": "3 stars",
+                "date": "a week ago",
+                "content": "Dont know how to cook 3 grouper dishes, expensive and dont know how to cook. The staff outside were enthusiastic at first, then became inattentive and slow in serving dishes to customers.",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQk1XeGhNVnBZYkZWMGJXRjZVWE5tUTBkNmMxRRAB",
+                "author_name": "Hoang Dinh",
+                "author_info": "Local Guide 29 reviews 28 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVg4M6S8xFGUD6sspJ_8wDaiu5VBhxWn0FC1_JkzNJnKQSTXnvP=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/109877539554368070899/reviews?hl=en",
+                "rating": "4 stars",
+                "date": "a month ago",
+                "content": "The staff is enthusiastic and attentive, the space is spacious. Dishes like braised ribs have not yet absorbed the meat. No Eggplant dish. Kiki",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTGMyOVFhRzlOWkRNM1ZqVkNZWEZUYXpoaGRFRRAB",
+                "author_name": "Ngô Thị Xuân Đào",
+                "author_info": "1 review 1 photo",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVByNZ9vOOiQFKkejT3B7YrBQAmTeU_d0dvnA1YDbFFLa_HeRkc=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/113230335521664496020/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "4 months ago",
+                "content": "Had a great experience at the restaurant today, fresh and quality food, friendly and enthusiastic staff, spacious, airy space with many VIP rooms, especially the overall cleanliness",
+                "images": [],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "total": 1,
+        "query": "Nhà hàng Lê Đại Hành   Đà Nẵng Đà Nẵng Việt Nam"
+    }
+]

@@ -1,0 +1,293 @@
+[
+    {
+        "name": "Quán Cô Hồng - Đặc sản Đà Nẵng cơ sở 1",
+        "created_at": "2025-12-15 09:40:36",
+        "updated_at": "2025-12-15 09:40:36",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipMqIJTTMtO_eImK-4FuEWUNLmKUg7kjNCQA3KOl",
+        "intro": "Restaurant",
+        "policy": null,
+        "note": null,
+        "email": null,
+        "address": "38 Lê Hồng Phong, Phước Ninh, Hải Châu, Đà Nẵng 550000",
+        "city": null,
+        "county": null,
+        "ward": null,
+        "phone": "0905 935 755",
+        "google_map_link": "https://www.google.com/maps/place/Qu%C3%A1n+C%C3%B4+H%E1%BB%93ng+-+G%E1%BB%8Fi+C%C3%A1+Nam+%C3%94/data=!4m7!3m6!1s0x314219cbdea6b543:0x7a9e1c5fda91960b!8m2!3d16.064013!4d108.221988!16s%2Fg%2F11f33j9snn!19sChIJQ7Wm3ssZQjERC5aR2l8cnno?authuser=0&hl=en&rclk=1",
+        "rating": "4.5",
+        "reviews_count": "",
+        "type": "Restaurant",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 16.064013,
+            "Longitude": 108.221988
+        },
+        "website": "",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [],
+            "tuesday": [],
+            "wednesday": [],
+            "thursday": [],
+            "friday": [],
+            "saturday": [],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ]
+        },
+        "total": 2,
+        "query": "Quán nhậu đường Lê Đại Hành Đà Nẵng Việt Nam"
+    },
+    {
+        "name": "Hải Sản Tự Do",
+        "created_at": "2025-12-15 09:40:47",
+        "updated_at": "2025-12-15 09:40:47",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxLCnxvh77nFHpu6XhW6XP08Q0BPFXxQuwbXZnAgPWNMhxUk7LXKfCN213ioidSwLKhrvXx6jClsOspNkpyiezCzEHi7T8yPK7dP_ZJJisLzvkojKGSykDHt_lGe5s7yTG10Rxv",
+        "intro": "Seafood restaurant",
+        "policy": null,
+        "note": null,
+        "email": null,
+        "address": "149-151 Lê Đại Hành, Khuê Trung, Cẩm Lệ, Đà Nẵng 50708, Vietnam",
+        "city": null,
+        "county": null,
+        "ward": null,
+        "phone": "84 905 173 173",
+        "google_map_link": "https://www.google.com/maps/place/H%E1%BA%A3i+S%E1%BA%A3n+T%E1%BB%B1+Do/data=!4m7!3m6!1s0x314219c2485f8e11:0xeb47d44cdc4b3228!8m2!3d16.0226101!4d108.2023834!16s%2Fg%2F11rdc3trp6!19sChIJEY5fSMIZQjERKDJL3EzUR-s?authuser=0&hl=en&rclk=1",
+        "rating": "4.0",
+        "reviews_count": "",
+        "type": "Seafood restaurant",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0226101,
+            "Longitude": 108.2023834
+        },
+        "website": "https://www.facebook.com/tudoquanl147149ledaihanh/",
+        "images": [
+            {
+                "name": "Photo 1 of 1",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxHXiQ8oIedIg2zIZl2N2XjaQ5XQ4ELjc5UgtFFiUhx5c_b3sLGQ_sWVQM9XIRIAfwOSJLKTKR0G8mwkKlLA1taOTo-yX4yRqJPtaBTAs61Ou7MfB6BKpWqlS0qXsAcFANWlHWK=w112-h112-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Salmon Red Chowder",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw0biJdUP4Woq7Soo7t3cEMG55R825B5Dw1vNDyTeohSPONDgSXFFR3Lzvcs5ImUE1LWXEZsDsu4Hqfoe27lPlv1aZ6tvQM4ixDDVW2QpsQRd07H64tCJB64O7ahVzOVsWrgsBl=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Corn Bread",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzk8CG4CT2jzQmbxNZQj5XbeayIa0fAvtbD_bAkLs0OPrZE3jQOk_g-HdFLuqagwX-ANPOBX9hBrs3yBFynj2bCENcJchdR1i6GOsHxpUhuK3-g97b85v4at7uzBwI8RNs-2_3t=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Seafood Sampler with Chips",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxu_jOXvjHQIXAa1eHmd3AR43evfG2ZT8NivBGHewwAVA6eKdLgkeCGnubL2v3yOYDUWWdoHN7sHaIk1DQ52XSh4_xRMxkfnAf36VY4PXti1Q_X29p5r3D0bmXpkkysrVW6TtV8=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cá Kè Nướng",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw7vYIVLdZhpw1vlD3ImirsqTWTaFt6FlOSP0Ia8F2wBk49-nBM5AmHa8G5mw8uwck_4VX6mNvI_EOzApF0BSSZovirUL4UohtsU5WBDYB4AISbBtWvCEUERNcDTc57-hggibhAYw=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Rong Nho Wasabi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwU5xkGnXLK-_v1yPH1FHYx9RC_PgeWYSAUEwY8UB13RQCzcLloXm5uLH50JJOiGCX9uPwKMAhAcAuR3FbbT3M-VDwHw6cbbU-Fmp5kGU426CKNwe-3FmRHIgOEqciPFe_hNt6mwQ=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Rong Biển Wasabi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyIgPxbCZ1JR7HWaHmnygdywtXZbRsVLB9s-qY9BD4hxNoGnyHcajOKVi8qIR40i1hZ2rr1W9sqy6xW1jJvghNI40MziXm6lvIeGxC8TTtK-4JzkWwJM7iMiHZkbmZ4h5zLnu1k=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Tôm Chì Nướng",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx3AavfOnVFXfR0wOWwYQkWHosIAL4tOhGlat0hdRp1VrnflQaZKPhTQ67ZBUqv_Z-bQTaA12Ld3XUmvVTGJKCBfF1-zeHepUlCFKxQ2ljRJLe4fNaiD238twZf5VpMBqIBfxFv=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sò Mía Nướng Mỡ Hành",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxmDjm-22zYCAsB0Zfelq7Wwe2tZGIt1uPvYa9q8qAePDFfMWTFvGQI0uUoDKvlc0eDoVm6QNOig3xEo5IB8ZuK7Pn3MoVJUOjSOa0CHuIuesS79LJiBmIsdpnjoT4minqubaQ=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Ceaser Salad",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzKaLmqSbpMT1kMEGSl5puqMVJTokNIMovjaGsdWEmcNfK4QBDDVFXsOWd23an6ydidH9gXo9j_GvOjEl3Ut64_WehVVf6vvzrQDttUmTsopKzxDpi-OnotuQ3vQCO3X6Ta58ieOA=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Chả Cá Thác Lác Chiên",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyqHzcs9ItCAJBiSde1ezm1pr8025N1-IJ0htqc5SWJ6hi-iRqkA8wY7OPxTRYrd0oQX5YIc98qx_KqUfLsh5qzOtc-7CTbQwnKNh37NY0N6CE9i_OuJOie-GhXCfeOqVV1_D8z=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "ChZDSUhNMG9nS0VKYnBwSnJfa09HVFlnEAE",
+                "author_name": "Khang Lê",
+                "author_info": "Local Guide 5 reviews 12 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLHaZThIlzClX-ebmwoEhD5W-LpEXte-mcd9JDZ8NSXFEZValA=w36-h36-p-rp-mo-ba2-br100",
+                "author_link": "https://www.google.com/maps/contrib/111481770255969175007/reviews?hl=en",
+                "rating": "4 stars",
+                "date": "7 months ago",
+                "content": "Really delicious, good for meeting friends",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtMmFlZC1RRRAB",
+                "author_name": "Ilya Shebalin",
+                "author_info": "Local Guide 59 reviews 8 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocI08Teb2AE4l_vbuMBsQ_nwsLv0l0RPqe5Gz0wLgJ9ezSD-hA=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/116363827684486191563/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "3 years ago",
+                "content": "Good service, fairly cheap, fresh seafood. Bonus is the airport is right behind you and you can do some planespotting while you are there",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNubWFMZnhnRRAB",
+                "author_name": "Đức Trung",
+                "author_info": "Local Guide 3 reviews 28 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWcwS175fPxLWEogLBUPnGjCnu6rRLmqS0cbRZLVPyEkCjTvnc=w36-h36-p-rp-mo-ba2-br100",
+                "author_link": "https://www.google.com/maps/contrib/116347643529946053876/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "a year ago",
+                "content": "Good",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5dDk3Z1hBEAE",
+                "author_name": "Phong Vũ",
+                "author_info": "Local Guide 31 reviews 4 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXzY31ee6NcCYuLVRzHq7cIrK1N2serWPXlV_HDQjRwhCqSFc-8=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/112364843702440358240/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "a year ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtN05iRGd3RRAB",
+                "author_name": "Quyền Lý",
+                "author_info": "103 reviews 83 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWX_-u9m9IGp-HUxt-19Wm0Q99_E7NEEjtcCE7JSkkx1Sle-co=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/113806559250733753630/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "total": 2,
+        "query": "Quán nhậu đường Lê Đại Hành Đà Nẵng Việt Nam"
+    }
+]

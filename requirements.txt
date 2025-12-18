@@ -1,0 +1,6 @@
+botasaurus==4.0.88
+pandas==2.2.2
+grequests==0.7.0
+lxml==5.2.2
+selenium==4.21.0
+pyvirtualdisplay==3.0

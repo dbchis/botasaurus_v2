@@ -1,0 +1,127 @@
+{
+    "types": ["Nhà hàng", "Cafe", "Khách sạn", "Spa", "Gym"],
+    "locations": {
+        
+        "Hà Nội": {
+            "Ba Đình": [
+            "Ba Đình", "Cống Vị", "Điện Biên", "Đội Cấn", "Giảng Võ",
+            "Kim Mã", "Liễu Giai", "Ngọc Hà", "Phúc Xá",
+            "Quán Thánh", "Thành Công", "Trúc Bạch", "Vĩnh Phúc"
+            ],
+            "Hoàn Kiếm": [
+            "Hoàn Kiếm", "Cửa Nam", "Hồng Hà", "Chương Dương", "Phúc Tân",
+            "Đồng Xuân", "Hàng Bạc", "Hàng Bồ", "Hàng Bông", "Hàng Buồm",
+            "Hàng Đào", "Hàng Gai", "Hàng Mã", "Hàng Trống",
+            "Lý Thái Tổ", "Phan Chu Trinh", "Trần Hưng Đạo", "Tràng Tiền"
+            ],
+            "Đống Đa": [
+            "Cát Linh", "Hàng Bột", "Khâm Thiên", "Khương Thượng", "Kim Liên",
+            "Láng Hạ", "Láng Thượng", "Nam Đồng", "Ngã Tư Sở", "Ô Chợ Dừa",
+            "Phương Liên", "Phương Mai", "Quang Trung", "Quốc Tử Giám",
+            "Thịnh Quang", "Thổ Quan", "Trung Liệt", "Trung Phụng",
+            "Trung Tự", "Văn Chương", "Văn Miếu"
+            ],
+            "Hai Bà Trưng": [
+            "Hai Bà Trưng", "Phạm Đình Hổ", "Bách Khoa", "Bạch Mai",
+            "Cầu Dền", "Đống Mác", "Đồng Nhân", "Đồng Tâm",
+            "Lê Đại Hành", "Minh Khai", "Nguyễn Du", "Phố Huế",
+            "Quỳnh Lôi", "Quỳnh Mai", "Thanh Lương",
+            "Trương Định", "Vĩnh Tuy"
+            ],
+            "Cầu Giấy": [
+            "Nghĩa Đô", "Cầu Giấy", "Quan Hoa",
+            "Dịch Vọng", "Yên Hòa", "Trung Hòa"
+            ],
+            "Thanh Xuân": [
+            "Thanh Xuân", "Hạ Đình", "Khương Đình", "Khương Mai",
+            "Khương Trung", "Kim Giang", "Phương Liệt",
+            "Thanh Xuân Bắc", "Thanh Xuân Nam", "Thanh Xuân Trung"
+            ],
+            "Tây Hồ": [
+            "Tây Hồ", "Bưởi", "Nhật Tân", "Phú Thượng",
+            "Quảng An", "Thụy Khuê", "Tứ Liên", "Xuân La"
+            ],
+            "Hoàng Mai": [
+            "Đại Kim", "Định Công", "Giáp Bát", "Hoàng Liệt",
+            "Hoàng Văn Thụ", "Lĩnh Nam", "Mai Động", "Tân Mai",
+            "Thanh Trì", "Thịnh Liệt", "Trần Phú", "Tương Mai",
+            "Vĩnh Hưng", "Yên Sở"
+            ],
+            "Long Biên": [
+            "Việt Hưng", "Bồ Đề", "Long Biên", "Phúc Lợi"
+            ],
+            "Hà Đông": [
+            "Quang Trung", "Biên Giang", "Đồng Mai", "Dương Nội",
+            "Hà Cầu", "Kiến Hưng", "La Khê", "Mộ Lao",
+            "Phú La", "Phú Lãm", "Phú Lương", "Phúc La",
+            "Vạn Phúc", "Văn Quán"
+            ],
+            "Nam Từ Liêm": [
+            "Cầu Diễn", "Đại Mỗ", "Mễ Trì", "Mỹ Đình 1", "Mỹ Đình 2",
+            "Phú Đô", "Phương Canh", "Tây Mỗ",
+            "Trung Văn", "Xuân Phương"
+            ],
+            "Bắc Từ Liêm": [
+            "Cổ Nhuế 1", "Cổ Nhuế 2", "Đức Thắng", "Đông Ngạc",
+            "Thụy Phương", "Liên Mạc", "Thượng Cát", "Tây Tựu",
+            "Minh Khai", "Phú Diễn", "Phúc Diễn",
+            "Xuân Đỉnh", "Xuân Tảo"
+            ]
+        },
+
+        "Hồ Chí Minh": {
+            "Quận 1": [
+            "Bến Nghé",
+            "Bến Thành",
+            "Cầu Kho",
+            "Cầu Ông Lãnh",
+            "Cô Giang",
+            "Đa Kao",
+            "Nguyễn Cư Trinh",
+            "Nguyễn Thái Bình"
+            ],
+            "Quận 3": [
+            "Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7",
+            "Phường 8","Phường 9","Phường 10","Phường 11","Phường 12","Phường 13","Phường 14"
+            ],
+            "Quận 4": [
+            "Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6",
+            "Phường 8","Phường 9","Phường 10","Phường 13","Phường 14","Phường 15"
+            ],
+            "Quận 5": [
+            "Phường 1","Phường 2","Phường 3","Phường 4","Phường 5",
+            "Phường 6","Phường 7","Phường 8","Phường 9","Phường 10"
+            ],
+            "Quận 6": [
+            "Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7",
+            "Phường 8","Phường 9","Phường 10","Phường 11","Phường 12","Phường 13","Phường 14"
+            ],
+            "Quận 7": [
+            "Tân Thuận Đông","Tân Thuận Tây","Tân Kiểng","Tân Hưng",
+            "Bình Thuận","Tân Quy","Phú Thuận","Tân Phong","Phú Mỹ"
+            ],
+            "Quận 8": [
+            "Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7",
+            "Phường 8","Phường 9","Phường 10","Phường 11","Phường 12","Phường 13","Phường 14",
+            "Phường 15","Phường 16"
+            ],
+            "Quận 10": [
+            "Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7",
+            "Phường 8","Phường 9","Phường 10","Phường 11","Phường 12","Phường 13","Phường 14"
+            ],
+            "Quận 11": [
+            "Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7",
+            "Phường 8","Phường 9","Phường 10","Phường 11","Phường 12","Phường 13",
+            "Phường 14","Phường 15","Phường 16"
+            ],
+            "Quận 12": [
+            "An Phú Đông","Đông Hưng Thuận","Hiệp Thành","Tân Chánh Hiệp","Tân Hưng Thuận",
+            "Tân Thới Hiệp","Tân Thới Nhất","Thạnh Lộc","Thạnh Xuân","Trung Mỹ Tây"
+            ],
+            "Thủ Đức": [
+            "Linh Trung","Linh Xuân","Linh Đông","Linh Tây","Hiệp Bình Chánh","Hiệp Bình Phước",
+            "Tam Bình","Tam Phú","Trường Thọ","Bình Chiểu","Bình Thọ"
+            ]
+        }
+    }
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Phúc Đồng Quê Restaurant",
+        "created_at": "2025-12-11 11:11:04",
+        "updated_at": "2025-12-11 11:11:04",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyVaYF2WJtH3s0c1SmrAiq2MU5HDiMcc8Dpfu86LXSBzoKID3czRgrxQt2LV_gXeTXyuSgv3HM97dqIizN8Z9JGYsxkHgdoxuQ7zGVFy3nZVNwvL15NNCglaKEx-HciTHU0tGmT9w",
+        "email": null,
+        "address": "256 Lê Đại Hành, Hoà Phát, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+        "city": null,
+        "country": null,
+        "phone": "84 935 780 308",
+        "google_map_link": "https://www.google.com/maps/place/Ph%C3%BAc+%C4%90%E1%BB%93ng+Qu%C3%AA+Restaurant/data=!4m7!3m6!1s0x314219b0c3465d1b:0x7163062baeb774f4!8m2!3d16.0213804!4d108.1981897!16s%2Fg%2F11nfv6k14w!19sChIJG11Gw7AZQjER9HS3risGY3E?authuser=0&hl=en&rclk=1",
+        "rating": "4.1",
+        "reviews_count": "102",
+        "type": "Restaurant",
+        "hours": "Open Closes 11 PM",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Offers delivery"
+        ],
+        "location": {
+            "Latitude": 10.7819979,
+            "Longitude": 106.6986412
+        },
+        "website": "https://business.google.com/createfp8170380933664830708hlenauthuser0gmbsrc-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaign-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+        "menus": [
+            {
+                "name": "Bia",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzGTZtqlvovxn_p1qLfwyeDGbQxDqiJAzOG3VKsYpa82jxxB0y6bhsRmdluQfxieNIpnH33t7nHHQtnq-vHUdOBGgSkX_so9SzUi8Vokp2LKOP4mLnyIfkCtFO5fpoj6zywUaTX=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Mẹc Hải Sản Đồng Quê",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwI1WY2zZy_nUhod9hboEWM66Y-SfVlq230UyFKsiwpEEHbXk7h05cv3wt6FqT8476vbZ-uXdyC1dcwrzWYpNIz9HyZGkJeHCPoonDymBgCvJuOs5k_CCPs8StgjuvrmtUvmER6uQ=w172-h224-p-k-no",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScXYtb2FnEAE",
+                "author_name": "nhat Nguyen Tan",
+                "author_info": "Local Guide 78 reviews 21 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLg1oCXhNU_5ghEBfI4huupUh8fL86FRtp-I_ZUjjThhO4qyw=w36-h36-p-rp-mo-ba4-br100",
+                "author_link": "https://www.google.com/maps/contrib/117820978067730158437/reviews?hl=en",
+                "rating": "4 stars",
+                "date": "2 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMTc2YmZREAE",
+                "author_name": "Truong Cuong",
+                "author_info": "Local Guide 22 reviews 33 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUCEpST9JHOB_0NR8Q82ZFaDRsb8-2eBXac9t63JvobFeJfLQIp=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/108371887576180113099/reviews?hl=en",
+                "rating": "4 stars",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWVVtNHRSSFJ5TWpSVlgzSmpjSGd0ZWtnNE9XYxAB",
+                "author_name": "Đức Nguyễn",
+                "author_info": "9 reviews",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXxTLN1G6lXlkXEl5LcpnDOUKppkFxsEE5FQJdIEcSmiDCyfFdu=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/117360304528404062502/reviews?hl=en",
+                "rating": "3 stars",
+                "date": "6 days ago",
+                "content": "Dont know how to cook 3 grouper dishes, expensive and dont know how to cook. The staff outside were enthusiastic at first, then became inattentive and slow in serving dishes to customers.",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQk1XeGhNVnBZYkZWMGJXRjZVWE5tUTBkNmMxRRAB",
+                "author_name": "Hoang Dinh",
+                "author_info": "Local Guide 28 reviews 28 photos",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVg4M6S8xFGUD6sspJ_8wDaiu5VBhxWn0FC1_JkzNJnKQSTXnvP=w36-h36-p-rp-mo-ba3-br100",
+                "author_link": "https://www.google.com/maps/contrib/109877539554368070899/reviews?hl=en",
+                "rating": "4 stars",
+                "date": "a month ago",
+                "content": "The staff is enthusiastic and attentive, the space is spacious. Dishes like braised ribs have not yet absorbed the meat. No Eggplant dish. Kiki",
+                "images": [],
+                "likes": "0"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTGMyOVFhRzlOWkRNM1ZqVkNZWEZUYXpoaGRFRRAB",
+                "author_name": "Ngô Thị Xuân Đào",
+                "author_info": "1 review 1 photo",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVByNZ9vOOiQFKkejT3B7YrBQAmTeU_d0dvnA1YDbFFLa_HeRkc=w36-h36-p-rp-mo-br100",
+                "author_link": "https://www.google.com/maps/contrib/113230335521664496020/reviews?hl=en",
+                "rating": "5 stars",
+                "date": "3 months ago",
+                "content": "Had a great experience at the restaurant today, fresh and quality food, friendly and enthusiastic staff, spacious, airy space with many VIP rooms, especially the overall cleanliness",
+                "images": [],
+                "likes": "0"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null
+    }
+]

@@ -1,0 +1,956 @@
+[
+    {
+        "name": "Đông Phương Quán Cơ Sở 2",
+        "created_at": "2025-12-17 11:24:17",
+        "updated_at": "2025-12-17 11:24:17",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyACBAVtTCkgfLk0izR885BCzCl1iUyB6_TRMakMRyUNYDyLU9qETMeI2ds2xLSuKyRO_Z1ICc_d9dKLaa-xY6dyDiBDNCGWsL5mrarWWDhsaVxzPufDfCD7ZQbekF-tDEoYPGc",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyACBAVtTCkgfLk0izR885BCzCl1iUyB6_TRMakMRyUNYDyLU9qETMeI2ds2xLSuKyRO_Z1ICc_d9dKLaa-xY6dyDiBDNCGWsL5mrarWWDhsaVxzPufDfCD7ZQbekF-tDEoYPGc",
+        "intro": "Serves dine-in, Offers takeout, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 333 789 612 để biết thêm chi tiết về chính sách của Đông Phương Quán Cơ Sở 2.",
+        "note": "Đang cập nhật...",
+        "email": "default@gmail.com",
+        "address": "26CGMGF",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Cẩm Lệ",
+        "ward": "Hòa Xuân",
+        "phone": "84 333 789 612",
+        "google_map_link": "https://www.google.com/maps/place/%C4%90%C3%B4ng+Ph%C6%B0%C6%A1ng+Qu%C3%A1n+C%C6%A1+S%E1%BB%9F+2/data=!4m7!3m6!1s0x314219ae04939447:0x6e8f17f84ae3cd79!8m2!3d16.0216728!4d108.2263075!16s%2Fg%2F11ppyt86r6!19sChIJR5STBK4ZQjERec3jSvgXj24?authuser=0&hl=en&rclk=1",
+        "rating": "4.2",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0216728,
+            "Longitude": 108.2263075
+        },
+        "website": "https://support.google.com/contributionpolicy/answer/7400114ref_topic7422769",
+        "images": [
+            {
+                "name": "Hàu Nuobh",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw3O340XVIHKHAE_ta0g_kQgIApS3xgD9lhRUBazTTdjCiqJ9_HKzxhS-HDYnphm4Y8RFyOzEwj5U5eCvWSQHADH1zFAbC-8DWPlL3sEPZ6pS_sKtP7B3hdcsa4DIBkgaYf57Vy",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Tôm Phô Mai",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyAdwedlEe019zYd8dIR_Od07dfQyYxzuSPL5ms1wg5zdEVD_wCRNdZhSWy_tVhd2dxuMNQ8pjzuQkCiD1dw68Vkl1bwK1yM8qlGVzyRyQFQU8cKmjqp1uCvmRI_O89omkEBByL-g",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbFluU21BRRAB",
+                "author_name": "Ngoc Le",
+                "author_info": "Local Guide · 32 reviews · 15 photos",
+                "rating": "5",
+                "date": "2 years ago",
+                "content": "Their seafood is to die for. I recommend get everything steamed or sashimi. Their seafood is so fresh it should be prepared really simple",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWKIoyk_rLj-RQAql7poox4yQ4uBjm1aS-8DCCcTBU1hPJUh-6igg",
+                "author_link": "https://www.google.com/maps/contrib/101393708289485482576/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONGJYSllSVGxFVEV3eVpGSlBVa2wxV25sWmNHYxAB",
+                "author_name": "Ngo Huu Phu",
+                "author_info": "Local Guide · 247 reviews · 334 photos",
+                "rating": "5",
+                "date": "3 months ago",
+                "content": "Good",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV8J-ZLfeDoWckSwos3YwCJIGloAtezF2bLXuHOZsZzePXe2oA",
+                "author_link": "https://www.google.com/maps/contrib/116243728340544137319/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYZ2IzS0tREAE",
+                "author_name": "Phan Hung",
+                "author_info": "70 reviews",
+                "rating": "4",
+                "date": "a year ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXcSQ_x4quAm1mp5tn8sxngJCowvbH1-gLrxPQbjPq2uLCWCBwy",
+                "author_link": "https://www.google.com/maps/contrib/107556955492783269087/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBdzdXT3J3RRAB",
+                "author_name": "Hiep Hoang",
+                "author_info": "7 reviews · 1 photo",
+                "rating": "5",
+                "date": "10 months ago",
+                "content": "Good",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIVlXFLGw-DWVVYllmg2-gdDdqvkSqZG_EOJRR2C9HeON1YzA",
+                "author_link": "https://www.google.com/maps/contrib/112042265999366957547/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMc3VYd3FBRRAB",
+                "author_name": "HYPER PHONG",
+                "author_info": "Local Guide · 40 reviews · 17 photos",
+                "rating": "5",
+                "date": "a year ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWfZCoFDkbZYcJb6MDGWy5oqcmMFEDq5LualkjiKdVO3zv76kXT",
+                "author_link": "https://www.google.com/maps/contrib/103940313324343076718/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdnVlMXZRRRAB",
+                "author_name": "đông ngô",
+                "author_info": "4 reviews",
+                "rating": "4",
+                "date": "Edited 3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU1AoM-Z8_r6Hq0R3odR4NVokC98D7L8bPdRtinJ7zq9SQtysYk",
+                "author_link": "https://www.google.com/maps/contrib/111686108664542225329/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCbXVhczBnRRAB",
+                "author_name": "ThaiHoa Huynh",
+                "author_info": "Local Guide · 318 reviews · 1,760 photos",
+                "rating": "5",
+                "date": "2 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXBdnORy_yth0umgDDpsoUSYC3IYwGSM70ADKBDNn1HT_is6pEK",
+                "author_link": "https://www.google.com/maps/contrib/115990336024534828823/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbmJIcVhREAE",
+                "author_name": "trường vũ",
+                "author_info": "317 reviews",
+                "rating": "5",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWQJqQOW-zAmZ4lIfS05GZINAiuvRCzThA3wftXauTzcLj1qGf0",
+                "author_link": "https://www.google.com/maps/contrib/103681671771717467992/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPc01EZWRREAE",
+                "author_name": "Thiên Ngô Bảo",
+                "author_info": "Local Guide · 150 reviews · 1,576 photos",
+                "rating": "5",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXKB2L_6vct9l7T3bXiiEbEcIe5a5GOw-jM68vuq7onM5y_C2t4",
+                "author_link": "https://www.google.com/maps/contrib/117073770785659447139/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQmRGSlZObWszTW01MWJHWktOR05RZUd3NU9FRRAB",
+                "author_name": "Lap Tran",
+                "author_info": "Local Guide · 247 reviews · 781 photos",
+                "rating": "4",
+                "date": "2 months ago",
+                "content": "The restaurant is quite good. 4 stars. Food and drinks are good. The evening will be more fun and the atmosphere will be more bustling.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uzIauBC7MBFp8OWFVKnH9dHSIBIunOwPbSIf6xcIIbvp7VObWwQfb8EgIcqYhGwsGD0qrLu5qqu8GxaD7hOFZOa_3XSRMx2whgxQM7s-VjIoan0HaF_wFWVkvYN2fhfQ4sZdM6pEUP2pTb",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sWR4X0_izETm1S2XvlwuE3wgpBYvTP4el6MT02dZwzA5z8QsPEYcGdmFOjTR70ywpSvDfIna-oBxgvp78FT6IS5KHoqf38yROACyJeww_fmyA-TeYRwIjtJl1-bvx1cMQ5qyUp9Fbvr3iH",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uOYIhqvGnx3f4TIUryB8Y-_S_pESC67IlPjoSjWBkOeX6FVcCQ-ASQobz8r-QlIdgcYkOAGdpRd5jfc_ZOPf8fEkI-Nj6ILey-uTc4tH2kwsc5qVlLmS6_fbEZhJRKO6kaScMSYZKE2g6C",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38smCKCOqYN3VausxWTLE0TdeZjINxpF8jhLMW08jweZwFx2j6FlVmCBgaEmwnrkKwea6n3Xc-JPVolQJBFMYbt01SEfx4ANE4HsqKNTlsAr8zOQvSbp4OJJ9EA6q2xU2xOFsQI_dQR1Znjm"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXYHS2805J_Kvl9RNpLlxYwefhK-IdBD_aIi9DXEGSzFzik0ElT",
+                "author_link": "https://www.google.com/maps/contrib/108690870277328112843/reviews?hl=en"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:30",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:30",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:30",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:30",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:30",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:30",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "23:30",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 1
+    },
+    {
+        "name": "Chim Đồng Restaurant",
+        "created_at": "2025-12-17 11:24:19",
+        "updated_at": "2025-12-17 11:24:19",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipNQwyUuwn45iGFuHoRv56j852br0iIKRPzfyewF",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipNQwyUuwn45iGFuHoRv56j852br0iIKRPzfyewF",
+        "intro": "Serves dine-in, Has drive-through, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 989 900 001 để biết thêm chi tiết về chính sách của Chim Đồng Restaurant.",
+        "note": "Đang cập nhật...",
+        "email": "default@gmail.com",
+        "address": "388 - 390 - 392 Nguyễn Phước Lan",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Cẩm Lệ",
+        "ward": "Hòa Xuân",
+        "phone": "84 989 900 001",
+        "google_map_link": "https://www.google.com/maps/place/Chim+%C4%90%C3%B4%CC%80ng+Restaurant/data=!4m7!3m6!1s0x31421912b6369069:0x18d058397e637fc7!8m2!3d16.016418!4d108.2338736!16s%2Fg%2F11y30_g6kc!19sChIJaZA2thIZQjERx39jfjlY0Bg?authuser=0&hl=en&rclk=1",
+        "rating": "4.5",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Has drive-through",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.016418,
+            "Longitude": 108.2338736
+        },
+        "website": "https://support.google.com/contributionpolicy/answer/7400114ref_topic7422769",
+        "images": [
+            {
+                "name": "Photo 1 of 5",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyHI9igs15VYRcr_zNns962oC7qb4SYGH4UumHoXUqDhiWvhMKM7brEfAqJ_bRm6EjPgO1cVOiUc4AqNaCIrrt5v6Z67T0L5wirU5W4awDhK3GRafS4n3My3bZJWC94nvgfLLcxeQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 5",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwCZUGwU2FxuGRO8JvhWfGGVZWXybbEvnA4RSvvvgaXBj2w-IF_jDF0W29lBaXOd0_OCV6IGL8Vs9NnEOgqA8nvpNIetdw8plmv6nE_bOynAmXLsjz6RmktgFgL5v3RkUMhBqcNWw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 5",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSypdUwyGyESt-Hbk7TGpEP-2ZcaoaGZpX0aPd64DLJpYn7A9rm3857GICiKWixxt_6XwED_CKcZGw0eLZi7JIq1j6sZvfPnkpEhrDi9Nqj0wHgwojgODDYO07WQYQ8-vM_UbAocXw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 5",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx2rp6i6V6zabFfVPcqckhctVFvq-XIL9euC5mBoYuyHzJSpm-YwbgI_yDaAURaATUrTJeLQqvdjVsMx9CiBlR9IROVsVTtyqKFLW6luSDNuQj5i1IdkuXQyVY_q72w6HrNFNLNVA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sùng Đất Chiên Giòn",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxPn91yowLwoto8B8lTkkdh0A4OQzhU_zsjw6WiplPhfIdf85e8sj8RYBidtQQCobqMen64UABsnrrWMdMtbrKJ6xgOvbgox487inVx1uZ-MR5PCioZ3hD088aWqpo2Cst1qnk",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Ốc Bưu Đen Hấp Gừng",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxDi6rQAFCwXi-oOC_CiPBKWwMXKJ8wNs2QmOWgAXinZ25s09C_FrKJGCXvxf9hPeFjUqmS0TMUMr6rkMRhTOOVp-yo9XLR6irbGMZhnEKZTXe_9B2asnz-773FPDufcsufuOfiSQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Tép Xào Khế",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyHuscRTjmOl71lrcCyiHK-wa-5FEEAN2gAikc8BLHxIH64Z3_oJgHLl2eJsN8yD5k3UadfQuJV1gAoNhi_qa4P1eYWaq_b2So4ZdNWtJHvT5C2Xvxlp858Pip-VkY4Xxq114RS",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taemRHaENTR2h6WTFOU1pVeFhMVFl0VFU4NVpuYxAB",
+                "author_name": "Lee Liana",
+                "author_info": "Local Guide · 248 reviews · 1,172 photos",
+                "rating": "5",
+                "date": "6 days ago",
+                "content": "Wonderful dining experience! This place serves mountain-style dishes such as wild vegetables, grilled birds, and farm fish cooked with lime. The food is delicious, well-seasoned, and served …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vsln5e9sUNY8AkG4DlNzUfWgG52O2j6pkvGFJkxQNowItsqDVMht7QqpA4_MceyojbpEgUeErsFnu1yE0klDdXUFrO7JCljro04436PrSNurgdJtiM1zlLZmILeX37RLZtpUu4fp-5V5lM",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38u1HWSdjKjDwNoDi_SyZnNU3CW8qVOwZcI_dhmuiOsvJIvYfdwMaPBknzGsz1epeagszEr6sDF40ZX2KNGOgR1zwM2ae0hrf6W6kB9E79hBGm6QC2yWpJv651hMxg8dIS9VbW6iG9dybsts",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38upswJ9McZ1cvqKM8mO9ghmeoQlSHr6wkeHphK7vheYbvskS-KyxBR1pq3-UbTM6rfU1Sz5BBWuhgF_2Yt0ElEY7e6EcAKCvRJjaf_8h44WawEaD44-W-2SV6wkji0yJx3hUMJT0--KfwY",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38v9a6ykpBuPA96Fl5rEsahTms5oe-RmWMl7Qw9gvZgUAOuGr0UqzqDu5_eItWRZQrdC35Ud9wZxaQ-ehlFnHsSWSIhsQ4wXKruoP9agK9bpwU_UdQ8VAh4-nUfqgDdjILgzqtT3aqX1u8A"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVp7JLGbWrXJaY1J3nwlrMXqM-rYhQxIeYv2G1kNPyG0f1EDE5Q",
+                "author_link": "https://www.google.com/maps/contrib/115463972759956807978/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBay02WGV3EAE",
+                "author_name": "Huyen Nguyen",
+                "author_info": "3 reviews · 1 photo",
+                "rating": "1",
+                "date": "10 months ago",
+                "content": "Nhân viên phục vụ và quản lí cư xử vô học. Lần đầu cũng như lần cuối It’s the very first time I ever tried this restaurant. I was filled of food since lunch time but I still wanted give it a try. I ordered a heniken and fried …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sBnLTMIISr2vVeKDac-kGK6ywNL5l_6sML3FDtZ0vHDx6Wf6nWBUkMCK8coZ-_GV83D1Xinay_yElSvfmMq5o7V1kGjlvopj8h30G2fuObWwRYzBQPztILYil85h-g_YkaDR_NOg"
+                ],
+                "likes": "1",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU06BhtVipgZfgiZ_i7McWQRBsgrkZS7QUrpAZP1nwmR8Qe1v1O",
+                "author_link": "https://www.google.com/maps/contrib/113676931441586673824/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VMYXVqb3lnOWYzcGd3RRAB",
+                "author_name": "Ashley Cummins",
+                "author_info": "2 reviews · 2 photos",
+                "rating": "5",
+                "date": "7 months ago",
+                "content": "Service from the staff was incredible. as was the food.  So very happy we stopped in. Thank you.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38txTmIrp0tVztJan2iC-yoWv1OOq_BZgGB2nhJN_4PW-HzUT79ryk_6uAST8MepcA-n0H2x2Tu8vPNAiHDuOhaWw8lvWUkQubvTo9_DbpPmuqO66c5m9vUSO0J2v8BeO6Y1vkiZzA",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38ttFdk5cF0BAhbngjHUdTnVTxNpoR5juDDPBXclosigNPJ6WZzmGwo-gjTjpbU9rOZFdI4XEfXcqD2YHHqmdaQqORLa4cvEsZtXF5I37J0JgMZu7v9ZmnZ0QlBHo7ZvCvbUzi_-"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIJB3dDNpG9JOnEU7GFZpIFIqukXfdlwZo-6009m6rj1kSQzQ",
+                "author_link": "https://www.google.com/maps/contrib/109227350149943059122/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adlQzRkNRVUpaYm5CSmF6WldNM1Z5Tm05dWNYYxAB",
+                "author_name": "Quang Nam",
+                "author_info": "2 reviews",
+                "rating": "5",
+                "date": "2 months ago",
+                "content": "good",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU8tu73GAF2dZZlw3rpOYaOMNcci4bf-rK8SuBtBFuwUp7VFHY",
+                "author_link": "https://www.google.com/maps/contrib/102263169392457229835/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbDUzUHB3RRAB",
+                "author_name": "Sơn Thành Huỳnh",
+                "author_info": "Local Guide · 237 reviews · 1,026 photos",
+                "rating": "5",
+                "date": "a year ago",
+                "content": "The restaurant is spacious, airy, clean, the owner serves very enthusiastically. The food comes out quickly, the cooking is rich in flavor, especially there are quite unique dishes and specializes in delicious country food for everyone. The price is reasonable, 9 people can eat until full for 1,373k.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38umMFwZdRNSBqsB3j6ugHKwpvdEOOySdd0EvxFzQ62rxhK8jYT8oqM4AaETYioWHgr25wYVuVr70rcOfhoN8kfNP034QeIAbT4W2wm7fuPAfdotH6Aqvrb8H80F0C628tmI2CfM",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38snhymM0Ib75jhlB3_WK0L6ZILEt_gDka-qYsUDdNfHgtKqPfCBfhQAxazEVV2ekyUWYjFR2-CzXOOH4Ulmo99_S3xe6d-1fAdocoIAQyNpkLjB5L4oiRiUfxwP5ulHHxSlnf8",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38ud2cULX3bD_3VTWcaKDX3o7Bb_T20V9IuP20KBJ0ySscgI9D-ykGsz3Vwh4vIcuMoURmyg8KiK2Z_S-KRqmKpKLqdqCBtJGJcfTs0SMRAyQy0J74mPW4tMTFYkPQ3OK7S-DmQTVg",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sbjVTrKBykSWgIVt7B83WuyGzFsFMpq6lvSLJrLEqtp5zN8Y9s2AmmgxPAHCIy9hBIm94ODH3IH750EEMC4BNlGQUoRiRfRBNTZ7Evr7y7L1TYai_v8trrbqm5EoD-dpw6-sxP"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWamqJpXmadxWNEZs9uaoKGWifPMp85OaJJD4RIhA6STKyUZQCn",
+                "author_link": "https://www.google.com/maps/contrib/110962230237511129664/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4U2MxTm9OVXQxTW1Gbk5tUjNYMlYzUnpOaVpWRRAB",
+                "author_name": "thu hiền Trần thị",
+                "author_info": "5 reviews",
+                "rating": "5",
+                "date": "3 weeks ago",
+                "content": "Delicious restaurant, great service, authentic copper products at reasonable prices, full plate of food. Everyone should visit, you will love it like me.",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXkVLpBDfgKK7LHjkgrivWr6aFoDjH6JKnHCB5nQ8ODSy_K-A0Gwg",
+                "author_link": "https://www.google.com/maps/contrib/101837653162674569235/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbll6RklWVk5LV0U1dmFVRkpUbEYyTFVGbk5IYxAB",
+                "author_name": "vo quoc",
+                "author_info": "Local Guide · 50 reviews · 75 photos",
+                "rating": "4",
+                "date": "5 months ago",
+                "content": "The restaurant specializes in country dishes, worth the experience.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vmRNo0HFb1gXrFNYUzFc6aZR_Bb5WOVUvk0o47VX4DyT1RiN8EFcAjEQEFYJENVcpQk6quPYyLG3hK9u_aivOeBkUJo8HTb2Yh6XMj1TxzGp2LOzQDUMZFBK5mqWROEaCDuMEqNvReXU3K"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVDWDGSpe1vwrbt_ugjfzQoD77nF26ekJdxmsEnegBHlxWWoa7E",
+                "author_link": "https://www.google.com/maps/contrib/108558038180754076047/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SM01tODJWWFZLV1ZsNlZGcExMVGxKTmpneFprRRAB",
+                "author_name": "Tân Tân",
+                "author_info": "1 review",
+                "rating": "1",
+                "date": "4 months ago",
+                "content": "The restaurant tries very hard to sell food :)). It takes 3 frogs and 8 birds to make the porridge, and 5 eels must be cooked. If you order less, they will complain and not sell it while the food is bad.",
+                "images": [],
+                "likes": "1",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIYrtzpqgm6alGa4vsBjBH8MnbSciezXP6WoAgHBiXS52b3XA",
+                "author_link": "https://www.google.com/maps/contrib/116255620418627721211/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMa3ZxVm5RRRAB",
+                "author_name": "Tour Booking",
+                "author_info": "Local Guide · 98 reviews · 599 photos",
+                "rating": "5",
+                "date": "a year ago",
+                "content": "Delicious food, delicious bird dish, attentive service",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uW7Pk-bOXeV7FmaZ_k8AUEi4LqwRxq0KeYCxop9gdNoLMIqjU_iREOlrwNXds3GcICRYwT6--GNDSWHdhytPb6z0Dzv3_lDrZjuVDLOmbvp7LazrNZzbTTTrKEJ7UznLGhaWsj",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uSPQgWT8nQpfHeg5FFg7Q1hXpc80RBrQo-FHAKwjCAaGgjUg3D7333fdxQXVPLN2Flbf1s2oNXMa55PRfuPvPfaJQ6HmK1dcWBJjPK1yIay72t12IEYpoUY4YVEKSqXYZS7n2m3Q",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tWXicpOst8r_y7WUGyRGCSlW-SHvY7ArdpHftMhkUfEZz-6u56aWe2KWKkDTQYivyufAZ7zfLu3ZuL8MFTLor-wFcK6eqs932v4ZKa8zOocwnfQzBs52_NYO2ITbPVY389m52w",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38v8irpbC8NId0vCEHsHfSCui8Ixj09_RITB1keBac2qoOzcvNekDRBL_nrFx3jfXluwWVLbJH-cH37v2eMi8FqG2xae85bVCqoTxRtENMhFwqol401m0muiQkoLghy81BHEE9Hycw"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXRdFg1YsE3lizUeZl2LRwWKqziknxaXTN1rO1OIf3U3tZZVMtsoQ",
+                "author_link": "https://www.google.com/maps/contrib/107097088487555466599/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaWRrSllaVTV5T1hWQ1RVMDVkVEoxTURsc2NWRRAB",
+                "author_name": "Linhh Ngo",
+                "author_info": "3 reviews",
+                "rating": "1",
+                "date": "4 months ago",
+                "content": "The restaurant is expensive and the food is bad. The menu says soup is 110k but when paying, it's 150k :)) The meal cost 670k. This restaurant doesn't do business properly.",
+                "images": [],
+                "likes": "1",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJQ6Cvul9rVANEH0l7ZhRPSDdSpaBi_dJTvlJ-DCsG2T4wRGw",
+                "author_link": "https://www.google.com/maps/contrib/113647571363672397624/reviews?hl=en"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "00:00",
+                    "end_time": "23:59",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 2
+    },
+    {
+        "name": "Hoa Ban Restaurant",
+        "created_at": "2025-12-17 11:24:16",
+        "updated_at": "2025-12-17 11:24:16",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipNmVtKwUNDPhChqtPkDdMWJbDp5UQawXAaMKovB",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipNmVtKwUNDPhChqtPkDdMWJbDp5UQawXAaMKovB",
+        "intro": "Serves dine-in, Offers takeout, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 912 711 877 để biết thêm chi tiết về chính sách của Hoa Ban Restaurant.",
+        "note": "Đang cập nhật...",
+        "email": "default@gmail.com",
+        "address": "Nguyễn Phước Lan/Lô 50 Cầu Trung Lương",
+        "city": "Đà Nẵng",
+        "province": "Da Nang",
+        "county": "Cẩm Lệ",
+        "ward": "Hòa Xuân",
+        "phone": "84 912 711 877",
+        "google_map_link": "https://www.google.com/maps/place/Hoa+Ban+Restaurant/data=!4m7!3m6!1s0x3142191ad7ce4fb5:0x61b30e44b90971a5!8m2!3d16.0163084!4d108.2340463!16s%2Fg%2F11pbxss6hs!19sChIJtU_O1xoZQjERpXEJuUQOs2E?authuser=0&hl=en&rclk=1",
+        "rating": "4.1",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 16.0163084,
+            "Longitude": 108.2340463
+        },
+        "website": "https://www.facebook.com/media/setvanityHOABANRESTAURANTseta.160434016143917",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipN30sOTL3lJjlQlqTORuHMKkVzQwRJA4-PyIvoA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyG1YAXGSw-g8okYC_Zr8TKrXgJyKLM_-lQOKqwZQzqqb-i8ZF_GuxcoQQUhA5YsDj_3sYUz9IifSOqGJPM51tsHxlpmA4P439ok3ub8b18dBoIx3acvSsFelqBwjSgok680s2Z",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxvYQKH82q8ix5Ha5vc1cuYgJQj1Y--51oVG4ywMGCXWK0V_yAeGyNJwwcEPPtrTkiy_EtZY826lUkl5XdUjOdja5Yr50g9MkFZUW6E2GiFeDwoF338CeYksUEVTS8WcxYGtgb39A",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSySKhhjZUsNfbHkJCGOM-npoT0qlfE9Q24jkmgBjeT_x0lDST3S9g0qQssSujgXAdNSHV4BYzZw5DLi1r8Ub4tzJ01HvQ5CR-c9DcarSlE84i2Ur8jpbbEczmVeCPKwd9YYdC7v8w",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Mẹc Heo Mọi",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSytP2g5kXmFiyX5n78Dyess2YPTOAsyr-JWq38HOIIgfgCKxpHTJ2Et5Kayhi2E4mXaNhKqk913G8sUVystX0Zse3fDQv2J0dj_QXriMtGLYbdIeZo45i_0P--pVnaZKuJI6ev8",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Ribs with Sticky Rice Cooked in Bamboo",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxNvx2Hct4wdfX7trAs5_zB7qU7oWxli8EQ20rlaq2oOu15wfmISKfM3F1icDGvN7jQERvxIdxQsz3mw2PLWKUGFMchA_b0hs4HnpB3R55RaRhUBYtkMwiUPLKziZNaMDu3vn3L",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Escagot",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwvrAscR2nbwXGfIkLMR5KQcMxkp3sRs_fJ_u2iCAlf2LKSD7pEjkc-EjTk4POooGh0AWiE3aEFT3upAEJ5i2pRfyjNRjAmeP6dCD_uaZ1abB8X567rsmX2wO1rNqsODW2GXVc",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cháo Chim Câu",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxZdx17wA9WVN7glqKsS3PHluKt4aR2i2SCybWZP1SH1gVcsM1x2q34hlHMvCdN2BP5tU6b66BOl3BZKwvlDsfL6lBaglgglDjtMXO13XrOzZ3HwHzfIJy3x4K1MPDLqGmj_U59VQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cá Lóc Mắm Xoài",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzQ2nLIZ1Q8qA2ZETt5HmLEjP466FN7KStPtfacxx8UbYqLK7f4IN761jgvgOSWxwWZINyUkGCkGtr854hWVBvAA0SjWBhnHu7ZPQaFgFZyK_ZMj4--junsbLxbHWc0FqO9qETF",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sườn Nướng Tảng",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxDFMspxjewpXMD_iJo_pxWXja_cELoPdTIivXnVFWXk2E2GAgFIs67mFl8sVg59cx15LqhN--R0NcbM7KLIzXfY8DQ_IOi9itiEFardD8YQFVMVT6Q8-sv-zJrPDOgCBIomwrWxw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Heo Mẹt",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy51C3anvmC_9Ju-hu9w6-LFkPonhNlydpnGJh-AapQq9DV2IsjmcZjlSU11hSSRmeUaC91j2Ly9POZm7giCUN8KmaQCQH9lMbj7MjPU254f4OleREiXMtGSYxcP4jKcLbJBpR1JA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Rượu Táo Mèo",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx2vPy45Lr08B98aeqWFDwR_cd56HnrxNc1DIDsTECqolEWlUXrtaqT7YlHeRocrrFxl7Xe3z579LIbTHspq9k0bsZhErGHDHsUrSX9hiHuRo_YepSF_NLoPjs1CK1ZbpYtoYo",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Gà Nướng",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxjwleTJq7pbRXJwlJu9A2e3ykgi12kApSZgLw0-nxJRVfawBIVqHDPGqTE7EN7Tok-ElsQtGpx1StKHlbvOPlDP7nCg9fDMfBv-Q-1pl4juFeqYgPtqtT_kdeuQGlXUPuCZja3",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Dồi Sụn Nướng",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyYLYdjB8kfBPfC6OaLpT8MoNvZ1_KA_DkUgXUUBAnZnhDbQgmHBIKhatMtHSmeYsC7KRR0LUro8FAWhZJi1SaboQx_DO78R8ulB8CxF7QPoHZPuGpb20wVMsJTlB4CycLbDX9BXw",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Gà Chiên Mắm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw2H-k2AkHqoopBBggawvGhisXJnSJBZY8Va_yTF-_Af6H2AayhIzReuoFAq6aGQksgQjJaTGCsS6GrpFxzdZM3MJ274m3d9nggtpnACMuxAhM6Zk64w7cEsMKTGVs7AF1AgyRb",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Thịt Nai Mà Lạ Quá Vậy",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyn5LIUTvErMKatrq30IECWygeY4hjcahr3bvgcar1-1KksJMoZB_TmpNn_IJ_cTzwxCOBkkjsQGZFkSFlU_ZSCL6qIiY5d7yZQrO_Gnrz36WotY7tPOz7ZH0QA5Pfgf4JYkzjmgA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Bo Xao Bông Dien Dien",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyBINAu4OrETF_jsyVMew3M-YvSYI2E6MUw4-If4Q1Ois9s4LUUL45AE3HdTniI8s6sMvOGnvyZ_jtY9En5pb9GY4o8xm1mSsG8Mn3a0c-MCSU55w3HWG-ga0inA4qM55tBBzO2jQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Mực Nước",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwMp0qiejed3rtB6KMwqq55fSM4cTtuE1DD_-iU7u4fV_OQjAJQA4rDZUw-qxo1RGS3lc6L1hpD_70ozjBFFLA-6tgtSwq-9HHfaZK7otnn4-YlN1rV5XQTw4QJgFpg6Ww-qFfZhQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Lợn Bản Hấp",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw6U_PtjVPVMYNpuI5Ut8sYzycnhkFYT8rZFGf3EMa-00I8q6IhQlzlHEmyGFKTly3RSe51AcO5W6yckfvoHV7LHT0n8BSi5NRnDg2ilFzK_mgqS8thy84nKa4CLK3s933VYf8",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cá Lóc Nướng Mắm Xoài",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyZtsjI_aBDWAOP3nTIfCED0i2_XpDgs-4jwrzvc9SvH4dTgzoAgAkTpTvEP8G2Q9jAthH_jbYai5e4YJqPX0RSwIOuh1l0mfIv3LXhCnu93_pKRMUk68wAtmDGo39VDnBfbvk",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Mẹt Thập Cẩm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzU4yAH_pKXZvtbMf4-jJxnA8xwJmlmCqXaOYuK6gpXq6WPT4bxBgI7CVO1M0sspycNR7uOSqujHky092Gllw4sOYpVdLMS9tUwDCY2vNyMQhTM7H9ZPDtpLLmD92bIVgn2Pk1q",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Chả Hoa Ban",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxtBtqczmy5m4Gr49fo6rvzPOhtcGX4WCRu9IDALFPe-GahJcKWZj9c1irIdkQIt8CJo2ZBtMp3sN1t3cMRTbRyRpGwCbMhSl_dxfbCjCg70h77Q3TqW9gt-LKPFXBQg654YRg",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Gỏi Xoài Và Nem Khai Vị",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyOvsW-U9YK85sq3QwvBnkzliGAKGOCEsqkKAt3wYMeQYR15JDsclbHdjkHan1oMRmKp_h2evx1qhQ4XD_FRvnNK42vRPoedAoybRFe9IhTjU8tzCuEVAqKYOAwyRzAPNMxpVb0dQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Thịt Heo Xào Với Ớt Hiểm",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxE-BbdMhzIB0HymgvylGGLnu7kSxcSlbtrDxZlrY7N0RjpjYkIc12IiVsgn9DMIf3ij0BT0vi94Ee7zS1buEdX_kH8WBDa360I6mtgDZtO_HmUXZCaWUhRyiV97iYbFTpW_nhQ",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Ribs with Sticky Rice Cooked in Ba...",
+                "price": "",
+                "image": null,
+                "description": null,
+                "source_type": "text_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJd1BxdVBBEAE",
+                "author_name": "Jimmy Nguyen",
+                "author_info": "5 reviews · 3 photos",
+                "rating": "5",
+                "date": "8 months ago",
+                "content": "Tourists don't go here. This is a vietnamese place through and through. Seasoning is one of a kind.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tyDytiNw18lpGNTbYiRFxcXo8nppa1jU6GRNrQoD3wJrBkXZ9v-bGEx7yLq_0aj3EH5eHvKYU0IwfEhcBh7YThFcIn5jf2Ym2n2jfSf0u8oZbGTQ4hWj2EkxoPatbqpsnf2S7H8g",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vLO0mzxj5gXn5xN25t3vr2-MNAw15IJ4hgSkv70vJ6XfT3j0Knd3PpFnwZL5OBC3SscpZJZEfMSiv8ZtvmFetgCtEkHF6l4ibfmdAefs3GqCGKLcuDgTtwuKB6WpOtK13pOqUE"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocKkIqCbsrfG1IdNxw4rGFfhkM7A8ldpTsQq8z3Exix_Bd2glA",
+                "author_link": "https://www.google.com/maps/contrib/116849169770911209964/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPb196RmxnRRAB",
+                "author_name": "Long Nguyen",
+                "author_info": "Local Guide · 64 reviews · 520 photos",
+                "rating": "4",
+                "date": "3 years ago",
+                "content": "Cool place for relaxing and enjoying food. Nice and wide view of river side.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38v46n91B2pGLZQXjmi-fkfK71yHv0jAGu6B77eFznP-LrHO6R2nlZdyXwZjNb9Wm_n8ijyRWBUPf74ru5GhXq8H614jHkYl6mHmy970fPyx3qyaj5_bwiRYFpnbxIwB6lt8pQOViw",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38t5TeM0jJfMCZuUfW2bIuFspWO2TtrAlqGGHq_PoKFI9QPhUFKsWO2RAzfd0LebSDYJqjlLQGs_q9o7xuRgHQmzaJC5DnnfvUj03zMPzYboBbVQbgJQX5Y6eko0sx7wCmcHXc4",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sAVveRUyutlqj30kPS3ml7YOCdi2StO7QT_byYnVPy_AWJfba2HMGwN9LxT605KhgWgwi_q4sKBX57a7XDqrPLWL50AtNBtSTWlenc2F9aVW3nD7z86YjbdzE-mlY1TWSglsY5ig",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vJ-0iee9F1FnSQ-wyau1ltGcxeDuZAWGk5yCw4vf2ZxVH870a2GoRAjcCxea4zbgJ7rVxw0YrepxiWk4Rm8vFy1ZwqqdWsXxkZqzmCPLQck2y3mPUF_cLphzR9ckXpwtHQER8"
+                ],
+                "likes": "1",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW7gdajxEvAmwc2oCsuCuDqhOqgdmQ86Gmlg7EOdORGiHdGCiA",
+                "author_link": "https://www.google.com/maps/contrib/116201333232698037619/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzaXBPZkpBEAE",
+                "author_name": "Tien Ho Quang",
+                "author_info": "Local Guide · 2 reviews · 6 photos",
+                "rating": "4",
+                "date": "a year ago",
+                "content": "Indoor and outdoor space, fresh atmosphere, delicious food, variety dishes, nice staff, reasonable prices. Kid play yard available,",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUcTuMENWjKuax3tJHTLPxhRmcY865JsMLkXuomPzfY3vLmK-TE",
+                "author_link": "https://www.google.com/maps/contrib/106286246276322445893/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVM2RsbFJNa0p2Wm0xWWVHeFRWSFJDVGtJMU4zYxAB",
+                "author_name": "Dong Xuan",
+                "author_info": "Local Guide · 524 reviews · 6,662 photos",
+                "rating": "5",
+                "date": "3 months ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX_pLcHk0AyZk7TcmbIr7ivpJouSZfW83bzXI0y0P-NJKoIpbEaVg",
+                "author_link": "https://www.google.com/maps/contrib/107183822364029136782/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCbXRyRlJBEAE",
+                "author_name": "ThaiHoa Huynh",
+                "author_info": "Local Guide · 318 reviews · 1,760 photos",
+                "rating": "5",
+                "date": "2 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXBdnORy_yth0umgDDpsoUSYC3IYwGSM70ADKBDNn1HT_is6pEK",
+                "author_link": "https://www.google.com/maps/contrib/115990336024534828823/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlM2JTSFhBEAE",
+                "author_name": "Van Nhan",
+                "author_info": "Local Guide · 170 reviews · 737 photos",
+                "rating": "4",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqa9pIJ668sy9drR4JguRLuCmWDHJuZ9Iwipr_GeFJXIIUIg",
+                "author_link": "https://www.google.com/maps/contrib/102274977573290468092/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMaHVUeDNBRRAB",
+                "author_name": "nghia bui manh",
+                "author_info": "Local Guide · 190 reviews · 4 photos",
+                "rating": "5",
+                "date": "a year ago",
+                "content": "OK",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUR4CYts-Nge9k2f9FdmaS0NNjOzWWqTMAdGbSMkHbKIuBeHkUS",
+                "author_link": "https://www.google.com/maps/contrib/103088458960494892424/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMta1p6bzBBRRAB",
+                "author_name": "Phuong Thao",
+                "author_info": "Local Guide · 23 reviews · 30 photos",
+                "rating": "5",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXN8yzdhk8_C9hct2-W44RiuKecR2EY3rEy82nFFQFBo6830Mef",
+                "author_link": "https://www.google.com/maps/contrib/115742509023761620426/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyb3Qzc2hnRRAB",
+                "author_name": "Tran Thiendat",
+                "author_info": "2 reviews",
+                "rating": "5",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUh9dHNKrhecFycFhhkrSH68LfKbO4I2yjJeM-E9xNa-2HObMuZ",
+                "author_link": "https://www.google.com/maps/contrib/100716899919877544758/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQybk1YNHZRRRAB",
+                "author_name": "Văn Hòa Phạm",
+                "author_info": "Local Guide · 42 reviews · 40 photos",
+                "rating": "3",
+                "date": "3 years ago",
+                "content": "Ok",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXitn8WQsAzm7iGQb8UnMJrvih1kWLeS4XdicqUSnyxmrKOVWVGUg",
+                "author_link": "https://www.google.com/maps/contrib/113120300723195977392/reviews?hl=en"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "22:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 3
+    }
+]

@@ -1,0 +1,923 @@
+[
+    {
+        "label": "Server",
+        "importPath": "botasaurus_server.server",
+        "description": "botasaurus_server.server",
+        "isExtraImport": true,
+        "detail": "botasaurus_server.server",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_heading_task",
+        "importPath": "src.scrape_heading_task",
+        "description": "src.scrape_heading_task",
+        "isExtraImport": true,
+        "detail": "src.scrape_heading_task",
+        "documentation": {}
+    },
+    {
+        "label": "start_crawl_ggmap",
+        "importPath": "src.scrape_heading_task",
+        "description": "src.scrape_heading_task",
+        "isExtraImport": true,
+        "detail": "src.scrape_heading_task",
+        "documentation": {}
+    },
+    {
+        "label": "crawl_places",
+        "importPath": "src.scrape_heading_task",
+        "description": "src.scrape_heading_task",
+        "isExtraImport": true,
+        "detail": "src.scrape_heading_task",
+        "documentation": {}
+    },
+    {
+        "label": "ggmap",
+        "importPath": "src.scrape_heading_task",
+        "description": "src.scrape_heading_task",
+        "isExtraImport": true,
+        "detail": "src.scrape_heading_task",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_places_quick",
+        "importPath": "src.scrape_heading_task",
+        "description": "src.scrape_heading_task",
+        "isExtraImport": true,
+        "detail": "src.scrape_heading_task",
+        "documentation": {}
+    },
+    {
+        "label": "start_crawl_ggmap",
+        "importPath": "src.scrape_heading_task",
+        "description": "src.scrape_heading_task",
+        "isExtraImport": true,
+        "detail": "src.scrape_heading_task",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "importPath": "src.places.clean_text",
+        "description": "src.places.clean_text",
+        "isExtraImport": true,
+        "detail": "src.places.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "importPath": "src.places.clean_text",
+        "description": "src.places.clean_text",
+        "isExtraImport": true,
+        "detail": "src.places.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "importPath": "src.places.clean_text",
+        "description": "src.places.clean_text",
+        "isExtraImport": true,
+        "detail": "src.places.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "importPath": "src.places.clean_text",
+        "description": "src.places.clean_text",
+        "isExtraImport": true,
+        "detail": "src.places.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "format_working_hours",
+        "importPath": "src.places.working_hours.format_working_hours",
+        "description": "src.places.working_hours.format_working_hours",
+        "isExtraImport": true,
+        "detail": "src.places.working_hours.format_working_hours",
+        "documentation": {}
+    },
+    {
+        "label": "unicodedata",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "browser",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "browser",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "importPath": "botasaurus.browser",
+        "description": "botasaurus.browser",
+        "isExtraImport": true,
+        "detail": "botasaurus.browser",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_reviews",
+        "importPath": "src.places.scrape_reviews",
+        "description": "src.places.scrape_reviews",
+        "isExtraImport": true,
+        "detail": "src.places.scrape_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_reviews",
+        "importPath": "src.places.scrape_reviews",
+        "description": "src.places.scrape_reviews",
+        "isExtraImport": true,
+        "detail": "src.places.scrape_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_menus",
+        "importPath": "src.places.scrape_menus",
+        "description": "src.places.scrape_menus",
+        "isExtraImport": true,
+        "detail": "src.places.scrape_menus",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_menus",
+        "importPath": "src.places.scrape_menus",
+        "description": "src.places.scrape_menus",
+        "isExtraImport": true,
+        "detail": "src.places.scrape_menus",
+        "documentation": {}
+    },
+    {
+        "label": "extract_lat_lng_from_url",
+        "importPath": "src.places.extract_lat_lng_from_url",
+        "description": "src.places.extract_lat_lng_from_url",
+        "isExtraImport": true,
+        "detail": "src.places.extract_lat_lng_from_url",
+        "documentation": {}
+    },
+    {
+        "label": "extract_lat_lng_from_url",
+        "importPath": "src.places.extract_lat_lng_from_url",
+        "description": "src.places.extract_lat_lng_from_url",
+        "isExtraImport": true,
+        "detail": "src.places.extract_lat_lng_from_url",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "get_working_hours",
+        "importPath": "src.places.working_hours.get_working_hours",
+        "description": "src.places.working_hours.get_working_hours",
+        "isExtraImport": true,
+        "detail": "src.places.working_hours.get_working_hours",
+        "documentation": {}
+    },
+    {
+        "label": "clean_address",
+        "importPath": "src.places.clean_address",
+        "description": "src.places.clean_address",
+        "isExtraImport": true,
+        "detail": "src.places.clean_address",
+        "documentation": {}
+    },
+    {
+        "label": "remove_vietnamese_accents",
+        "importPath": "src.places.remove_vietnamese_accents",
+        "description": "src.places.remove_vietnamese_accents",
+        "isExtraImport": true,
+        "detail": "src.places.remove_vietnamese_accents",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "clean_image_url",
+        "importPath": "src.places.clean_image_url",
+        "description": "src.places.clean_image_url",
+        "isExtraImport": true,
+        "detail": "src.places.clean_image_url",
+        "documentation": {}
+    },
+    {
+        "label": "botasaurus",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "botasaurus",
+        "description": "botasaurus",
+        "detail": "botasaurus",
+        "documentation": {}
+    },
+    {
+        "label": "get_place",
+        "importPath": "src.places.get_place",
+        "description": "src.places.get_place",
+        "isExtraImport": true,
+        "detail": "src.places.get_place",
+        "documentation": {}
+    },
+    {
+        "label": "get_places",
+        "importPath": "src.places.get_places",
+        "description": "src.places.get_places",
+        "isExtraImport": true,
+        "detail": "src.places.get_places",
+        "documentation": {}
+    },
+    {
+        "label": "crawl_ggmap",
+        "importPath": "src.crawl_ggmap",
+        "description": "src.crawl_ggmap",
+        "isExtraImport": true,
+        "detail": "src.crawl_ggmap",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "run_crawler_logic",
+        "importPath": "crawler",
+        "description": "crawler",
+        "isExtraImport": true,
+        "detail": "crawler",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "backend.scrapers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "backend.scrapers",
+        "description": "backend.scrapers",
+        "detail": "backend.scrapers",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "botasaurus_server.run",
+        "description": "botasaurus_server.run",
+        "isExtraImport": true,
+        "detail": "botasaurus_server.run",
+        "documentation": {}
+    },
+    {
+        "label": "get_description",
+        "importPath": "src.crawl_chrome",
+        "description": "src.crawl_chrome",
+        "isExtraImport": true,
+        "detail": "src.crawl_chrome",
+        "documentation": {}
+    },
+    {
+        "label": "format_working_hours",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.working_hours.format_working_hours",
+        "description": "botasaurus-starter.src.places.working_hours.format_working_hours",
+        "peekOfCode": "def format_working_hours(raw_hours_list):\n    \"\"\"\n    Input: ['Wednesday: 08:00 - 02:00', 'Thursday: error string']\n    Output: JSON chuẩn, các slot trong ngày được sắp xếp tăng dần theo giờ bắt đầu.\n    \"\"\"\n    if not raw_hours_list:\n        return None\n    # Khởi tạo map kết quả\n    week_map = {\n        \"monday\": [], \"tuesday\": [], \"wednesday\": [], \"thursday\": [],",
+        "detail": "botasaurus-starter.src.places.working_hours.format_working_hours",
+        "documentation": {}
+    },
+    {
+        "label": "get_working_hours",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.working_hours.get_working_hours",
+        "description": "botasaurus-starter.src.places.working_hours.get_working_hours",
+        "peekOfCode": "def get_working_hours(driver):\n    hours = []\n    try:\n        # 1. Tìm và Click nút mở rộng giờ (nếu nó đang đóng - aria-expanded=\"false\")\n        # Selector này nhắm vào nút dropdown có chứa icon clock\n        expand_btn_selector = 'div[role=\"button\"][jsaction*=\"pane.openhours\"]'\n        # Kiểm tra xem có nút này không và trạng thái aria-expanded\n        btn = driver.select(expand_btn_selector)\n        if btn and btn.get_attribute(\"aria-expanded\") == \"false\":\n            btn.click()",
+        "detail": "botasaurus-starter.src.places.working_hours.get_working_hours",
+        "documentation": {}
+    },
+    {
+        "label": "clean_address",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.clean_address",
+        "description": "botasaurus-starter.src.places.clean_address",
+        "peekOfCode": "def clean_address(address: str) -> str:\n    if not address:\n        return address\n    return address.split(',')[0].strip()",
+        "detail": "botasaurus-starter.src.places.clean_address",
+        "documentation": {}
+    },
+    {
+        "label": "clean_image_url",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.clean_image_url",
+        "description": "botasaurus-starter.src.places.clean_image_url",
+        "peekOfCode": "def clean_image_url(url: str) -> str:\n    if not url:\n        return url\n    return re.sub(r'=w\\d+-h\\d+.*$', '', url)",
+        "detail": "botasaurus-starter.src.places.clean_image_url",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.clean_text",
+        "description": "botasaurus-starter.src.places.clean_text",
+        "peekOfCode": "def clean_text(text):\n    if not text:\n        return \"\"\n    # Chuẩn hóa unicode (giữ dấu tiếng Việt)\n    text = unicodedata.normalize(\"NFC\", text)\n    # Loại bỏ ký tự đặc biệt không cần thiết\n    text = re.sub(r\"[^\\w\\s.,:/@-]\", \"\", text)\n    text = text.replace(\"Đa Nang\", \"Đà Nẵng\").replace(\n        \"Đang\", \"Đằng\"\n    )  # Sửa lỗi thông thường",
+        "detail": "botasaurus-starter.src.places.clean_text",
+        "documentation": {}
+    },
+    {
+        "label": "extract_lat_lng_from_url",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.extract_lat_lng_from_url",
+        "description": "botasaurus-starter.src.places.extract_lat_lng_from_url",
+        "peekOfCode": "def extract_lat_lng_from_url(url):\n    # Case 1: !3dLAT!4dLNG\n    match = re.search(r'!3d(-?\\d+\\.\\d+)!4d(-?\\d+\\.\\d+)', url)\n    if match:\n        return float(match.group(1)), float(match.group(2))\n    # Case 2: /@LAT,LNG\n    match = re.search(r'/@(-?\\d+\\.\\d+),(-?\\d+\\.\\d+)', url)\n    if match:\n        return float(match.group(1)), float(match.group(2))\n    return None, None",
+        "detail": "botasaurus-starter.src.places.extract_lat_lng_from_url",
+        "documentation": {}
+    },
+    {
+        "label": "get_place",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.get_place",
+        "description": "botasaurus-starter.src.places.get_place",
+        "peekOfCode": "def get_place(driver: Driver):\n    data = []\n    name = clean_text(driver.get_text(\n        \"h1\") if driver.select(\"h1\") else \"\")\n    phone = \"\"\n    for selector in [\n        'button[data-tooltip=\"Copy phone number\"]',\n        'button[data-item-id=\"phone\"]',\n    ]:\n        if driver.select(selector):",
+        "detail": "botasaurus-starter.src.places.get_place",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_link",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.get_places",
+        "description": "botasaurus-starter.src.places.get_places",
+        "peekOfCode": "def scrape_link(link, inputs: dict):\n    driver = None\n    try:\n        driver = Driver(headless=True)\n        # Mỗi thread tạo 1 driver riêng (không dùng driver chung!)\n        driver.get(link)\n        time.sleep(1)\n        place_data = {}\n        # # --- Lấy các trường dữ liệu ---\n        name = clean_text(driver.get_text(",
+        "detail": "botasaurus-starter.src.places.get_places",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_worker_wrapper",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.get_places",
+        "description": "botasaurus-starter.src.places.get_places",
+        "peekOfCode": "def scrape_worker_wrapper(link, inputs, index, total_count):\n    \"\"\"\n    Hàm wrapper: In log + Gán ID cho kết quả\n    \"\"\"\n    worker_name = threading.current_thread().name\n    print(f\"[{worker_name}] ⏳ Processing {index}/{total_count}: {link}\")\n    # 1. Gọi hàm scrape gốc\n    result = scrape_link(link, inputs)\n    # 2. Nếu có kết quả, gán luôn ID vào dict\n    if result:",
+        "detail": "botasaurus-starter.src.places.get_places",
+        "documentation": {}
+    },
+    {
+        "label": "get_places",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.get_places",
+        "description": "botasaurus-starter.src.places.get_places",
+        "peekOfCode": "def get_places(driver, links: set, query: str, inputs: dict):\n    last_count = -1\n    same_count_times = 0\n    max_same_count = 1\n    numResult = inputs['numResult']\n    logging.info(f\"[{query}] Start scrolling to find places...\")\n    # --- 1. SCROLL & LẤY LINK (GIỮ NGUYÊN) ---\n    while same_count_times < max_same_count and len(links) < numResult:\n        place_elements = driver.select_all('a[href*=\"place\"]')\n        new_links = {el.get_attribute(\"href\") for el in place_elements}",
+        "detail": "botasaurus-starter.src.places.get_places",
+        "documentation": {}
+    },
+    {
+        "label": "open_and_scroll_to_bottom",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.open_and_scroll_bottom",
+        "description": "botasaurus-starter.src.places.open_and_scroll_bottom",
+        "peekOfCode": "def open_and_scroll_to_bottom(driver: Driver):\n    \"\"\"\n    Hàm click vào tab Review và cuộn xuống tận cùng.\n    \"\"\"\n    # 1. Selector người dùng cung cấp\n    # Lưu ý: Nếu trình duyệt tiếng Việt, aria-label sẽ là \"Bài đánh giá\"\n    # Code này ưu tiên tìm \"Reviews\", nếu không thấy sẽ thử \"Bài đánh giá\" để tránh lỗi.\n    reviews_tab_selector = 'button[aria-label*=\"Reviews\"][role=\"tab\"]'\n    if not driver.select(reviews_tab_selector):\n        # Fallback cho tiếng Việt",
+        "detail": "botasaurus-starter.src.places.open_and_scroll_bottom",
+        "documentation": {}
+    },
+    {
+        "label": "remove_vietnamese_accents",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.remove_vietnamese_accents",
+        "description": "botasaurus-starter.src.places.remove_vietnamese_accents",
+        "peekOfCode": "def remove_vietnamese_accents(text):\n    \"\"\"\n    Chuyển đổi chuỗi tiếng Việt có dấu thành không dấu.\n    Ví dụ: \"Hồ Chí Minh\" -> \"Ho Chi Minh\"\n    \"\"\"\n    if not text:\n        return \"\"\n    # 1. Xử lý thủ công chữ đ/Đ (vì NFD không tách được chữ này)\n    text = re.sub(r'[đ]', 'd', text)\n    text = re.sub(r'[Đ]', 'D', text)",
+        "detail": "botasaurus-starter.src.places.remove_vietnamese_accents",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_menus",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.scrape_menus",
+        "description": "botasaurus-starter.src.places.scrape_menus",
+        "peekOfCode": "def scrape_menus(driver: Driver, name_for_logging: str) -> List[Dict[str, Any]]:\n    logging.info(f\"[{name_for_logging}] Scraping menus...\")\n    all_items = []\n    seen_names: Set[str] = set()\n    # ==== CLICK TAB MENU (ỔN ĐỊNH) ===================================\n    menu_selectors = [\n        'button[aria-label*=\"Menu\"][role=\"tab\"]',\n        'button[jsname=\"GzZ4Hf\"]',\n        'div[role=\"tab\"]:has(span:contains(\"Menu\"))'\n    ]",
+        "detail": "botasaurus-starter.src.places.scrape_menus",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.scrape_reviews",
+        "description": "botasaurus-starter.src.places.scrape_reviews",
+        "peekOfCode": "def clean_text(text):\n    if not text:\n        return \"\"\n    return text.strip().replace('\\n', ' ')\ndef scrape_reviews(driver: Driver, name_for_logging: str):\n    all_reviews_data = []\n    scraped_review_ids = set()\n    # 1. Chuyển sang tab Reviews\n    try:\n        review_tab_selector = 'button[role=\"tab\"][aria-label*=\"Reviews\"], button[role=\"tab\"][aria-label*=\"Bài đánh giá\"]'",
+        "detail": "botasaurus-starter.src.places.scrape_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_reviews",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.places.scrape_reviews",
+        "description": "botasaurus-starter.src.places.scrape_reviews",
+        "peekOfCode": "def scrape_reviews(driver: Driver, name_for_logging: str):\n    all_reviews_data = []\n    scraped_review_ids = set()\n    # 1. Chuyển sang tab Reviews\n    try:\n        review_tab_selector = 'button[role=\"tab\"][aria-label*=\"Reviews\"], button[role=\"tab\"][aria-label*=\"Bài đánh giá\"]'\n        if driver.is_element_present(review_tab_selector):\n            logging.info(f\"[{name_for_logging}] Clicking 'Reviews' tab...\")\n            driver.click(review_tab_selector)\n            time.sleep(2)",
+        "detail": "botasaurus-starter.src.places.scrape_reviews",
+        "documentation": {}
+    },
+    {
+        "label": "get_description",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.crawl_chrome",
+        "description": "botasaurus-starter.src.crawl_chrome",
+        "peekOfCode": "def get_description(driver: Driver, query: str):\n    driver.get(\n        f\"https://www.google.com/search?q={query.replace(' ', '+')}+mô tả\")\n    time.sleep(2)\n    try:\n        driver.wait_for_element('div.WaaZC', wait=5)\n        elements = driver.select_all('div.WaaZC span')\n        description = ' '.join([el.text.strip()\n                               for el in elements if el.text.strip()])\n        return description",
+        "detail": "botasaurus-starter.src.crawl_chrome",
+        "documentation": {}
+    },
+    {
+        "label": "crawl_ggmap",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.crawl_ggmap",
+        "description": "botasaurus-starter.src.crawl_ggmap",
+        "peekOfCode": "def crawl_ggmap(driver: Driver, inputs: dict):\n    # Mở link tìm kiếm Google Maps với từ khóa đã cho\n    # query = f\"{type} {street} {ward} {county} {city} {province} Việt Nam\"\n    query = f\"Danh sách {inputs['type']} tại {inputs['street']} {inputs['ward']} {inputs['county']} {inputs['city']} {inputs['province']} Việt Nam\"\n    data = []\n    search_url = f\"https://www.google.com/maps/search/{query}\"\n    driver.google_get(search_url)\n    time.sleep(1)\n    links = set()  # Tập hợp các link địa điểm thu thập được\n    if driver.select('h1.DUwDvf'):",
+        "detail": "botasaurus-starter.src.crawl_ggmap",
+        "documentation": {}
+    },
+    {
+        "label": "start_crawl_ggmap",
+        "kind": 2,
+        "importPath": "botasaurus-starter.src.scrape_heading_task",
+        "description": "botasaurus-starter.src.scrape_heading_task",
+        "peekOfCode": "def start_crawl_ggmap(inputs: dict):\n    return crawl_ggmap(inputs)",
+        "detail": "botasaurus-starter.src.scrape_heading_task",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "def load_data():\n    if not os.path.exists(DATA_FILE):\n        default_data = {\"types\": [\"Nhà hàng\"], \"locations\": {\n            \"Hà Nội\": {\"Hai Bà Trưng\": [\"Bạch Mai\"]}}}\n        save_data(default_data)\n        return default_data\n    with open(DATA_FILE, 'r', encoding='utf-8') as f:\n        return json.load(f)\ndef save_data(data):\n    with open(DATA_FILE, 'w', encoding='utf-8') as f:",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "save_data",
+        "kind": 2,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "def save_data(data):\n    with open(DATA_FILE, 'w', encoding='utf-8') as f:\n        json.dump(data, f, ensure_ascii=False, indent=4)\ndef load_history():\n    if not os.path.exists(HISTORY_FILE):\n        return []\n    with open(HISTORY_FILE, 'r', encoding='utf-8') as f:\n        return json.load(f)\ndef save_history(entry):\n    history = load_history()",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "load_history",
+        "kind": 2,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "def load_history():\n    if not os.path.exists(HISTORY_FILE):\n        return []\n    with open(HISTORY_FILE, 'r', encoding='utf-8') as f:\n        return json.load(f)\ndef save_history(entry):\n    history = load_history()\n    history.insert(0, entry)\n    with open(HISTORY_FILE, 'w', encoding='utf-8') as f:\n        json.dump(history, f, ensure_ascii=False, indent=4)",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "save_history",
+        "kind": 2,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "def save_history(entry):\n    history = load_history()\n    history.insert(0, entry)\n    with open(HISTORY_FILE, 'w', encoding='utf-8') as f:\n        json.dump(history, f, ensure_ascii=False, indent=4)\n# Hàm đọc nội dung file JSON kết quả\ndef read_result_file(file_path):\n    if os.path.exists(file_path):\n        with open(file_path, 'r', encoding='utf-8') as f:\n            return json.load(f)",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "read_result_file",
+        "kind": 2,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "def read_result_file(file_path):\n    if os.path.exists(file_path):\n        with open(file_path, 'r', encoding='utf-8') as f:\n            return json.load(f)\n    return None\n# --- GIAO DIỆN CHÍNH ---\nst.set_page_config(page_title=\"AI-DCAS\", page_icon=\"🦖\", layout=\"wide\")\nst.title(\"🦖 AI-DCAS\")\ndb = load_data()\ntypes_list = db.get('types', [])",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_FILE",
+        "kind": 5,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "DATA_FILE = 'locations.json'\nHISTORY_FILE = 'history.json'\nOUTPUT_DIR = os.path.join(\"output\", \"data\")  # Thư mục chứa file kết quả\n# --- HÀM HỖ TRỢ ---\ndef load_data():\n    if not os.path.exists(DATA_FILE):\n        default_data = {\"types\": [\"Nhà hàng\"], \"locations\": {\n            \"Hà Nội\": {\"Hai Bà Trưng\": [\"Bạch Mai\"]}}}\n        save_data(default_data)\n        return default_data",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "HISTORY_FILE",
+        "kind": 5,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "HISTORY_FILE = 'history.json'\nOUTPUT_DIR = os.path.join(\"output\", \"data\")  # Thư mục chứa file kết quả\n# --- HÀM HỖ TRỢ ---\ndef load_data():\n    if not os.path.exists(DATA_FILE):\n        default_data = {\"types\": [\"Nhà hàng\"], \"locations\": {\n            \"Hà Nội\": {\"Hai Bà Trưng\": [\"Bạch Mai\"]}}}\n        save_data(default_data)\n        return default_data\n    with open(DATA_FILE, 'r', encoding='utf-8') as f:",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "OUTPUT_DIR = os.path.join(\"output\", \"data\")  # Thư mục chứa file kết quả\n# --- HÀM HỖ TRỢ ---\ndef load_data():\n    if not os.path.exists(DATA_FILE):\n        default_data = {\"types\": [\"Nhà hàng\"], \"locations\": {\n            \"Hà Nội\": {\"Hai Bà Trưng\": [\"Bạch Mai\"]}}}\n        save_data(default_data)\n        return default_data\n    with open(DATA_FILE, 'r', encoding='utf-8') as f:\n        return json.load(f)",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "db = load_data()\ntypes_list = db.get('types', [])\nlocations_db = db.get('locations', {})\n# THÊM TAB 4: KHO DỮ LIỆU\ntab1, tab2, tab3, tab4 = st.tabs(\n    [\"🚀 Chạy Tool\", \"⚙️ Quản lý Dữ liệu\", \"📜 Lịch sử\", \"📂 Kho Dữ liệu (Output)\"])\n# === TAB 1: CHẠY TOOL ===\nwith tab1:\n    col1, col2 = st.columns(2)\n    with col1:",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "types_list",
+        "kind": 5,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "types_list = db.get('types', [])\nlocations_db = db.get('locations', {})\n# THÊM TAB 4: KHO DỮ LIỆU\ntab1, tab2, tab3, tab4 = st.tabs(\n    [\"🚀 Chạy Tool\", \"⚙️ Quản lý Dữ liệu\", \"📜 Lịch sử\", \"📂 Kho Dữ liệu (Output)\"])\n# === TAB 1: CHẠY TOOL ===\nwith tab1:\n    col1, col2 = st.columns(2)\n    with col1:\n        st.subheader(\"Cấu hình chạy\")",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "locations_db",
+        "kind": 5,
+        "importPath": "botasaurus-starter.app",
+        "description": "botasaurus-starter.app",
+        "peekOfCode": "locations_db = db.get('locations', {})\n# THÊM TAB 4: KHO DỮ LIỆU\ntab1, tab2, tab3, tab4 = st.tabs(\n    [\"🚀 Chạy Tool\", \"⚙️ Quản lý Dữ liệu\", \"📜 Lịch sử\", \"📂 Kho Dữ liệu (Output)\"])\n# === TAB 1: CHẠY TOOL ===\nwith tab1:\n    col1, col2 = st.columns(2)\n    with col1:\n        st.subheader(\"Cấu hình chạy\")\n        selected_type = st.selectbox(\"Chọn loại hình\", types_list)",
+        "detail": "botasaurus-starter.app",
+        "documentation": {}
+    },
+    {
+        "label": "run_crawler_logic",
+        "kind": 2,
+        "importPath": "botasaurus-starter.crawler",
+        "description": "botasaurus-starter.crawler",
+        "peekOfCode": "def run_crawler_logic(inputs):\n    \"\"\"\n    Hàm này nhận inputs từ giao diện và thực hiện crawl\n    \"\"\"\n    output_dir = os.path.join(\"output\", \"data\")\n    os.makedirs(output_dir, exist_ok=True)\n    logs = []  # Để trả về giao diện hiển thị\n    results_paths = []\n    for item in inputs:\n        msg_start = f\"🚀 Đang xử lý: {item['type']} - {item['ward']}, {item['county']}, {item['city']}\"",
+        "detail": "botasaurus-starter.crawler",
+        "documentation": {}
+    },
+    {
+        "label": "CrawlRequest",
+        "kind": 6,
+        "importPath": "botasaurus-starter.main",
+        "description": "botasaurus-starter.main",
+        "peekOfCode": "class CrawlRequest(BaseModel):\n    query: Union[str, List[str]]                # Cho phép 1 hoặc nhiều query\n    # ✅ Thêm callback_url để backend gửi về\n    callback_url: Optional[str] = None\n# --- Hàm xử lý crawl ---\ndef crawlRequest(queries: Union[str, List[str]]):\n    \"\"\"Thực hiện crawl cho từng query, trả về danh sách kết quả\"\"\"\n    if isinstance(queries, str):\n        queries = [queries]\n    all_results = []",
+        "detail": "botasaurus-starter.main",
+        "documentation": {}
+    },
+    {
+        "label": "crawlRequest",
+        "kind": 2,
+        "importPath": "botasaurus-starter.main",
+        "description": "botasaurus-starter.main",
+        "peekOfCode": "def crawlRequest(queries: Union[str, List[str]]):\n    \"\"\"Thực hiện crawl cho từng query, trả về danh sách kết quả\"\"\"\n    if isinstance(queries, str):\n        queries = [queries]\n    all_results = []\n    for query in queries:\n        print(f\"\\n[INFO] Đang xử lý: {query}\")\n        try:\n            place_data = scrape_places_quick(query)\n            all_results.append({",
+        "detail": "botasaurus-starter.main",
+        "documentation": {}
+    },
+    {
+        "label": "crawl_and_callback",
+        "kind": 2,
+        "importPath": "botasaurus-starter.main",
+        "description": "botasaurus-starter.main",
+        "peekOfCode": "def crawl_and_callback(queries: Union[str, List[str]], callback_url: str):\n    \"\"\"Chạy crawl ở background và gọi callback về backend khi xong\"\"\"\n    try:\n        print(f\"[BACKGROUND] Start crawling for: {queries}\")\n        results = crawlRequest(queries)\n        total_queries = len(results)\n        total_places = sum(r.get(\"total\", 0) for r in results)\n        payload = {\n            \"status\": \"success\",\n            \"total_queries\": total_queries,",
+        "detail": "botasaurus-starter.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "botasaurus-starter.main",
+        "description": "botasaurus-starter.main",
+        "peekOfCode": "app = FastAPI(title=\"Crawl API\",\n              description=\"Crawl dữ liệu Google Maps\", version=\"1.0\")\n# --- Model dữ liệu ---\nclass CrawlRequest(BaseModel):\n    query: Union[str, List[str]]                # Cho phép 1 hoặc nhiều query\n    # ✅ Thêm callback_url để backend gửi về\n    callback_url: Optional[str] = None\n# --- Hàm xử lý crawl ---\ndef crawlRequest(queries: Union[str, List[str]]):\n    \"\"\"Thực hiện crawl cho từng query, trả về danh sách kết quả\"\"\"",
+        "detail": "botasaurus-starter.main",
+        "documentation": {}
+    },
+    {
+        "label": "test_0001",
+        "kind": 2,
+        "importPath": "botasaurus-starter.test",
+        "description": "botasaurus-starter.test",
+        "peekOfCode": "def test_0001():\n    inputs = [\n        {\n            \"type\": \"Nhà hàng\",\n            \"street\": \"\",\n            \"ward\": \"Bạch Mai\",\n            \"county\": \"Hai Bà Trưng\",\n            \"city\": \"Hà Nội\",\n            \"province\": \"\",\n            \"numResult\": 100",
+        "detail": "botasaurus-starter.test",
+        "documentation": {}
+    },
+    {
+        "label": "test_0002",
+        "kind": 2,
+        "importPath": "botasaurus-starter.test",
+        "description": "botasaurus-starter.test",
+        "peekOfCode": "def test_0002():\n    queries = [\n        \"Cầu rồng đà nẵng việt nam\",\n        # \"Bạn có thể thêm các query khác ở đây\"\n    ]\n    # Dùng enumerate để lấy chỉ số (i) cho mỗi query, tiện cho việc đặt tên file\n    for i, query in enumerate(queries):\n        print(f\"Đang xử lý: {query}\")\n        description = get_description(query)\n        # --- THAY THẾ PRINT(DATA) BẰNG LƯU FILE JSON ---",
+        "detail": "botasaurus-starter.test",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+pandas
+botasaurus
+python-multipart
+openlocationcode
+pymongo
+beautifulsoup4
+pytest
+streamlit
