@@ -1,5 +1,48 @@
 [
     {
+        "time": "2025-12-22 14:29:41",
+        "type": "Nhà hàng",
+        "location": "Quận 4, Hồ Chí Minh",
+        "wards_count": 12,
+        "files": [
+            "output\\data\\2025-12-22_13-33-51_nhà_hàng_phường_1_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-39-33_nhà_hàng_phường_2_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-42-47_nhà_hàng_phường_3_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-47-56_nhà_hàng_phường_4_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-53-05_nhà_hàng_phường_5_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-58-52_nhà_hàng_phường_6_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_14-04-21_nhà_hàng_phường_8_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_14-10-12_nhà_hàng_phường_9_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_14-16-53_nhà_hàng_phường_10_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_14-21-07_nhà_hàng_phường_13_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_14-25-32_nhà_hàng_phường_14_quận_4_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_14-29-41_nhà_hàng_phường_15_quận_4_hồ_chí_minh_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-22 13:25:25",
+        "type": "Nhà hàng",
+        "location": "Liên Chiểu, Đà Nẵng",
+        "wards_count": 5,
+        "files": [
+            "output\\data\\2025-12-22_12-46-17_nhà_hàng_hòa_hiệp_bắc_liên_chiểu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-58-20_nhà_hàng_hòa_hiệp_nam_liên_chiểu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_13-06-31_nhà_hàng_hòa_khánh_bắc_liên_chiểu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_13-14-49_nhà_hàng_hòa_khánh_nam_liên_chiểu_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_13-25-25_nhà_hàng_hòa_minh_liên_chiểu_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-22 12:36:08",
+        "type": "Nhà hàng",
+        "location": "Thanh Khê, Đà Nẵng",
+        "wards_count": 2,
+        "files": [
+            "output\\data\\2025-12-22_12-21-40_nhà_hàng_thanh_khê_tây_thanh_khê_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-36-08_nhà_hàng_xuân_hà_thanh_khê_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
         "time": "2025-12-18 14:57:10",
         "type": "Nhà hàng",
         "location": "Thanh Khê, Đà Nẵng",
