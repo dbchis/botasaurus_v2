@@ -1,5 +1,21 @@
 [
     {
+        "time": "2025-12-22 13:31:59",
+        "type": "Nhà hàng",
+        "location": "Quận 1, Hồ Chí Minh",
+        "wards_count": 8,
+        "files": [
+            "output\\data\\2025-12-22_12-43-26_nhà_hàng_bến_nghé_quận_1_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_12-44-30_nhà_hàng_bến_thành_quận_1_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_12-45-25_nhà_hàng_cầu_kho_quận_1_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_12-46-17_nhà_hàng_cầu_ông_lãnh_quận_1_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-03-12_nhà_hàng_cô_giang_quận_1_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-12-45_nhà_hàng_đa_kao_quận_1_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-24-17_nhà_hàng_nguyễn_cư_trinh_quận_1_hồ_chí_minh_việt_nam.json",
+            "output\\data\\2025-12-22_13-31-59_nhà_hàng_nguyễn_thái_bình_quận_1_hồ_chí_minh_việt_nam.json"
+        ]
+    },
+    {
         "time": "2025-12-18 14:57:10",
         "type": "Nhà hàng",
         "location": "Thanh Khê, Đà Nẵng",
