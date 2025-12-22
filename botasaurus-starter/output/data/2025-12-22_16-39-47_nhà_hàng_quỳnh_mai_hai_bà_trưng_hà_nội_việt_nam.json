@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Quán mỳ Vằn Thắn",
+        "created_at": "2025-12-22 16:39:17",
+        "updated_at": "2025-12-22 16:39:17",
+        "logo_url": "",
+        "cover_image_url": "",
+        "intro": "",
+        "policy": "Khách hàng vui lòng liên hệ  để biết thêm chi tiết về chính sách của Quán mỳ Vằn Thắn.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "111 AC7b",
+        "city": "Hà Nội",
+        "province": "Ha Noi",
+        "county": "Hai Bà Trưng",
+        "ward": "Quỳnh Mai",
+        "phone": "",
+        "google_map_link": "https://www.google.com/maps/place/Qu%C3%A1n+m%E1%BB%B3+V%E1%BA%B1n+Th%E1%BA%AFn/data=!4m7!3m6!1s0x3135ac0930c7668f:0x80c2f3c61f855001!8m2!3d21.0013963!4d105.8602803!16s%2Fg%2F11c1xjc9nq!19sChIJj2bHMAmsNTERAVCFH8bzwoA?authuser=0&hl=en&rclk=1",
+        "rating": "3.8",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 21.0013963,
+            "Longitude": 105.8602803
+        },
+        "website": "",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": null,
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 1
+    },
+    {
+        "name": "Nhà hàng Ẩm thực Vân Hồ 2B Hoa Lư",
+        "created_at": "2025-12-22 16:38:50",
+        "updated_at": "2025-12-22 16:38:50",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipMGSZQqLrlUSb649IXMofZjAtmW-cj11ooDm1uZ",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipMGSZQqLrlUSb649IXMofZjAtmW-cj11ooDm1uZ",
+        "intro": "",
+        "policy": "Khách hàng vui lòng liên hệ 84 916 299 797 để biết thêm chi tiết về chính sách của Nhà hàng Ẩm thực Vân Hồ 2B Hoa Lư.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "2B P. Hoa Lư",
+        "city": "Hà Nội",
+        "province": "Ha Noi",
+        "county": "Hai Bà Trưng",
+        "ward": "Quỳnh Mai",
+        "phone": "84 916 299 797",
+        "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+%E1%BA%A8m+th%E1%BB%B1c+V%C3%A2n+H%E1%BB%93+2B+Hoa+L%C6%B0/data=!4m7!3m6!1s0x3135ab891b8c4857:0x3350cd8e22b7c36f!8m2!3d21.010226!4d105.8472199!16s%2Fg%2F11w2166zdc!19sChIJV0iMG4mrNTERb8O3Io7NUDM?authuser=0&hl=en&rclk=1",
+        "rating": "4.8",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 21.010226,
+            "Longitude": 105.8472199
+        },
+        "website": "",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "09:00",
+                    "end_time": "23:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [],
+            "wednesday": [],
+            "thursday": [],
+            "friday": [],
+            "saturday": [],
+            "sunday": []
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 2
+    }
+]

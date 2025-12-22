@@ -1,0 +1,469 @@
+[
+    {
+        "name": "Nhà Hàng Côn Sơn",
+        "created_at": "2025-12-22 15:31:53",
+        "updated_at": "2025-12-22 15:31:53",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwj5ZrIbPYQXMgRA273OuzAff-4t3x_9eLTihQFtUz-5zq93JWQn5lxsoMFFpySi87fPS6OCywaFCVxUiteu3PsrSU9hmYpc8_KlZKP2WCMRY36vJri4WACBXtPG2Wimdfz4B9e",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwj5ZrIbPYQXMgRA273OuzAff-4t3x_9eLTihQFtUz-5zq93JWQn5lxsoMFFpySi87fPS6OCywaFCVxUiteu3PsrSU9hmYpc8_KlZKP2WCMRY36vJri4WACBXtPG2Wimdfz4B9e",
+        "intro": "",
+        "policy": "Khách hàng vui lòng liên hệ 84 356 781 982 để biết thêm chi tiết về chính sách của Nhà Hàng Côn Sơn.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "2B P. Khâm Thiên",
+        "city": "Hà Nội",
+        "province": "Ha Noi",
+        "county": "Đống Đa",
+        "ward": "Khâm Thiên",
+        "phone": "84 356 781 982",
+        "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+C%C3%B4n+S%C6%A1n/data=!4m7!3m6!1s0x3135ab854352f80d:0xd189a9ead0b9cbfb!8m2!3d21.0189734!4d105.8402785!16s%2Fg%2F11qg1kwgtn!19sChIJDfhSQ4WrNTER-8u50OqpidE?authuser=0&hl=en&rclk=1",
+        "rating": "5.0",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 21.0189734,
+            "Longitude": 105.8402785
+        },
+        "website": "https://business.google.com/createfp15098786051725577211hlenauthuser0gmbsrc-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7CuppsrcGMBMIutm_campaign-en-et-ip-z-gmb-s-z-lmrc7Cclaimbz7Cuutm_sourcegmb_mrc81utm_mediumetgetstartedlis0",
+        "images": [],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": null,
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 1
+    },
+    {
+        "name": "Lotteria HN KHAM THIEN",
+        "created_at": "2025-12-22 15:31:45",
+        "updated_at": "2025-12-22 15:31:45",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipMi4_sg9jGryulC10QPFpmGxS7LFePpuv_0L4qj",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipMi4_sg9jGryulC10QPFpmGxS7LFePpuv_0L4qj",
+        "intro": "Serves dine-in, Offers takeout, Has no-contact delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 1900 6778 để biết thêm chi tiết về chính sách của Lotteria HN KHAM THIEN.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "201 P. Khâm Thiên",
+        "city": "Hà Nội",
+        "province": "Ha Noi",
+        "county": "Đống Đa",
+        "ward": "Khâm Thiên",
+        "phone": "84 1900 6778",
+        "google_map_link": "https://www.google.com/maps/place/Lotteria+HN+KHAM+THIEN/data=!4m7!3m6!1s0x3135ab835d40e365:0x6eb13813216dc9a2!8m2!3d21.0190895!4d105.8342851!16s%2Fg%2F11cs5zr0p6!19sChIJZeNAXYOrNTERosltIRM4sW4?authuser=0&hl=en&rclk=1",
+        "rating": "4.4",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Has no-contact delivery"
+        ],
+        "location": {
+            "Latitude": 21.0190895,
+            "Longitude": 105.8342851
+        },
+        "website": "https://www.lotteria.vn/category/set",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyqayZs0US8WpqY46d86RBTfIEZnZaaDQXvbv1MK5KAyI66dnyB6bpjhfDL-lW8DWgGPcU6LgNinZd6uEpifkxN5-QS7kVdpGDyLODIaVLZhQFpWMbs0-g8Nk_2kOjZkbeJ3tpp",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxCTOZNAARFd8YoIrrZAZvnK0me29KsnYcozcojg7SnWfHX9tiFXdf9VbDXx5R8Lqnlf9OcQjQuw9jKqnS161yWus5Bpc4xNET8qvLEa1FaqIEZ7ZJWQ9UGzSY_8ra7htO3s6r2dJ5WpXuH",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx8WsJYjfNZ5ZSFr7jlQlkoPrxYSMW676wDeYXdNQXGiD8X5Hyf_ftjoL9SNMz2LlrVstKSQYNSk6JgvRFViYmmAuLqy7t8RT9y7Tuj8O8lO7zooOydrPI3vXrXshx2H7EgGx6Z",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxhXDLIq9sqRbslNsfMEwXT5KtEbbmGZ4X0Ekfz-l6R4KyXBAAG1ZQIkeQuzP2f2U4csaN_KSSQFWmR-sKvY1elg0vCVNW6SiBulJIRNZaXELbzpmd_IdLd8Cx_Q45idIv0VpUB",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Chicken Set",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzxC8OtSjs74ltQ0YhiFZF4y4OQnmI4X0T9G1JmT76vTg15DmgTvtifYqbI4Rc_2gHWr57PVciuEzAnqUAnj4bat5S-zSy0t7JCJDCIXmhA21lMkMzE2ZNefsiEyIGMMHeMKUYE",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Burger",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzhZWyxBFtP9s4RNWjgejDFtLTuxLgDYH6ldZu5OSrgZCfeYZ6xexo8au34S9xX0upMeRiGmvrmmmu35zvr0TcUYXMR1Rgw5OzzDAA5l9M0eTvVvcf28L5hLSh9Q9bmTmwSmjdv",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Spaghetti",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxe-vq4dB0r9neoWn0fRStp3eH4rHUNicXVkZocgpuesr0g2lfqdfyQGJbsNI4kIMXbXd1fOsNGz_KbvVBHBEWfQzUTqJi0YlInJLTZx7Q4N5mbdgq4GLF9FU455ZcVUQMkMiQi",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Gà Rán Phần",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzwtJYLPJhr39_oTKq1tm-2FgCQljpSDhQJfhKjdkQAlEe28kH5lHGRbXcFRSxifkvYnW4SrRwPRSfDn_QiX53iJjqITAU0m6CM2yc5wjeED9vQm9zKpH8M297aOBi3WK6k3_Ml",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Sữa Milo",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzBljzAGXOQdjXMwS6DsUz_ZqbEwsG6K0QpRSsN6pCQBMPfDwbRlJcoq1JEQdIowkEbt9FzLQN8ccHQ1XuFlfQva66uSO-uN8zNvGuDSH2Aiwguf2fvLvkNHagTIQRzqjQ6sH2N",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Cơm Bò Phomai",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSznoXbYl92Fl1OvT0UiZeMPWYHECPG2YHAYLmB8b27uOWP_qucJ4TROAWs4OdcxmcJDKLMw-aYzowkZITNrI7VIjmwwXQ_CJwfsU-xCMMT7WngmUko0zMQmHh5IFZbT7t_YQ7dk",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBd2QyWm1UREJEVW5GS2NEYzBiME5ZWHpkdmRFRRAB",
+                "author_name": "giatu khuc",
+                "author_info": "Local Guide · 77 reviews · 340 photos",
+                "rating": "3",
+                "date": "5 months ago",
+                "content": "The food was average, and the chicken wasn’t as good as KFC. I had lunch there, and the meal came with a Pepsi. When I asked to switch to the zero-calorie version, the staff said it wasn’t allowed and insisted it had to be regular Pepsi. …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vRTh1bAIu7GFq9H3PWhaxt1cwdm3iAZEpLJRFPDgT1WKIpSM79vcF0qxPK5JIxtGEF-1nhIPqO3T1kmGyh5DqYgjyygGaRVDmo0DIl2hPRlDS6oK4Q6beLe10n-J8CdVTZ0N3ScFZ68-4J",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sjXq5vfSJNsFdYfzxSQReUYb47olE1Ap4btR2xgyr5ynnZMfueLxZvp78BEo7Yk3SluEkYCNgVN8PGTsfOLQOGicqV_nj2AX3txYD9YME32iwoosD6qTa2Sft06w1HvE09Io5UTx22tOvN",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38syiQhxiJgBMqmEVKvXSZOa2qADWzeJJnkrmuyDRRxrnPs8DayPtvyzvD2JXlUr-GH49mp9N_icDEzINVcDZqrBT7da4BVEI_cpydDVxAnvcGpkE3F3vnIGYRYoSOlj4-LS0wtckVOIbs-G"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWji4WZB08OK06qfVMs6YQ8PWzpZbjyFqHhsD3Hl1yY28wfU_Cbdw",
+                "author_link": "https://www.google.com/maps/contrib/105830357277009372031/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VObjUyY2VHLXZLUGFREAE",
+                "author_name": "Martin Yang",
+                "author_info": "3 reviews · 2 photos",
+                "rating": "1",
+                "date": "6 months ago",
+                "content": "When I have order chicken burger. I wait there for 10 min. And the Staff just tell me need wait more 10 min. After 20 min, I go back front table to get my burger. The staff still tell me need wait 5 min. …",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK4qfCvIyUqBXMw0icgiOwoa3YY8-TecOUh5xWohOt7VGkOkg",
+                "author_link": "https://www.google.com/maps/contrib/116634160654217814749/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWc3Iya2ZREAE",
+                "author_name": "Richard Taveira",
+                "author_info": "Local Guide · 167 reviews · 317 photos",
+                "rating": "5",
+                "date": "2 years ago",
+                "content": "I missed this place over the last year! So glad they still have the mozzarella burger 🍔 😂😂 …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38syCBBjwb0Z9O2ta6K3V_FVXJvong4pDr7PbzX5zy_gpxqQpl4PhHnh-5YngAkXCDkViWboX1wl-C2NqnyW7gK9GF6XNXdY51HXb_rxx0SnQW1fCcZpbxpeOEyNcn_vcrhMu3ue4A",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38u2Jr7lyXICgrJEXbFbPW5gAfO5bMJ85Zp2AF2YnQFRsUSYgwR9zQ3fEso_d2ys0YAjq91f1lOaHD1mkX7hSJjsfmybk91wC8x3BuEF2hMPuYbxnSttKwNxmwv7Y6km0k2Cekhs",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tP3naxWHrFemE7fpN_cN5moSvIWnj63fnQnpIwa7bx9lAG7jXs7hIEsoUeYlQyRXegLlvCpnFQ3hWOp_l_FMk88OcTidRmsouVGTPG0QJkUDHGPjkc2YvjtJQh3KRGfROxPFkxMg",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vCOoJmP31xxDddY2AactpnFvLiVV4BdE5WDJTz8BnNbbAImQc1SnO0-IVYp8WTgLrt-PF3C0NXgKLhao_j3mdcvphbeu5QSupNw9mn3BUVkwUcUBF46IakfNSBa1yPTki6Nz2B"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWEhd7VM7y1mpcYPNADzsV3SyDl696lE3UvCySkh3K5EaRR7oeE1A",
+                "author_link": "https://www.google.com/maps/contrib/115939653735463431250/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaGJIbGp3RRAB",
+                "author_name": "Karol Vu",
+                "author_info": "1 review · 1 photo",
+                "rating": "1",
+                "date": "8 months ago",
+                "content": "I have ordered 3 pieces of fried chicken and they should count me 103 000 but they count separate all 3 pieces and my bill was 108 000 thats ridicoulus. I am not eating there anymore.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sCokDFhfYyqxB--LmIPOJ2ezNKNOD1GkjVE51KJB-mo14Hrksv0G16a71U1ylJLzSIw1BS9kuNSmuXyO_-BGTy7HnafV_tmYWft-Eu7JVtPzuNsb7ysPlraXEgJQYBdMPIG7bk"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ6aYToZVixybPgPbqjnYMUQIubn5qaHkTZexGkC83_dDukbg",
+                "author_link": "https://www.google.com/maps/contrib/101836816374866262979/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc1R6QkJRbWxFTmt0WGEwRk5VV05vZVUwdGRsRRAB",
+                "author_name": "Thảo Quyên Nguyễn",
+                "author_info": "3 reviews",
+                "rating": "5",
+                "date": "3 months ago",
+                "content": "❤️❤️❤️❤️",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWhYNB6zMDbczvvAmRlFJDf_EcqmPb5bIUAJneq14DN06sr-lir",
+                "author_link": "https://www.google.com/maps/contrib/117861350390953683939/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMzhEdWpnRRAB",
+                "author_name": "Lương Thu Hằng",
+                "author_info": "1 review · 1 photo",
+                "rating": "5",
+                "date": "2 years ago",
+                "content": "Very good",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tSFjS4kSEGufvcOUfnY1hk2OtZXG9dLJLUyWv3ULPXVzGmoYbpCPdQmj8TJ-izK-0cN0asfj5-kOz1kVYV3Z6Rgf0TKD2N1wUSyO87XWstX_3syfr-_r2rRFAo6Ip7I_6z9v4"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocITh2auIRDQvJbmt7PYEoSQYQ70ORoxSSNHol8YuCkgZwd0bw",
+                "author_link": "https://www.google.com/maps/contrib/107635722208478715357/reviews?hl=en"
+            },
+            {
+                "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3Z3FPckRBEAE",
+                "author_name": "Bilesh Ladva",
+                "author_info": "Local Guide · 558 reviews · 6,897 photos",
+                "rating": "1",
+                "date": "7 years ago",
+                "content": "Overall I was not impressed by my experience here I have to repeat my order several times to the staff. After they had gotten my order it took them over 20 minutes to use my food.",
+                "images": [],
+                "likes": "1",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUIOal6_Vt-U6fcnda4imJta70IAWosxZkYve5juuD9c387hS1fDw",
+                "author_link": "https://www.google.com/maps/contrib/105959443771779814571/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WZlJGTndkSGRMZFhwM09ITlNURFpsTjFoclduYxAB",
+                "author_name": "Vũ Văn Tuấn",
+                "author_info": "1 review · 5 photos",
+                "rating": "5",
+                "date": "3 months ago",
+                "content": "Verry good",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXmaJOCj_KokIII7_l_hD1727DR3fZwmPf9cEpbH7hmBXBqv0kj",
+                "author_link": "https://www.google.com/maps/contrib/113010772561484095426/reviews?hl=en"
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwdUtfRjFBRRAB",
+                "author_name": "Leon Bühling",
+                "author_info": "1 review",
+                "rating": "1",
+                "date": "6 years ago",
+                "content": "No English, staff laughing disrespectful in front of foreign people. Can’t recommend this service Food is average",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVknzCccpFP12jmF4NFzNLdJ5-8kFs9CDbOyTS3x-sKdj391Oxj",
+                "author_link": "https://www.google.com/maps/contrib/109035350131944321570/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNmNucFBTVTF3TFhCcmVFWkhWalJGY25OdlluYxAB",
+                "author_name": "Khanh Hoang",
+                "author_info": "3 reviews",
+                "rating": "5",
+                "date": "3 months ago",
+                "content": "Good",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWaKNgdJDbveTqKpFrkEMWD0t7q6lHnGtA0UbgI1-oGipiDUos",
+                "author_link": "https://www.google.com/maps/contrib/118003933853514207662/reviews?hl=en"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "21:30",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 2
+    },
+    {
+        "name": "VỊT QUAY QUẢNG ĐÔNG THÀNH CHẤN - VỊT QUAY NGON NỔI TIẾNG GIÁ RẺ HÀ NỘI",
+        "created_at": "2025-12-22 15:31:43",
+        "updated_at": "2025-12-22 15:31:43",
+        "logo_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzwub4ltEosvUHCarELTHamW28ehYtNhEwyM8EbHl9IPLcllnlIyu8CVzJnlwuxG9Sx2tV74s6FZvCV5eBmFcIJoA3PlCcXWWPnGp3izOaD08-oQ65TI5llkfXTltl9eHewMY0u",
+        "cover_image_url": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzwub4ltEosvUHCarELTHamW28ehYtNhEwyM8EbHl9IPLcllnlIyu8CVzJnlwuxG9Sx2tV74s6FZvCV5eBmFcIJoA3PlCcXWWPnGp3izOaD08-oQ65TI5llkfXTltl9eHewMY0u",
+        "intro": "Serves dine-in, Offers takeout, Offers delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 24 3518 0629 để biết thêm chi tiết về chính sách của VỊT QUAY QUẢNG ĐÔNG THÀNH CHẤN - VỊT QUAY NGON NỔI TIẾNG GIÁ RẺ HÀ NỘI.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "94 P. Khâm Thiên",
+        "city": "Hà Nội",
+        "province": "Ha Noi",
+        "county": "Đống Đa",
+        "ward": "Khâm Thiên",
+        "phone": "84 24 3518 0629",
+        "google_map_link": "https://www.google.com/maps/place/V%E1%BB%8AT+QUAY+QU%E1%BA%A2NG+%C4%90%C3%94NG+TH%C3%80NH+CH%E1%BA%A4N+-+V%E1%BB%8AT+QUAY+NGON+N%E1%BB%94I+TI%E1%BA%BENG+GI%C3%81+R%E1%BA%BA+H%C3%80+N%E1%BB%98I/data=!4m7!3m6!1s0x3135abbab695c11d:0x2e5c1db9ad1de855!8m2!3d21.0192368!4d105.8364993!16s%2Fg%2F1td5clcy!19sChIJHcGVtrqrNTERVegdrbkdXC4?authuser=0&hl=en&rclk=1",
+        "rating": "4.3",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Offers delivery"
+        ],
+        "location": {
+            "Latitude": 21.0192368,
+            "Longitude": 105.8364993
+        },
+        "website": "https://support.google.com/contributionpolicy/answer/7400114ref_topic7422769",
+        "images": [
+            {
+                "name": "Photo 1 of 1",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz0GGIOVWNbwJ2VqW0zpirwScyLUaogcvjsc0jn3vrphFYXKWwBGsoNbszVmYy6UBx1DzDQLJvwbYlMAGPoDd-v2a0qcba2Ofd4dRDZgQSY8ZvLBJuhXnHsiuaJ5GDAyPXhi_SpBA",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Vịt",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyNbecmgRR3IvvmoTyJsMGP0QWW1YrGa33m8u9gwcIIjZ3LzvlIEBj_lsEVMZ_ul3pHvdFWPkk1KJ-HQwBEfLiGrsNSGLlWg6re-uulANv74k99eQilMEbH5Up-hYSmmvYPln4-5A",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "19:30",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "19:30",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "19:30",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "19:30",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "19:30",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "19:30",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "08:00",
+                    "end_time": "19:30",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 3
+    }
+]

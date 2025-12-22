@@ -1,0 +1,335 @@
+[
+    {
+        "name": "Hệ Thống Nhà Hàng Kim Liên",
+        "created_at": "2025-12-22 15:51:09",
+        "updated_at": "2025-12-22 15:51:09",
+        "logo_url": "",
+        "cover_image_url": "",
+        "intro": "",
+        "policy": "Khách hàng vui lòng liên hệ  để biết thêm chi tiết về chính sách của Hệ Thống Nhà Hàng Kim Liên.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "Số 5-7 P. Đào Duy Anh",
+        "city": "Hà Nội",
+        "province": "Ha Noi",
+        "county": "Đống Đa",
+        "ward": "Phương Liên",
+        "phone": "",
+        "google_map_link": "https://www.google.com/maps/place/H%E1%BB%87+Th%E1%BB%91ng+Nh%C3%A0+H%C3%A0ng+Kim+Li%C3%AAn/data=!4m7!3m6!1s0x3135ac780d7bffff:0x65248b7838807080!8m2!3d21.0079254!4d105.8385348!16s%2Fg%2F11q2ykc878!19sChIJ__97DXisNTERgHCAOHiLJGU?authuser=0&hl=en&rclk=1",
+        "rating": "",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "",
+        "amenities": [],
+        "location": {
+            "Latitude": 21.0079254,
+            "Longitude": 105.8385348
+        },
+        "website": "",
+        "images": [
+            {
+                "name": "All",
+                "price": null,
+                "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DSkgtU9DzsXJO16vmgLRYA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=234.21751&pitch=0&thumbfov=100",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Street View 360",
+                "price": null,
+                "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DSkgtU9DzsXJO16vmgLRYA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=234.21751&pitch=0&thumbfov=100",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": null,
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 1
+    },
+    {
+        "name": "Nhà hàng Thái - Chai Talay",
+        "created_at": "2025-12-22 15:50:26",
+        "updated_at": "2025-12-22 15:50:26",
+        "logo_url": "https://lh3.googleusercontent.com/p/AF1QipMMLYIgzU5VJXADGLanjwMLK9hClRLW-XJt0YN6",
+        "cover_image_url": "https://lh3.googleusercontent.com/p/AF1QipMMLYIgzU5VJXADGLanjwMLK9hClRLW-XJt0YN6",
+        "intro": "Serves dine-in, Offers takeout, Offers delivery",
+        "policy": "Khách hàng vui lòng liên hệ 84 962 490 602 để biết thêm chi tiết về chính sách của Nhà hàng Thái - Chai Talay.",
+        "note": "Đang cập nhật...",
+        "email": "booking@tripc.ai",
+        "address": "474 P. Xã Đàn",
+        "city": "Hà Nội",
+        "province": "Ha Noi",
+        "county": "Đống Đa",
+        "ward": "Phương Liên",
+        "phone": "84 962 490 602",
+        "google_map_link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+Th%C3%A1i+-+Chai+Talay/data=!4m7!3m6!1s0x3135abca4e950361:0x25740921b181b2a0!8m2!3d21.0167411!4d105.8319768!16s%2Fg%2F11yp7vkshp!19sChIJYQOVTsqrNTERoLKBsSEJdCU?authuser=0&hl=en&rclk=1",
+        "rating": "4.7",
+        "reviews_count": "",
+        "type": "Nhà hàng",
+        "price_range": "100200K",
+        "amenities": [
+            "Serves dine-in",
+            "Offers takeout",
+            "Offers delivery"
+        ],
+        "location": {
+            "Latitude": 21.0167411,
+            "Longitude": 105.8319768
+        },
+        "website": "https://support.google.com/contributionpolicy/answer/7400114ref_topic7422769",
+        "images": [
+            {
+                "name": "Photo 1 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMM3viXRI52IdqwSff5Nnxzy7WN1p0Gk8f7JBas",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 2 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipP72rgsC1WwRV4Kl8bn4qYPiezqmnbAivwp0L3U",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 3 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipMzvCIFARTZsGPfB61UWCu4oK1x2XOfrz-4fGH7",
+                "description": null,
+                "source_type": "photo_menu"
+            },
+            {
+                "name": "Photo 4 of 12",
+                "price": null,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOlsnyHw7msmtzjgwfBQQGs3eNM9Wq1jH5gD4yL",
+                "description": null,
+                "source_type": "photo_menu"
+            }
+        ],
+        "reviews": [
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psT1NVRlJOa1V6WTBkT2VtSldYemhZT0ZselpsRRAB",
+                "author_name": "Tâm Bế",
+                "author_info": "1 review",
+                "rating": "5",
+                "date": "3 weeks ago",
+                "content": "Good",
+                "images": [],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUIzQTcOHiTZqIkw0KKY9_qVuHIY_fv0Zn6O72qhJ5txbdZv4-C",
+                "author_link": "https://www.google.com/maps/contrib/114292750416939823490/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNlpGSnFYMncyWm5CQ1MwOHphakZNZVc4d2VYYxAB",
+                "author_name": "lamkaoo",
+                "author_info": "Local Guide · 207 reviews · 609 photos",
+                "rating": "4",
+                "date": "a week ago",
+                "content": "The restaurant has a fairly spacious interior, with a two-story design that makes for a comfortable and airy seating experience. The staff are quick and enthusiastic, which is a plus 👍 …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uwDz5UjeUvh8x1O0zgu52c3kuUq7R5ncob2XOjE-_Y9FxfNPJuSQcwZ84hvZIGgvWbRITxQDezG1qAoYlL1KxVm40F9l_O4DROFDKGL1PePBhD74wQZTS0vME0DDp7kjU-9ob5p4l43OcC"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWuOq24ifzX5yDFmm-dMJ2a8t_KtYVYYFbWvCCaWDEkjTEt1a5wwg",
+                "author_link": "https://www.google.com/maps/contrib/113273621855683517051/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2preVFuaHhTSGh3TTBwS1NEUmFlRzQyTW1GblZrRRAB",
+                "author_name": "Nhi Do Thanh",
+                "author_info": "1 review · 2 photos",
+                "rating": "5",
+                "date": "4 weeks ago",
+                "content": "The food is rich and quite filling; the restaurant space is normal, nothing decorated in Thai style.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tcFm7QlWa2mdvLYL3mGzPKkawEdFRDjQ_weQOQF8a5bIeAM0_IS6ROBWcBy3Tb-plKfPZYHQqmpa0WsV-FsEoEH0MqYrg7qE-DqC9oJL5dTL2Fdctx3rKsGslg9cWzm6jt4O1CW3lhIMU",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vyEESv239aWvrq62Sw6u9Qff9vPHVdOKar-5rPpo10-SdzxWCQfQ7uXojNmfgddz33N-NCR6mJYuqaKxoeHx26RxA0WBYG8SM9b6bLRJZZhjOdSauh_-95VHGgaXMEROKrHfdM0J5XRDgH"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWW2Qp3xBubITcxEVdPbXKDIb-P-sAenXuYqevfFY4MiJgoJZo",
+                "author_link": "https://www.google.com/maps/contrib/100207000437690574205/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kQmFHdDJWMmRIY0dKV2FsZDZiVE15VWxReUxYYxAB",
+                "author_name": "Hoa Nguyen",
+                "author_info": "Local Guide · 95 reviews · 185 photos",
+                "rating": "5",
+                "date": "4 weeks ago",
+                "content": "The Thai food here is delicious. My family often eats here. The owners are extremely cute, the staff is enthusiastic. …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vDqDgiLy2vDhFRxDtjeLMmkhE79dcFasLhDHHpZ19Qd__4334_eeZDeGgBVX-khLnRgB9Im1-PLot30H2t9FmozzjkojomZSyYQ0VeMJNAFCegWX2Ur_J47DFKUp0lM2wvEluUrBa2IUa8",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vCwWq3S5K1eNRHYIfLXb70RPri63Sc4Y0wg29cP19MVOv66etcdn8txmlo5DN33qtcNE0WGysVmSL9C-PGreDVvZdMIFaqqNqQXsQtRZQ_DL0IUaUmHl2wDyitaMarNNeB1kmXdrfI-Vfm"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUlcqyYxTDh1139uM7SggewlmJLitUyzabQxA7R6XHxaQxdpBog",
+                "author_link": "https://www.google.com/maps/contrib/105943382832571532806/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKYWNtdHVTbUZPV1RGTk9VSnpkRnBvY0hCMk9GRRAB",
+                "author_name": "Duc Phạm",
+                "author_info": "1 review · 1 photo",
+                "rating": "5",
+                "date": "a month ago",
+                "content": "Delicious food. Open and spacious street frontage. Polite and enthusiastic staff.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38sy_Jo62IS4-bUq0IHkwdRRytjA1ee6KxIBBjTVZ8XfrC1A_vfxRofAJStwnd_e8E9vpZLZhQlhRmzxV1BzHJpdXsAWonSWDuytorloTx6gijcXcNnU93v1-Q_aQ838jL1eTH8ztT_DPnoz"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXngB1yLKIZOVHG-S2YgSNgoxVubmDDty9_pEfEjo1T0dHbbmWnjw",
+                "author_link": "https://www.google.com/maps/contrib/106675420010246112432/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeFQzbHVPVGt6WlUxTU1IZEdhMUprVTFGMVpVRRAB",
+                "author_name": "Trung Phong Trinh",
+                "author_info": "5 reviews · 4 photos",
+                "rating": "5",
+                "date": "a month ago",
+                "content": "Delicious food, enthusiastic staff. The Thai dishes here are very suitable for my taste. I have been a customer of the restaurant for more than 10 years.",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vZGTGx6croM7-v12tjoeJJEIsC6YTOhtXmyFoEuPsllvZV9kC-A3Y1UwJ_qsISfAKol6vPkE_0OPJ4mPL_YBjwac6zZotmy2z8EDIr1FRVeuGS1TN9Zz0sw0xfuCQ0ohqn1HAFuVtfttRM"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXZO-yriMghRrqCyRLIiKEp9_glYv01m_XnXWyuCzgdI-F8pdyw",
+                "author_link": "https://www.google.com/maps/contrib/117515810158450739823/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeVgxSlVTblJvUTJrNGFWOWpOemhTZW1WZk9WRRAB",
+                "author_name": "Bích Ngọc Trần",
+                "author_info": "4 reviews · 1 photo",
+                "rating": "5",
+                "date": "a month ago",
+                "content": "The food is quite tasty, the staff is enthusiastic and attentive, the manager is handsome, I will come back to eat next time 😂 …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vBqPnynVtyPLKL6D67KHocudnr7I1nJbsashPZCVWB7NDKP9jtMBG5CW67HRPczBjXh2BLmQdm51GI-HrPbAbGa2QLJypuN49hbiYGutXsd022oHar9nakTFud7ZdvJpczFNFQJE9uMken"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWhvcwdzn7QtsIRvb0DFpY3CUVfmhDnQT0PLX9Di9ECyzy8qvM7JQ",
+                "author_link": "https://www.google.com/maps/contrib/101381810498400822139/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTmFYRktaVlkxTmxWWFdXVkxWbWRCWmpoNlYwRRAB",
+                "author_name": "Linh Thach",
+                "author_info": "1 review · 2 photos",
+                "rating": "5",
+                "date": "a month ago",
+                "content": "My family has been a familiar restaurant for more than 10 years. 5 star rating for the quality of food and service of the restaurant!!!!",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38tpJiNnHDLIfJNJ8G95yEMJ_XIsXLGn8PpFOvDzD73XH7IaqEdiQ1xBR3Hbu6gRyWESaweX97WrRj1QqbPsqeSz33lieXe4vdAR7z9o6QMJ-meXnM-W1b8AmJ7xxGl-WXwDmHvWYLtzvAdD",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vy3BLYRcDXDrgeTkUmYjcX-eUmAajuicTNVkshgVZ5BZQSlNBDAlzzVYadnVdM_WQolAMShc9_aTPcwmtN4f2fpOEJa9uz6W1GQuwAUymK40ju3mZuyE3l_jjHDia5FNqprMRXTgwtyYE"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a/ACg8ocKE-cgya1unm5sUvlOyd4X52VWrRi4yXqWIZPnAzNa5RPJd1A",
+                "author_link": "https://www.google.com/maps/contrib/114502758433955222300/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNVNFNVVka1JSWTE5VE9WRmllRzB4U1hSSVFWRRAB",
+                "author_name": "Namm Hoàngg",
+                "author_info": "Local Guide · 4 reviews · 30 photos",
+                "rating": "5",
+                "date": "a month ago",
+                "content": "Restaurant with airy view on Xa Dan street. Authentic Thai food, delicious spicy and sour Thai hotpot. Attentive and enthusiastic staff",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38swftTAxr0RgQNp-A7zVk8jDBtQdh07TfrRHBfvGP7OirQZh75i4KGXnKVAlgJqReiSnZn8ThNgReVeBjDQpc4y980U3YOdeTTep2L4uvIn9K5omRlGj7TcVmGz4vvuX8LPYLMo77ar079T",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38s7E1c4dl-VMoOgetyErGkIGFh9GOb_qO_Et5fN8YoS_7ISvlz4scwS1I9ZYwHheqcQtokLfn31eEZHAldlWf63pCQUvLbCQxATz8ZJ1mgyFCp0Ul056JCsDEOHpsRa_y6gN57ysJdvIrEL",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38uhVKE0T9OgsDbkFG_AReccUkJwdwqzGVclADI1XRMBQqRYZ3GNZtc3t__SC4ek-c54R2RPWtfP7ihyPtinZsvCW2_cQ5_RtEV__hkoMAqHxWJDqNQmX-4vWReSoa6ROV0eIPL6zbDXhoBm",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38usSG_PFhki12YsuS3dB9rXrjCPXtIytFp629XGcCTE3RFHelcwcUTfLAnAxeDZONqkOXBs3ZfUfKxgA9F6s8QiYF6N1jb5QmY9VjjdrUZ3ab0_TzBvZDYETCzIMH2Hinu7KdC1Iq-AWrvv"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUPgsGck9YG5iisobciqVUNuoLBce4a35_t6kil5U_cvZqYljLj",
+                "author_link": "https://www.google.com/maps/contrib/109348337802422676332/reviews?hl=en"
+            },
+            {
+                "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnM1MwRlpRVTlQY0c1TWFUWk5VVXR1TVVRM1JWRRAB",
+                "author_name": "MiVy 1705",
+                "author_info": "Local Guide · 356 reviews · 1,925 photos",
+                "rating": "5",
+                "date": "a month ago",
+                "content": "Chai Talay has been located on Xa Dan street for a long time. It is one of the must-try Thai restaurants with the criteria of delicious, nutritious and cheap. It's a bit of a pity that you lost your review on Google so now you have to do it …",
+                "images": [
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38umF6xHY8_zZNahEIhKIIEKGgXX6Ben2MzL47JJGrTeCRcGbPJXW4GW68TUJoyYQWZrEYfk1BZMVYwIwqb8p_wlb63Q6d6PHhhf-ZkVXKZorNII5CT21xjGOX8A1oy8jo2GT3H6I1x2bmEq",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vAiiYlSe_IOrx2Le3WvpcD5M0BlXOzrZ1VOSlwoIps7NDTYpl6zhhFOVLAGMxN0hU6PA6eFLQMtLuXANJgy0f6j-qWYCENn7gWCkqDBsiKaZmbRn9GCsVikTSWUpCJRd-FJcY_byP6Fv0",
+                    "https://lh3.googleusercontent.com/geougc-cs/AMBA38vEPoph5X2wyQPGVW34LoAzPOyTZYgAOU4bld7ZW74UbxaZ4RuiITlWe_oX4wNgnijkhrChU4iiQwzHY47GHV6q3Ec_CEf7kY7ZSX3x-mLEsvKpj8XHm51_YN_NQEZYdflCurBc1Eyo3Yg"
+                ],
+                "likes": "0",
+                "author_avatar": "https://lh3.googleusercontent.com/a-/ALV-UjULFpdh2k9-Q7r4ITw3ec8qRxeZgwSX7KTVQq_aEqfyIFqC7UmE",
+                "author_link": "https://www.google.com/maps/contrib/100663875181444305615/reviews?hl=en"
+            }
+        ],
+        "otas": null,
+        "licenses": null,
+        "deleted_at": null,
+        "working_hours": {
+            "monday": [
+                {
+                    "day_of_week": "monday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "14:00",
+                    "is_closed": false
+                }
+            ],
+            "tuesday": [
+                {
+                    "day_of_week": "tuesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "14:00",
+                    "is_closed": false
+                }
+            ],
+            "wednesday": [
+                {
+                    "day_of_week": "wednesday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "14:00",
+                    "is_closed": false
+                }
+            ],
+            "thursday": [
+                {
+                    "day_of_week": "thursday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "14:00",
+                    "is_closed": false
+                }
+            ],
+            "friday": [
+                {
+                    "day_of_week": "friday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "14:00",
+                    "is_closed": false
+                }
+            ],
+            "saturday": [
+                {
+                    "day_of_week": "saturday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "14:00",
+                    "is_closed": false
+                }
+            ],
+            "sunday": [
+                {
+                    "day_of_week": "sunday",
+                    "slot": 1,
+                    "start_time": "10:00",
+                    "end_time": "14:00",
+                    "is_closed": false
+                }
+            ]
+        },
+        "disadvantages": "Đang cập nhật ....",
+        "advantages": "Đang cập nhật ....",
+        "id": 2
+    }
+]
