@@ -1,5 +1,63 @@
 [
     {
+        "time": "2025-12-22 15:23:35",
+        "type": "Nhà hàng",
+        "location": "Hòa Vang, Đà Nẵng",
+        "wards_count": 11,
+        "files": [
+            "output\\data\\2025-12-22_12-52-55_nhà_hàng_hòa_bắc_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_13-10-27_nhà_hàng_hòa_châu_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_13-25-35_nhà_hàng_hòa_khương_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_13-37-06_nhà_hàng_hòa_liên_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_13-54-46_nhà_hàng_hòa_nhơn_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_14-02-00_nhà_hàng_hòa_ninh_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_14-16-52_nhà_hàng_hòa_phong_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_14-33-20_nhà_hàng_hòa_phú_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_14-51-42_nhà_hàng_hòa_phước_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_15-07-25_nhà_hàng_hòa_sơn_hòa_vang_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_15-23-34_nhà_hàng_hòa_tiến_hòa_vang_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-22 12:45:17",
+        "type": "Nhà hàng",
+        "location": "Ngũ Hành Sơn, Đà Nẵng",
+        "wards_count": 3,
+        "files": [
+            "output\\data\\2025-12-22_12-31-41_nhà_hàng_ngũ_hành_sơn_ngũ_hành_sơn_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-38-49_nhà_hàng_hòa_hải_ngũ_hành_sơn_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-45-17_nhà_hàng_mỹ_an_ngũ_hành_sơn_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-22 12:23:51",
+        "type": "Nhà hàng",
+        "location": "Sơn Trà, Đà Nẵng",
+        "wards_count": 6,
+        "files": [
+            "output\\data\\2025-12-22_12-08-10_nhà_hàng_an_hải_bắc_sơn_trà_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-13-54_nhà_hàng_an_hải_đông_sơn_trà_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-16-16_nhà_hàng_an_hải_tây_sơn_trà_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-18-33_nhà_hàng_mân_thái_sơn_trà_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-21-25_nhà_hàng_nại_hiên_đông_sơn_trà_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-23-51_nhà_hàng_phước_mỹ_sơn_trà_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
+        "time": "2025-12-22 12:02:30",
+        "type": "Nhà hàng",
+        "location": "Cẩm Lệ, Đà Nẵng",
+        "wards_count": 6,
+        "files": [
+            "output\\data\\2025-12-22_11-39-17_nhà_hàng_hòa_an_cẩm_lệ_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_11-45-37_nhà_hàng_hòa_phát_cẩm_lệ_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_11-48-55_nhà_hàng_hòa_thọ_đông_cẩm_lệ_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_11-53-03_nhà_hàng_hòa_thọ_tây_cẩm_lệ_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_11-56-19_nhà_hàng_hòa_xuân_cẩm_lệ_đà_nẵng_việt_nam.json",
+            "output\\data\\2025-12-22_12-02-30_nhà_hàng_khuê_trung_cẩm_lệ_đà_nẵng_việt_nam.json"
+        ]
+    },
+    {
         "time": "2025-12-18 09:29:36",
         "type": "Nhà hàng",
         "location": "Ba Đình, Hà Nội",
