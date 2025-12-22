@@ -1,5 +1,31 @@
 [
     {
+        "time": "2025-12-22 16:00:54",
+        "type": "Nhà hàng",
+        "location": "Hoàn Kiếm, Hà Nội",
+        "wards_count": 18,
+        "files": [
+            "output\\data\\2025-12-22_14-40-43_nhà_hàng_hoàn_kiếm_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_14-45-43_nhà_hàng_cửa_nam_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_14-47-20_nhà_hàng_hồng_hà_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_14-53-09_nhà_hàng_chương_dương_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_14-57-19_nhà_hàng_phúc_tân_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-02-57_nhà_hàng_đồng_xuân_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-06-00_nhà_hàng_hàng_bạc_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-10-06_nhà_hàng_hàng_bồ_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-14-16_nhà_hàng_hàng_bông_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-18-55_nhà_hàng_hàng_buồm_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-22-42_nhà_hàng_hàng_đào_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-28-18_nhà_hàng_hàng_gai_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-32-25_nhà_hàng_hàng_mã_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-37-48_nhà_hàng_hàng_trống_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-44-41_nhà_hàng_lý_thái_tổ_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-51-53_nhà_hàng_phan_chu_trinh_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_15-56-19_nhà_hàng_trần_hưng_đạo_hoàn_kiếm_hà_nội_việt_nam.json",
+            "output\\data\\2025-12-22_16-00-54_nhà_hàng_tràng_tiền_hoàn_kiếm_hà_nội_việt_nam.json"
+        ]
+    },
+    {
         "time": "2025-12-22 14:29:41",
         "type": "Nhà hàng",
         "location": "Quận 4, Hồ Chí Minh",
